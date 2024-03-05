@@ -1,0 +1,19 @@
+package es.pruebaAnnotations;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class UsoAnnotations {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Leer el XML de configuracion
+		ClassPathXmlApplicationContext contexto = new ClassPathXmlApplicationContext("ApplicationContext.xml");
+
+		//pedir un beaan al contenedor
+		
+		//usar el bean
+		
+		//cerrar el contexto
+	}
+
+}

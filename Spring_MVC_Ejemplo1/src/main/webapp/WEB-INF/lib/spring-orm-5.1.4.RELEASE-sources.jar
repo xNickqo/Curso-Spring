@@ -1,0 +1,4226 @@
+ "SPDXRef-Package-AB04CB4B24C2F7D65DA5C3A4C83AF3EA37CF86549B4684FDA71CA2C021BBDFA5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F4A71743A2D70E7EAB0180DD8B8DA1E6AB35C4D89D29B262D220E374CC64BFF8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B22A0F1537044C2D742862CDE2A5C168FA103428D650B30B67F4C440290754A9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AFC3F226A7DD1C458D2FE89436F9382261E820CC58B9A4BAFC871ECEAD6788A4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6A5D850C360225215197CCCA30732E49DA08787448FEB6EC5AC55E652F886B3B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5A998DC487DBF13AD390F317677006F93D03883D946212849AD582DE216E9EBD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DFEB88574B6F9081A225AC0ABD87458468E63D81F50C39D94B959DD9D4C3B87C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7F665EAFFF17F2C86253A17E8F04BB04A14FD742E699A6B2BB208024E631050E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-83E58802B333BB42007BED7D8ACE9D1D8B06ECB33C35C6D9831B45CF8C7ECECC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-85707653965923C56B79C805E6E4CE8C5B4110709A2800C4BD0675AB9DA57095",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-491D8FBB0C9909C931666A2FB39FA8540257D5F88FB83BE182D935D91CE04043",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C9FE2DE7C5E6BF4C99E3470DE7FB6626E290F05ACC1603CF8103DA9A010D64B1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7F8E96819CF29AC950D172410418C6DCA2B296C2A77B0E8D4D8EB81EF9E7F5C9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B748FA8DF553225AC71EB9FA0B6A7A3BB273F8C1660E068CCDFD2CA6AF2630A9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E4E2F966322609D6731A3F929152BF5F8CF29AA43E28DDFA8FC075BFAC955762",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-54B36B95641FE959E4B8B8AD232F01D2067654D89255972CCFFD9E65555C5422",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3C31D83CEB82759745C2E0F6AC304CE757A0F8DA78E421586AB9FFBD94EB8EED",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F17D541FDB05531D4FACF28766D18DAC345BD814924EAE0831948EF8658E5E1E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5C8623C48A63891E54354EEFB299101C39660EEF063BC7AB491A66B19FC53FFE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-682F0C3AC69C967AAB7E715E6AAE9B168DDF089C1070097536FFFE1156EDA8B7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B37281C638696E2CB81D21AEAE03717D1AA842603E4BCE56E0B58C46879589A8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D8DBC3E96AB39D54B60D82156D1E27299D8A8DFFAF430EE9C592910F3AF3261D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-454B8D080D1B0D0C083CC758110316110A498D6BDE0708DB1F25A8131919A29A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A484BBC92FBAC6EA991BC4EEB8FF7C5D273C5EDBCD0CD1FC051D92AB1BA753E0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7236A36B72AF3EF641F59DDDEE123928B21968882EC7EF534A13CB0775BFE3C7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-334F098BE0E616A4898405EB87226B7051EDC50A8E104B625A675C9140AE6756",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7E7F1BB8D9FFA1058C5D58BEFCB88FF5CA0788256E90AA926C17B32EF9EB6FA0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7C4F2FE420787F591156CF056CBA3A85EA9C22ED560A77E213D82E225D0FF217",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4B58F5A0FE3E5CF8D00A7667C7055C944D2371436E1A63BF4523535E5C9BD820",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-675C148C290DE6B821627960E84C16672CB27ECF427EDA8E858642EE6DAABB12",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-69721E0CBB07D584DC7F47B15A9C4139AE61E28DC9C8729B147C58E66B34872F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-37A1483DD1763AB3C4B23B88CDA41D11D4E3F6ED794DDB199BB90D62AC5F8FCB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DC9BC6D205A7D9A70DB1F0D45E6855CE5CDC1757A32273FF37A6C40E909E9609",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-292242D929C095969D14C3F71B917873F84F8100F438D2A00F237A24BCFE82E8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9A9C54FA6E8D827BCC5A2A67E7588D52B040472A7A279D7CEF757B16132B54F9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-338E60A2E4A29F7D27EFB0BD4FD5CF4C6AB0E68EF8AAF9B4BBDA971BA5CC22B4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-816CE8C9EA7BAD6F85722A5A81B88E924454A65A231C56817B7B8C88EE68B58B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-974524F82F4097CBE86E47EB81D668D87FB8AC488F9C616BD37808156A5BB249",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EAD4CBC063A7F02F174518A155AEE6699DEA6CC2A91DEFD6AB3A29A6D78373C9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E598D3DAE820A690A93550684807D972F132F5E18976A81EE3EFC1EFFCCFC77F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-86E55E6BD2CF9ACA3E60E413906063D6C899A954FAF72E50D288BAB8050FC888",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-38B4EFFFE3C79FD3A191BF0E1220571A51CFA67DE5E02FE747CDEC6FEAD4BB96",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2A637C800E2C5E49D83BE6391FD8F3C5F8D13762FE7D57240C76450FC3619988",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-18AE0485BCBE51258657304559BDB2D9D1929C0030ABE45411B8F8712751C1E3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-54128BB0739C771BF6785EB0F1ED4ABB8863D10E414B1DF1ABC5481D0946A8B1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8A21E3F8FEC1B9C9BC9A8619E43FB82676C3E3582CBFBEC54448BFA04BB2A0D8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7E8AE18D1C96EA0832D852DECBE7D56658477DCA21C4FE7103FE29A73CFD9D19",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F337DF6FC23AF8A939D20A08720D077F772EC1081A608B42C6F4072BA8D73D21",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1662A8EBC3E92DE8681905393A1F0CF7A300B2F6A8FACBCD790B24DF81BB6F1A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DC9EA58C346D68BFD25AAA94361808A72A1FBA6AB7F18745AE6A82101EF02603",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-207C5C29A1034FFF49F1BCC15DB0FA802F6F89746937260611763FFE92F929CE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-553380F74AC292551058DB0847FC681A851238AFB2B14C97035A585557B074F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AC51C73DC30A717BE900EA5BBABA9BEF756D757CB63C983A5788167276BF6510",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1CE1A41AFE208EDE54874519E57C9A4417062463001AC9C2C2C6A055E2B07FE4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FAFABED67595D04B039AA6A5BE92CD0A22D649946E26667936C16270ECB14819",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-82AD475EF28EA4341DBC68DB0BB476B1A1243B93A3281628BF3D41A3A7E821E3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F78A3A10030C5F1C8E4D2DEB057ECA7AE07A892EAC404DF61C4D8670EBA173D0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-265BC16BEB8B977AF18A1CA3FB7CFCAB01772F2C0BB9FE36179B494035050749",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-612FCE2C9875C108F87EA88C82F4569CB4872760D60B90165184D12EAD3DC737",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ECF37BA6856E602B2CA07B78C5856BAEB6FDABD0F4D1AA4510FC04177EE2651E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7CCC7FB9AE7E5851F58BC3FAFE5F6ACBFAF658BEE00E8ADE8E6F1127EC34D069",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-92497F55FA5132F72F8D0F5650B8B3A716F8438BEF1EAEAD9FF2BC991F2E8F68",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-302C58DAF1DD5F86ED81D0F03CEDB33872B2137CBCA881B3B881E0674B6DC812",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-798992E19BB9FFF4C84B377CAEC3742C722AE000B38E6564D24EFB784433250E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-11F745E01703F5504DAFCC8C0BDAF9C00B67EF533BE0A08F6A4B19FF50DFA567",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C6951C32F25AEF3D7920B19923EC466DF761617098331416845ABA64863518C1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FBCDF901EC6A5FF4129828A5818C44590EC443A8C0BAE3428C9A2A8A82604615",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-855F31DB1AC7BD03631C3120F033C7F42357FCF1A8F85EDD02DD8B4C5CBFE6BE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-13CD7CA09C4006E95D555A3085533AF680BE292DD2953B9B38759EF5843A0B21",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8ECEB105D34F3B9EE4FB3C1D7B7C0F627D4B39B185EA83CA6212AA0C64E8B03D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5DEF28CABF2A5EE512F381497F27A63E62F16823A53A5B5AC99B13C0DEB14DC6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-35958C4405AD3115E1D31CD58E9371519CD74B1B5A59306BCC392E864C3A1998",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F8560A9BFD823AAD92450E0C5A6692683EBAEE0D21C6CDA24784991B9DF3405E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B32384BD498D95A3292EB065BF42FA1AE558ECDF68CA9AC32188864DE3C74E70",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DF0AFBD8FF1840546C8F0A9A9240E7A993204923829566BA97F4C76A2144DC12",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7AA381BA068E8976B05290C54987BA3D89356042736FEF43FA169685B572B06F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2297FBF5DAC7CC987BC166AE456E89F6AAF5EC7C3DF73F064B4CA233D4E63FD6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-237F8E7B72B9A1E7560240518CCCB406CE02DAC6CF2D613474CD04BC7BADCB29",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-95E0465C7F2340E61C7BE2293D6CD5309565F3D0226CD575EB2D9D4AB645A663",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B591713400BBDBC928331D7FE7DAD3D5A978A3236A389DBEAB73C0288E3A50CA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-332C74DE2DB5A1C3BDDEDB239BA3E2A5C0A11CAF635714A06007560F045D156C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FFA70A0A3896AE8634F1F4ECF3D7B4A4DA28226817BC9084ECE13DCBD546E7FE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D04F754DDB50606797BCC8F654FB486147711D80290426FCF8C93B4A3B8068F6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B7222948EF0D0BB3EA6C36888EC518C0E63123FD3E7B6B9D500DE27DB812828A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-92BC0EDA1AB6C5793748A8C7A8DF4729C34769206555ADC48F2661470E2B9437",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D6E7306A19A3FA3FEC4726E467B717469BF402D4142CA0C366F6F624A184CEF9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2AE692DE028D34154EC9460AB97725C617905A24A350C40524627D46D9E73533",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0CB839D39817B2A11EC0EF1D76CC234F6C3BF6C213761BCEC82898235563FC05",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2458C36F3F60321CA9AA2630DC454FA0ECF5FA7B2E3F88648E1B53EA4FD3F4FA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8C9E6CDF5A3965FC0FEDE714766A4036CF603EBC913156427BCD30A3765B99C9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7CDCD81517C7C2EE6EB48EAD64F14DB1CABC6C30C154A60380E88C6B9E9E26F7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B01678BE664CF8627225D6A23A66621DB45F6D21BC521272BE5F375234060D39",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-42F2C0FFDDA204A75A2F736DAD020AE6D73314FCBB1906CCEAFCEBE1E732641D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-58A9A50F80DBA13F90378D9B6C18E7312BFC39FFF25DF7AA3FC60F7E315447F9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D9AD1E7657B7DD9027C6F9124F873806848F55E7C136D2A757AFD50CD29B8ACC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-915B5E4A48BBDD21DBC61AC95DC64F7A7999DCBB6E0B5C93E8A340503212A779",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CA78A2A589F79C100D2A8D138418AACAEABD701D71680E8507C6C35BD5C13E9D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1011392A04F3FB77081BC7D7A5C8222843ECDB471024B17E155B96CAFEE6D3F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-55D874B9ED55F59BF5D976D20D95EC58276E224EF28506ADCB58D80BEAA699B0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C336503E4BB13736E48636951AEC43DF6BD5DAD332C9FF595DDA9B06F9EC6064",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7BBCACE391B8FEAE6B8C485399C6A84C96D587BA544A3D15BA508614FC602CB7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2D09EBD73D4FC5A81F49A76253E4F1A978EDABBFE6B273D4C38981AE23F7B7EC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C776F9B443F4CF437F18E63CD7DA525CAC8740BAF78FC081191CD8784104BC1B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-77EAECACA706BD2651D60E0A6464D1B895720F2789196797C745A1D3C8C4C976",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F95B5E392385D0ABF46D0ACE2ABA22E371D6CD35029D641BFECCBA078753FF4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-03FDE1DAF27136135C403B54BDC4E05D100294F03C064548B0C01DDD8B31115F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7FB374C947EB33D4E410B87CEAD9C1AEB490704A5B3FFF2F297BF3116E948D0A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-17760037CC43BF463CDECDFD4694684FA7EF5C642D774E07441C88665CF96032",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F94A19B5769DBD90870C25F129E815E1F2D3B55B672D5E4C5F75C6D68A28B916",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9F89CF75F5914978924C64152745A6C40AC27C7F69952A2C7E4B20FB567C8F0C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4A15F8216FE58E2C28D12EC9601269A4DF4B0A1478DE6D691CB240C99E89CC87",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3F70EFFD743AAA24E882946BBB48F15EB4962A48F46A71C864955B7AD1E18A15",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8CFC50F1D2E1F518982B50487A267BE283A068CCF20979A343F8B01F6D2E43BC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0B0AE39F89D289FFF21391FF6825FA7F81B0E63EAC83563FBE95A6DD26DA4234",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-89DEA22FA98725B042F3B5F4C22C63C795322E6246EF64BB5B6896A4DEA6B7AF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B75E53D1ED9CF49419610E27528D83C46667731A113FBF9394F69A2F1056ED8A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BD2DC673AE68CD70B3D79BFCD09848600BD45A085055AB418B417B736A52E731",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3A763F60B375E99DD3E5F8D58411DA5C89BF363CE4709039FA71B2A7F2B6AA08",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-507E0DA71FE37DC17F6B686DF8A797A19D7B037A01D1FA83BE2FEE0026F399B9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3A830640F0679EF34EDA9D38F33C45DA51334A832A8FC724D58930CE52E6D6FD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A1AF29446D621D9535ECF53664078DA5BB39D473E8FCEADA8EFFB696BC67B33C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BDECA7E46F11F52E38BE3356A55597274025C83D3A0238E1DFD450793213A1B1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EC6C3EAE3E40FBAC9FFCBA6C5259A2E0F795E455B44B5A681338AAD1925488E2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BBCD49C55BBE46CDE99FFBECE83732DE7F4FF3839801ED87C90F77D58EDD20DA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E9A48F3DBE653C7822D24DCED8C6603CFF71667625724751E828F6EDA11105B4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5FFC1949D04691FAC8333DB6B7C995B852EDB818A9713FADA9BB4DC470B7080D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FFAB77F7D3994B5CD8C57CF63EF7C523765E7D1201FBEC050435BD8DDFDB5DD0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-573852091F0B95BA0DA4572A0F6358B4C7C834AF1A7A3F2496CEDEC553A961F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1C88D8F4039982C5FC7E216C0A813C21E567DCA233BF98EB1CE52D4C8514D7A2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9CF360EDAF3AF8C1E7586E35628BAE03EC02A428A82928B72C1B188E62B1360E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BA414DCEAE1EBD7A652DAE674CC514D780A3BFAE4F381CF818733F7BF76516FB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BBE4EDE34B3E64896E189BFF83C9ED717C59056FF4734F18E95C55914AAA390C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0EA496902A3D26461D0EE420212EF9406CFFB017E81C730899880F6ED8C60426",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AB59C33E6BC0FDBB05F131DDF7CB8CBF071DCBF81F4DD530EBEA6CEBBC72DDA3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C6E2E7C6BE9193DAAC6D205574000564B13EFB14190B2C9AA53E533D56EC2EF4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EF53EA6748C3F914441C4E55C2B6207FEB6BEB1A7744294B8DA79D34DF44A6ED",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BD4703F7F1CF0D1A35290F090123494FB0B636CF8F30E30F3087C49AE74A64C2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-38E089D6F2C0E2F26C68551742406BC8F7C94998B56E345F6383CF54757EFCCE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1E056CCF2AE44FE8631ECA7108CFA85E5E3E292EA8BB45859ED1993CC96DFD40",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C6626410AB8FA553BEC764B7E69E8DCCEBB02268878FE92BC61172CAAEC42B6A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-36B37F847AB483A0EDA6B2C097E8708CB4794539D451B2AF9DF73BF3F2317DEA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8B57048DC20FE42746512A2726C72C24AD093765A1FEDD5212247C913637F2EF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DEFA6FED815CF30BFF0E966A41380F36BC3D1F0A97235360F4607EC485426B4B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6A62B3728ED0E8567D42922347C4DBB3CF7AC8B4364FAC03A41212199E447F6D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8B0B7C2172B77C82D78AB3C08611AC6A9084899EEE7947A881D3D88572D7A68E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-774C9E0C676F9E81B17A705913E96F867758FF589E5B8195A0FF2EC089C861CD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-28C6613B8576F17F4EE16565F0CFB7748A5A7D5B24EBE314CCFEA27B0C0757D6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1FD8BC29BEE2620C931BBAB53C449AFA4229C784A355A91B344239A7476CD00D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-325B566A1FEAF114EAF6BE6755D38B73BA8831A724C513BC19B193C8F9F03001",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-61F5D588A1DDBFD9C425681FB243358FC5DCB0AA4164C990BFAFFC444BFD404D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-03E31AFDC01090BC87AC3296081AF04E4BC6A0DE5B3ADFB4AEDAE1DD13ADBB3E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-667794F849B1F89C3854F9101583674483CE0CA6B154B0368B82981F9A69E516",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E351B26DD0D5BC7D36FAF3007C19FD807F8969BF99549C47B01DA61ACC7FAEFF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5005D1AA6002649FAFA95F3540ADB1AAE6EF8C0395288EE55DDEC51D579053FC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-49F2F92783D0A93C03E3A0AE5CC9105ADB937167BA96210992CB92344AC9470E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-555048CB43992712344DB0EE80E02DDC8A51E64167FD68E7518FF73564B00D56",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D1AB25EA1DAD71A9A38BB0D18F8101737660C2E6A0D42B3484320A9E1137FF93",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-890B293224EB650630865C7EE04BACC9CEBA7740013D6C70048814D9C13AC855",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-18D26F1A45713A7660EBEC7E6BB934895E5ACCDFEB41DEE47A723000A1F5A20E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A0A655F9CD0AA0EEA9C0D04E04C8FD805D65CE718C7A1535C9DFC844537C2C30",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9B13FDE773715E521F631343CC5FF0D9E989ABE4BBD5E2F0547810EDE7E52C0B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3EFE3C8ED719DE2E3E11A77808486DD57076C4AF4820C99CF79BE8A460FDF7B9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E9F4977B90A193F84341533FBDB45C046FFE32F2916F70FDA81915E5110705FF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ADE7C224116B67A81AE36A8B64AE1B7A32A1AC9FE8787013385B9210E4C0965A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C0BE003D9479206B8D3132DCD22141510338BF5E0797A627A18098ADFB946E9F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E7FD43FA003A43B03EDAC6DD5EDE293708BE867FD68361AFC12682568B70A7CE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BEC091CE7D84AFB040658202E434AF9C4C685D548905034FF0CDB81010B9E28E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BE940E184444DF7C32787A102D283DEBF65147A08351EE3279DA58151CE731EF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-23DE825486E377EE419FDA701FACE34CBCAB164FC91BF166F85AF080A73C34A1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1C2C02C14CF611CAD047AD71C39A33B26AB590B4C3C6D4CC549A661E94D6CD75",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A34F7A8A3B7F4538325EB218B82EF2388B465689B16A7EECB87F179A4A36E9C7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7BE7A66FC0ACBE593E58BED635D59D2F071241500EDF6B1530F2B639633F528A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D575407BFDC1B048EEBE5369CD63636F5057843760151192771637A90A3D1A60",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D73BDE52F71A0439F702B131BB8A3EC45EE50C580E7AB8EBB5E7A8D4F5D37FAE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-43BBA9E3CE89B74B681BE0446114D0C5AD89FA25E161513F865FAAAFBB1D6282",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9330CB86D75D5338411DC4B7081402810E2802A2FE64B7DFED0E481ED53009DB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9D5E79F38425FF76185D5E945CC77744C5FBFEAC46BCC1773DCB16CF19E1A43C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-12F6E280F35167863F950849AB880BE9B02F4680E60D6B5A0C35E3AF3BD6D57B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-97B7A8008D02A4BE8D6EA74D55ABAA1E2425F957E963DFAA0E525A45BD3AC184",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-097A0D786C1BD20444405844F153A5629651ACA6D103D3C2192678E495CF3C9B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-210F58CBA48E2634BE0CDC4109E79C5AF09D29725B69C84888037C328DB9A2F4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7045B2BB5654F52D1FE4FE5309DB991C5DC41D600395A3B2A81E0A5DE0CF8A3C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-970F6DF8763149372C913A389899E796E9D94146901FB386D63F87B0B894AC0D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C30E23FFE2396F709BDC2B0287F87AFA4C7022340702DECC7B8E26681159E094",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5DDC1A20D2BEDCD99FF08488002CF3C67A11CE1A97CE6D25D20C524110FA70BA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8AFC92B010965890254656047A546F33A7A7932E3066BA733EDCCE977CD29D40",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9C9CF80713AE51B7D322C6F48D18FE801CD93B89C1B96772BE2E3AA935E074D1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-26A7E9C3AA870D6D24C837B73521771B79DD157EE82955748E6A8B2366C3025A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BCAF47B2C5536D43E2C34E3D74D5259CD2C1182ED8DBFDB9671033BFB1432069",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B576599C1235EE5E5241576214DDBD63D7443A24498FA139B9E2B35A0CE619F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-875BA011915594887562F9DC65F566A3FA8C1030D686C4EEC7CF22BC0FE43406",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-744E4DDFAD3E050E6469D40138D70C9E092FB71B2F76864D3EC1A5C44D3E7BA8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D49DB7AC7A6353DD4E6AB4B3FD69D166ACE2F2C75FDC2337F5DA113308CC99DF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-710972331E8C85642A069B5F7E773CE9EA94A5416232FD3F3938E155536E2BE4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-631C392F628686599489A9D09431FB089DCB3FF96140D26B2F3F948855315EDB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BA7462F09E27201234BDF8AA9E752821647917CD7D0672151BD6EA4C9146850D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-81BC282412AAF6DC3A7234220326955FCE133427D79D97BD951B9CFFD43D55CB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7C6BE9A118B57B776D1F260D9822A3C484D2BBE6C76D1FE263EFC1837A6C1126",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AC53F13F175F4788F5BCB5FE801B022AA49A88E18A90585F558925CBF122ABD5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F245E88786501E8111C8BF365B9D149971F3BEF2D69211FFA3F8155FF72FF891",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-01A21C7633A23D88F917CC8CF963AB720C0F5E2E85C8E41432CB50198807F0B8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-23A5A1EE719D6C16AC094F6DD098E13738A92658B7A39ABBEDE9436C25FC12DA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0FD01931A60C7EEA3498A7BFE59258D4A1F74640A401B34FD6B2C9DC665C4CA1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1E181E0150CBC567BCA02D936AED19E0EEB983EC976405DED5498EA982A91D0F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1DE1D4E46111FEE59608FA6682285DE7211CF1A5933400F16572377D9BAAF1C7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A0ECD3429022156A6188C251FA004F90ACE0C7BA1378EEAD60191ED242A74BD2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-886893E92ACD81427106D35B69A55D1F66F3C415623A5BC3A1DE8C599C8C80E1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F158BA53F6387C43F023B7A4BA05018084B099C1C2FCE7E1CBF54A704B457F5A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-997555E2F46E1B3544DD161320191264DB7313ABA46937D533389087D9B4C0DA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F3E67EF5BACBD78BC07C649ECF6F08BF4C99B8CAB47D0DA7BDC820C73B27D8C8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8322D3760EB08A819B6B451EED9E93E6F2BFFB2AF8B0B06C7536B6B214BF17DD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F1DECEF8DF4A8AD2C803E2221DFC89DEE0D795CE138F88A51B93E08E79F7AA88",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C8F31045796C00D4C9D77ECDBB6138C79BF7D08B1ACD2DC4AE30074D6272477D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-521BFDD4708165F8EF97468DBAD17B00B0E127168FF41CA58279530A36A99D1A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6950BECF3F9F71F55D951ED4A08F681F9BA08825185E5B2D12E75416764DFBD2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9321BBB123BC32492B5FB984DC5F7FF5DECB456C5CD4E175516D5360AFAFE884",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F59AA5BF00D4C29D9C89CC2E6FDD23C94BF8F79CEAC3CC4506008BEC39F184FA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4DE0C9E8C5A1657526C27B2C2A64DBCAA69F60FAE88B0C24615931F16E938E94",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0E6721745466B2AA676429FB322EA6DE830C6B3504042CAB7EC41697016ACE34",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5B73290D1A236E2A1A07754D1B7DB29A47347A7E2608D4A5D6566FFEA2467A8E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-744A0A24DC625B5BC7A513E9B3A41A7BEB3527FBCF69BF38EE192FBF8FB5E703",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F7F6D1645D604C5A28A961CBCB09E01B7CFD4AAE5022E7A27358B2EB307929B7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A24B67C61FBA558D7DD45E69DCD73BB8C007A167BEBFBE6A21EE17CFF4BC223F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6DE30E5678C94321D3F66C36BCD1C923ECE9C32764A55824FD632E65121775E9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FB6F45DBB592C8814B1CA4A8B22B4F691F066752FEDC214C92F8DF7A2B60C888",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6AA9D1980585EF661E579062037EBD5E85EEC0EB14FF60AA18CBCE465730CD50",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-254BDFC882AF3B1EE186BFE62DCCB7B75F8372066EFE6C9126530B9877603A1A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-766C92D909C63413BF3B988626BCDCCDEA280E566C7D51339943566549FF89B9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-997217821108AAACC0F48D1EE256C37CC9727EE25267AE3C9BF65EB51B244637",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DE62A5EFFFCCFC7572C1A7EF4A7DF8A0359F3C2A82A456A0497F3FE458D3D75C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-395D3EAEE743FE6F2E541815C08C8C9CAE247942E05C49C4B89658F69808195A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-550B23203A0EF42A95F5014D4159D487CA87F07A05A114CC9DAC613AB3EDD349",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A584DC98AF1E92BCB9AA408EE7E47E3729B3BDF1557794DA881E897532DE7C93",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0711F9F234FC6454DE9CF6B482005F755406A51E042DDB37B3B72B1A79824145",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C68661A2409A7BE32EAE1A845F96D76B50096378EA72C617CC39097572CF9BA1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9B815974720BE2D7B9B9018B41A9DA63D61053546ADD5CCD5022AC5C597CE0B2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FD2255C3C5323A75059A9E0096939C3C3FBBF122D6AB3B48FED03E387DEBDAAB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4BBECFAC6CAC41D25767401EE0891A9A4162AA0C6A2F2B7B5E88546DE13C5007",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-96349B8A12F9F7F458B1F8B3C228E71A2E55A1F11EB92AD4C384A5EDE64BCD71",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EC285714C5A20901E773D2FDC32DA2B42FB7F853C7B41AD36C4E3A6328746BE7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F1C1F582486A0CD7F6CA8DC0EAFD8C7F0A12336B654EEB4F0469CE204F1F6582",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6FA2CAEB2101A08BE0E582279419C808C2295886733D7DF032567CCFAD48A154",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CEEE8DC0A7508C974FC1203CE01718525DD2B7450BCB7849BC60DE3FB999D381",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C2F1DD692B263385CCAF2C70C2FE36CCD501116AD0E90AE36B62CAADBC936C95",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-01668513A1B882E8F6002C7D79995B2089B54C9BC9F8C97A267715BA0118A669",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-87A17A98BD1A3AB0A7E6397AB880DC8EA1131E5163C5E2D7082A1752BE241E5F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EABB2B1208A34E5BF6030ADE8DC5A904F54A63840E5BD626372C6778D2413818",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-825BED338534608E70ECC844A1795B4298B55B6D257D9ABF2B7C7D839A0BD76B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DC0AF6882CC828BC70C169124C3AD11F93B2016EDBF1E0021CBF4E91EF9404B1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ED044C40175654F66BC55B549380B3EAEE63F918D78CFC0D519631AAEEDFE342",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-53D89FE63358FCA2DBBE6EFA0BCB5DCA4CE1A2DF90D37E8E657FC727199199FB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F0F3C91A2F0AA4EED121A2C0F90341F5951F3CBABE6A7525C8808382BD30706B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D68D9A67A4AB48CF76C3A9EAF8C90C3D486A90BD481E0A8D5DBFCC220F3B84F4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CDE8F9716B489C88D4A156F2AAD46D184284B64E10B9957E7F02B6FD2CC8F3D1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E76D1C2E3C329244076BC7A7D37C9A3B77B5885CB3B26AE6A53714029FFDAB94",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7FE30832CAF749001627A22379C1D1E8D71181780B9411FD583555163F4C2468",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DA5C33718E24444705C01017170EA5E75D02BF7F837CA9AC01D775994CE4F4FC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A6EEDF7F8482185E2E8E8DD6A9DFBBB945F256E1965C733082BB0486A385AAC1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B39D8803BDC505645EEC2BD717DB5F6543FF69843246629451A68D176BE0B9F2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-633E11AAE96D0DBA4DE7C85D328DE6657E1BE47EFA25AFACF228F0788F2FD3C9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C52A5B3EB2C77B9539CC52F401B9E3A3422A53E342978DBD6BC4189FFE2AFB7D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4F386CBB583397993CBDA57C0DFD78264BFBF06B78B799E3D84AFC86C0A63CA2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8057C4B1295FC89BFBA14FB8C2BB458D5C99BE0372DD3214A6EDD9BDF70447B3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CAF8256339C34BF98D28B480A4D0A9818D01E9B6DA88DD48BD2D6030320280F4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-27CDBD20DCEA338AB2BC83D2AF4DB0F660291FDAF31D6DE73FCE76C593373765",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2BEF42F331EA7542BD487B2C144612D0136AB2799646CE60B3B7B67F1973BBE1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7FA8358F69205448338CD49FDCAE0897235569B742D53E854671FEC08368220D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E53E9089A03F71C3EB385E0043B24883156352178D9C12F1B1147855A45B10F9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-50E6573D1703EEB44DC46DB71F06F2E42CBE35AFD0643318DC850449661FAEC3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6B263618F54AC21F9FA4512409BD9A356ACF2C1A5C4DA6BEC055322D9D8D8CF7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C533D5DC90A7C2F792C997F9EAFBAE1A63AD5826F478BE274E87811F51569508",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B88743379C3A499979674DE111C49102A1D4B9FBE8A32562053602FD0157DB39",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-71BC26761E3CC5FCB17C69BA4D211B6B01F639EBC8FFB8BF95334C7ED3164409",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E078FB58DE3F3AAFA8A52E3AE135E26FAA17CF0B6343A1B297B6C79E7E704AB9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A6F5955B4B4266A461E1D3749B7C0C0D91A47EB907277589834330CB30693463",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-188833CED059D470DB1EFC290C34634F4E414AA141E1D238BC98F4274FAB0418",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D5F94C44CC6F7D4E149C1373904167E1B386148D8597F95638A4A595A173ED3D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1307728AA50C8A2EF3FDEA13A5F22FCA488C2C4C9A9098D90331CEBE48454391",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C1FE706166451A4A7D08D047861F21343C0758A0970C181859C11223088365C8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F37EC628DC79A85737BC7D676FF56877683CA7FE856C9B17FB91CBF4BA4FE3A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-68A347E90ED295D0DF7862F5E1A68C643413A3EC2082B2D3A2F07D27DBD5ADFA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-16D557CB2FE61C581E9E9A154C1DF86E0598B5C528DC453241E826C4B4B7E6F2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-26B6B79422B798ED54092109CF3D47AE7B52EA2633DBD0EBDD860B7900FB9A27",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5B1C5056BA37997827D5CBE46B1FA573C7A8D5B6604F9EFA9816E2E380DF95CA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F86828BF62592D4CE42B5FCF6A3CD0A6194CAED0523C5AE7990C4AE8F957B92D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A3055658619EAD3149353C078F92CA05D2BCAAFD81574EA3C2C86CD73C09276B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8F296A31330862AACBDF9F8ACE1430B74A572F42305448084D77F72733F1A203",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5C66BC4AA18A321197795B81CBAAC219580593841D0EA29ECB2F6B17530DB1C0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C1D1D6E2BD2393E2EB741ECBA59B03D35DD92480ED93EDCD202127FE5706280D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8AE0148B14411D8746F1F847BDA9350D7CC3FC9D58C7E64E170C3CBD77F97E02",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5C6882A0CFCCF5487D3FC6B48050E9821C546BFF299CE3241E0CF765B9075B5C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EC6203028E4E3EC58E2596F1F943BB6B6B688A023EF396DEC3366BC0FBA20E2B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DBE0CCC0F29116A5F216D1A18023C26A4998596DD98A5C5168E9EB8C22D76D22",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6CA3D85D04791FBA32D7104BE64800BB7BC7CA97344BF3BA0905E538ECFF8826",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-565F7A7B45FD45E1029E3507F935145628E513B8DCDB945F30499A9608D06311",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A0FC3DD71454F49CD1381BA3FD69A98EF73AF516ABC6DBC7AC3033693364DD7A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B462D788B1C2DD0300866F38984EE87F98E8FFF6321A2076680162B73069ABA1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-440CB336F4DD50C8768E6FA20957F32C7F4C4D51F449CC0696ED8B1031C268B2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-88E972D7BD8F08A7B632646B87B94638BF7232E55810A373D7201C653026C5D8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-064E3F52F19A9F52462D0913B23BC6D7AD7188274D70A2ACC1BC96053AB5372D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-70EAF0854859789C5997839F3CCB958D519290BE0A2AE1DF740A6BE7AB191663",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0748820D9B6303196AE4B6136FA1122D7A5A6CA951997DB24E0F8C0046EED6BF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2AE3CDDFA2340C705397B932D8DA2CC0B9E8E1B0426295CE5F972F7E01BA47A3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0C488E84D70135A19CA13114A53D862FFE89EC6FF1671CD039178AF68D8C35AA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-15013A2FC1B896ABCD432AB558A8EAF2A69D28977D6E15B62014FF63AB656DF8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CF9AC355C1C3A7B5B16FED32520A0E7781AE43B50E941C0DF57DE6EE3BED7556",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-40E4524771B386BAFA52CB96A354932337797203E306BB8672D4F83E3F34607B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4AE10CAE839C8E0FA8B3BB4E09C122D93EA1C2E81D35C0EA6E625DD88ED32F58",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E248C9CE2BC30E075B727B7A355725F13DCCEE1A464DB500B85F87CC8B2F81E1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9361C00F9AEDDC472B57FD4AE3DFBC68268D2433A71936E2BEF976EC7D1C828E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-65FBEA3D469C3047891578B42CCF09E595027BBE25DA2ECFC0C25D442EE92330",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6B1AFA390CCA49B0A99231B5B097F393C1AD13FF77E55BD2272F3CE0C634E5A9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EAAB853BA1232E46D1E4921FB4C55D3591674AD3A20B3A30676CD14C0558D872",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-212C93D84CE1E2CDFCCC4E5AC7DB69DC3244545783B746AFD75F6E82DBCF803E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7F32B423D01FA7E32605F407402300796AEC0F027B347C0841077B7FDA773189",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6D0356F699B4FFBDDBEC49C4FE290A168CF8A7230C3ED3C891E4BEDA976D509A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D57FF395948428BBD969C5C0FB05CA62E23D5CEFADD51347B9D6A3062395B8C3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6D9B7EB8ABA81F99A9E4637B5FF13088A08B977E6DDDA8B8602E274DAB639635",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0B558576C27013B8F0618AE0662C4BB23E0E356BA8930B5751D48BA67EDA86A0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-94129E37B5AB7289A210A28323526C2D046C6388463AADDE76E1F2DCDF370183",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4C4DB7D72788CD0E6139D08F0B7EBED7994FDC25F49B67C702FD6170A49B75D8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-76EC9B25A9CBF25106238AF2331C29068FECCAAE209C6F9A63F6F687CDA2081D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5AFE57ED1741AD32EE922599F263CE0DA8C1F71B7BE9E80EE2B4A429C239BF44",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3F73986FF965EE553121E59047B41419AEBD8C81F1B43F299D60084D4ACE9AA2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C93ED8326EF6C7C4CF640C00557FC6DADD8C0E8551E1089062BC8AE43A7788E5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F4BFB82F0869595830AA139FA8D8980CE1A8E9D541B963CBC31C1A7F7C5A5B29",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-091A0F403B3F59D53A8BB1667DDA78CC012DBC724CC0550916B19C4CE0488F8D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9ABACCF0B9D01399998F83D34B523108A2671EFD6C2619F2F7D9F274B12AB6CB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CAAC0229CD3FA0BDFC8BB306EC555035F3AFEC8B243914C6F9C4DBE9081B52F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A96D55CA8D8990E81C99CE4F8EF7B23A1029F1BCAEE8F20BC1D3EF077A107AF5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6A1CE3839D5DFBBD4CEE3661B13E98CD974C6AF14322AC410A648EAA421CFACF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C4258AD0711DF717E4CFAF80C2FBDD7D0967BD43CE96B10332F6FC48B1A1C50C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A5BA4FB059CC5B25ABC6AAB0F5827C5F43A2093E2493A9F1232CFA4991764935",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-166CCCFBE8701EE589178065A5C6AEE62EDDC5D59A97229861CB0F837FDAD9C9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C3CED5CFBF11C625BF3DF9FC80AE1D1FBC385DE9E81E1B895ECF9B23E459C93E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E4B765A11AA48CC2A86918BA74B8C418E170318C4A3C6517BFAF4819A5228BD4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4DB85414CA2E96CF903C9671C418F89FD27F17C902B4C9888C8E4508795B2FCA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-123FE5FCF81A569C13C17F244E094528F8B89A8F298C4681F4E0EAB1362A9C1F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-09F26762F9040864ADA6AD4243B6A15CC1C46B94050272F51244B5D519463A66",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-046FD95AC328575C822689E4B1206FAA75375DFF5551645C6235714E4B32C415",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-318DBF2512EE14D42AACD7A0F27D1C0B752F38DCDA65CBCFC0E38B89D3631A00",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CBA5716E1B112AA8BE8DE495230CD41E5F782C7300908BA30C49D1A019CEB5F3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E5E0E43680DF1776E733996020391B6ACD4F69DBE6C1C2F701913ADC28A62ED0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8A29EC96E2671B5E50FF97160B6BD2F967D985A1578AD2B8F6FB5114A763F09B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EFB236E74B8DB0A9A407839C48EF56CCBCF9EB5F938E0FB4ACF52B46C42AEA8D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6F5A0DA9A51BC595C7A377887569313E6DEB63FF7521D3F820A65F245CB4A089",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F580F0FE9ABB6DED19AF27943EB3524F6B11B5E3366C2DA639F110F58C4017F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E66251317C663EDE28F4535CE2D871F19DC8473FFA593F2ECDFE4728CE25529B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-38276FA7060CCB6058600011118A9382A0461EE26901D5515B02AFEC057DF771",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3039C6990B9EBEA78B685BAEAB29812667D24AAF5BD14797FFC0AE126F623F73",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FB7F1CBA94E81585F756682C45FCD6A46AB335082488013539001DA2E0C19747",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4DDD96FC895521BF0D5AA4A93DDBCBEC3CAF67B9EB17D92DCE2598DFDBC31090",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6D15C8EF3BB22126D499391DFEB5C4DCF5F3386E5BDE3C5698048158B5037AC8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D8068F2D03C5BD225C54A25891653498B84A8393E4DA83E221922EA39A2FD584",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-61257D98E72E3A48BFB0F01992125A84ABDFABC0C342F3D5F558EABADB55128F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-916302E7F48C8CF02D343C19BA03544D1EF320D5698303AE47DA92AEB523F609",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-407E67CDE478FE0C132FB79DBCD623A3278F97A0CF421A01FDCC8A0498515A3D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E6C806715382CF3EEC452C91AF7FAE401C301AA8ABBD5082887247BF68CFE7E3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DB4924648A920659BDE434C3169A3A7F5401B775FFAA3C5AD057B30B9253419A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A68CC6A08E28808B831256476E3C442F0DA9764AB3AFFEFDAA006485176AF3F7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6807597CE348B4F8FDC66EDF659B58199D145A7905F34BE05C8F8CEBE05B9805",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-429AFBC2F6FB35D5A9D95141E51598EDD28C495CE369CE476F81393E6E4C580A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-341C77FBA9C9D512649CB781F458B0785057E16060606C50C6E0567C8088D036",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-74E59B1CE847177F764FABDBD9C32C996F199F7C772C0B33F643F2E9E8C4BA0F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-40E08E923AE878998C477FE73C7B0CEA25E21B0D03536B67779D8B847F2BFE3C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-067E69AAE616D5AD34061326A380479F6B5924961DA9FA69A7613E0BB4AE9642",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7EC2421471C4F565A9493CB9824E932649CE072CB4D0C0B6D71E1CB211627596",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-75D5BD13FC3916C29B9DAC8C593967CB5021E4634C4F46A1B732985F745A37F1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9772121CE008E3D9CDB1A2E3332F13D00BA49935B34DA90FB4C198EE17B0F2E4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1F9A48860C5ACCDBD43872837B31797AA673AAAD428C586D7EBC76B1736416E6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AA7687AEC27FD0AA23AB630402A7B005EA9DB0281DE7C282798C0460C524A937",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2A7DD461CF3568AAF55034A46D4A9E3C06241D2324964C40C1A1D9BF40C19611",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-866A7C8552C61BFA01273656FC994456881D81C72A859D883D5EBB75BDCAC909",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8F0F545FFDC6CD79FB1A1CB1151E73186D099FF1DD6A7B46E24054B3AB1EACC6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-059931CE4BA9AF0A5FE59EC6A2BFBE2C752236D6916B2A85968D4DA4BC72237D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9F4EEF5F1EC0D84EE445BA603DD4B96348A0161E4D031223939A73DC89D416AE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EBD0541AFED5DA94B1D9019B6433129E6169EDB5E7BFAED1A6CDBD5B08BE4D14",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C3095FA770E115256652C9172541B9050A44B0645843C4BE390378104E7523C8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3AA550F1A80F386A98135388CE359757FDEFE34CA041A4F9A46D67EC49C01DBD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-062B0AD3483E30A118B3F7714842FC973E6E16B0891541C0FC3F796C91FFF8AD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C1E0EA6952C807DA8B495178A427068EC80E143FD673E0DC835FACF5D99CD8D2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4D0775E3DEE5AB2AC89544752FD4910E31A56B5A39F5F904C01D120C4F2779F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3422861F36D3BAF69BCB4BE008339548030486783A2E741AA6F025765096F468",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-079608344168928CC72BBA955FB5E4E6558B0CEC3D9F4099E3C2A05D771659C0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A1D582C6DFB483378E7A586B857158A8B3109A492ED69DC518E6B3961BC8D775",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1FC4D36B60F497DAEB9F66EE7A3797608572ADAC89DDE36883E3794755F3B0F6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F47C7339C45576A19980C20F69D6BBD8DCEB2532CD72935B3968D1C46563A8D3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B60018FF49CFA9629EDDFE61067816591DED9741E727A8C65E6C17FB93B033B8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-81D0867EB34035C7E4E05DE7A40C6E228E66BA6F8D198E8272A52D8B95925C69",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7EEEE81F6865083A81151E86336CC2B3CC1600959EE8213F10B78A3D0D82FD91",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F7D450AED6BF66540F80F3E8E482479041759B0DEC77DE3C21D069F247D4A12C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BF4108BC9D9E76A165065EEB850752BB89341946D0CCF901FD856FD656452D9F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7F9EAA26826F017FA9E4CDA62D1C06611E1F1B943216A3BCA4127433ADE591B8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DB2A15DC2A4C3E996D7AEB632F7FDCFC61C89EB3BBF672EFC12349F5BFF2923B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CCE8E91F30EAE62ABFB457BD03613BB7AE406214FD43A79B99F930C6FF96A936",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-90895FBF6C3F3990120D78B481B835228EC8B8DF9A99B60203482A1463AF1504",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-47047A505C059468ED217E3DEA1E2DD8B1314380F4CC10F35C452CBE01DE9569",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E19A46A4A268909D1ACD922583D5A9B03CD52A724DCFFFA2AB232FAC3E356F37",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7BD8356F0061C7145CB97D53B9D666D80250DA94F516420A0B9E173DACC5115D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E56BDEF0C538E5AA4C29C6284EFA5F13E96ED6127D19A2F042677208BE3918FE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D05FAAB092B1196349D2DF1F5A9DEAFB206296E2C662FA9299AF0B3F7C04DC47",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1F7C1AECD08A56EDD4EBCD6458215F72C8B782661C5A979DE6263A5F7D6EDCD2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F98AAE06C00B7E38B0FB0A0E93EE3D368FBF9050EB7A32B1902C460C179DC13F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C3D69AA21E4F1852FF79C461A8290DB90428326D527DF0DD066944BAA39100BC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D5A2705C344022F369145AB8A3BD96A87493D7B1F6EF73B81921A3ECC4B8F72C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-75ED8AEE79483D3331E7F22484713CDF740A56CF36C1C1524D743AE159D5E633",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3844B7972044B823C18D19E6A379DDE3ADD1B8E228E1F246FB2B41DF21B5AD1E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0619B253F33E19199128A0E625E3A860866D6F7D6BE1D4BC0CA0F5E1C9669042",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FDF5732E59080724A2B7F35A855C4CE930930A0ABF8C9A182DF82C4ACA605F43",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CEB97ED34BA71722329F0C9B236EE538317A57B97B2D4098A29DA35FD777BC3E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A1A1F0F10EB35F6057F3EC20E7720E2077A5DE3C837B849BBF63A030C2351B94",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-32E0D9662CD0B611CB485AA6DD4CB51B58AEAA3C1CA5D6D022E95F4EEC33E792",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A03F0224BDCD47AB9F04E2B9E642CFF3F4CB37F2549280955A9317E0406849EA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-632800EAF17BABF9B8ECCEF82BDAE7FFD26DDD16E60A4C8FDB3A7DDA1FAB1762",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1D1B822654BB2C7617A46FC8F1714138A227ED4BB2A6464EE88320ACA0D1A4B1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AAD42EBC3D765D57FEEBA6585ED5435F2991B67C8A3B4E26776E4A82873EAC3A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5E852EF2C7B82E53304957ADCFA06B7970539BC3BC75A22CDA8316F046071842",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5D643D400BCF9C3F68ED3E77354DD8C3E23C7FF92055EC44C22965D713F264EC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DAD9E51555BF0BD3D851A994B3A15AFC1EF8AF14C583D05E46D52351BEFF5C5B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9AE4350E5C8770D4EECF486414FDF78725829C12CC2BE1A90F52C4FE5EAB8C6A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-51694FDB3742EEF1A4F8D7697ED730D389D482F8F989484FAA109C222B896899",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-025BCDC1097462FD4D91B1D1E48D27209A31D4720B9572A2E3143A8A1377A742",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A727BBF40162DA97208A75CD69DA6689E94C82F21106626A136A951F8DB3A4BC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B4F81E57C8077AA0B6AE9517D9C6B7EB71C17CC753E5C377DA88BC13742F66E3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-30511FAC0118AA61F9D4F7CCA531FBBEC3C957D8BD8AEAEFF8917131351BFAE5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-111142ACA71DB4A8136D4C8755B4D3694102922F372A0D5FAB340B6DBF268A84",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-15D587E1324DD2F5F484CBD0272DF06B10BE88F4416CE4C49A7F79BD714314CE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A96CE0FD80977EE1AC38301318AFC1ED6AB384D2986804E5A3EA0DC3D272F45E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F0FF5761C63A5B68B24B6F7184B67BCCEE3DA957D43DCFBBD2D0AF3AA0DCE449",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C31EF179E8A7D14049104A37E4453353C47A25EA307F5B33C20F088DE5949C2A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-68128723D70DCFAB186246C9E01C4E37FC3CC837F9D6B7FEBFAE5D61584D8F16",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B87F45308A0B13061915F1A2825612F7C29316A512B4B40FD3D7775862CFEAF6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-66392872817672A613AE1DE480E8CB2AA28B024DC3CCD48D88A55C7B859A16B5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-188FE08D73B2467DAC2BDE28FA8EE25B112C9B28522DBC9A47A4DDCC4E0ED233",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2ECCFDCEA9023FE52B5D21CD9424076F4CE0AAB51C42631C5585556B01C68E98",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E66EDD3948FB2C24FC827C7EA91222344F78C07B74368A6315C19F98DCF6B01D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F63099D8EA019F9B263CF0DC651F147EBA80211106EAD6ED29487B1E81354B5F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E677DDB779A867104BCB4731345249B9216654C70DE67B32CCFBC058466B6946",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D10D36399D850FBB6F3FAA6C5EC1B140C5C2839234F879CA8D7CD8243FEE7836",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1F2AEF22C2F22C0D8A2CD864C9054CB1BFDB555A5776FC44AF5AFDA1E9FF3775",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2C180F8A8D6C4DFFF26F43AFE0C354AD3CB7BD8EFBEFD7722F758516DC1D357E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5256A09263B7B2C9FBA2CDADFCD9391BAAA3BD552155EC27DB2D001094D0303B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FC6038251FB03FCE464A19CA86031B02CF64B2ADC7AF663C6A53344A7DCCDE2A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BB1B7863C16FFF8AAA8A0F9A08E2B463DA912756743627ADB5230C55CBBE4183",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A997BE525E8A0047C5E67BA20EE868F1AB9F50FBB62782A6A891E3012DEED5D1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D509672C4097C80EFD27B1EBB2CD7CED2184DF7CB6041214E562B3BD0EA0DE40",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-17FDB0F3563E9C75FB4B22DA426835181DD572BCEA60F5326C901D6493AA9168",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-909C902BE3B6672B58CD667FBDD311C1F6647B1944F51104354181EAE7CE20F9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-44680FC10921DBFAB0AB3DB912590C4ABDC79AB8977403D2C317AB3E21DB0E27",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-325D1607619B394A6D821CF549535A826770B0D0739452A0B68EABCB4712093C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8780A975961FE0F3EB51B59CBD2FB7E4B3F902B0F5BE7BBB882D1C2B03B692E6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-132C80B59B664D3281D00E0AC80A7B5756DC731E5E8B163455E82AA9327BF6C2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-91806E52164B6465DE822CCA002581C53606E9B21AD011D40A290034A3D7865C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F3B5D814F38ECCD9881FC45A7BE6C0CFC50EC7B4D5059CF8C79A223D903718A7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-51872100643C2EE69FBE79D976FD266FDD1B2DBBF86F71647DE5C91583DEE6C6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-54F9DB53F759AA9864ED72A5CE229AAE2EDD983B896558A4BFF3A73FF673066D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4947337747F837FEF03A070CE26AA224AA813A217684E2DF388877531A8B559D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-99F06C51A508DDDA21F9A34107EFBC2A09E168E1817C6E8B407DB19C5FCB090B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5102A3C715FE5F3B6677E352070F2982A9C8608B921D69BF85F703C43EEA5534",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A484D358DF8630A9E8CA5228C8EF114F4B75296BE494FE97A3E5CC25F997E031",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A3FB6ED73E84D46CD5B944FBA810D55F76DB594E3F3C0A60094EE1B7C8E211F9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B840EECF0F6D52456C130580FC1A3682C3388D175F7CA5A6A7B1CA5DF0D1AA7F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-50F8C3F1F25B8B225DFE9D380DC7AA52AE93B13BD49265193DF17F6DB3EDC7DB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1A792F4029BC53C8F00BD50521BC307BD955066109EB0302EA557EEDFC4A6257",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-530631AA8B51184E9083FB575BDDC2D052D50B49D294EE71E0DF5F10A3EDFD1A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2D5F545B56A0513D142644E5204E22D65E05F811874BCCD20C812D4DB2A8928B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D37C1D2D6D5A8CBBFD7A7F5141DF63998EDC5BAE9450E56BF857ACB6FAD8AE6F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CC827FA49A47D42E87BBA0CF1700A6769A569B06EB45DFAFD42E01EF2BAE23F4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A99659393B2661E694DFFA822DA8E6B46D5ACE7DCBA0A40A5C14FCB59954C273",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EE4D4303B6A32BAD28805878D80087243D72EC0C6F8F1903554C4ED63F622AF9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-06F8D92D312CEDE7966D41DD4C16690A2540B7CD6E0EC592F8C7C24F13A2F632",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BF0966ADE020BBD80EC05E2D55071F298656F385F7636631B863F9C93C7F2714",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-15719C5C8168EDB6244300EF39F266E60803E94F3BD94816B1AFE0EBFE47B6E1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A62CC07724F133A10512E7E224F5C5EAA134A0E857B9780593A650B84752CB52",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E58C6F110DF7D27E66B748106663C373E153CF5811370B99FB689DA7A75A56BB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0477369E8D9623792591A127C5243A81A0DED4F10BF83459257A098AB373A4C5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B26849F91E4CCAA0372F7B5F383D0DDFB5B1C2CE30A198B7C824D6B59E9360AB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7EED76E3F9F5E1535595471381F7E70555CB0D3ED839B7A183D6485C545F0C48",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A3133F518A12672761A6E46AB306CAAA82BAF0EACB1C496105743BA2F1A1744A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ECD0909A93155B341A02671B8ADE2DB354ECDFF1F93E49344A3804D044D4D2BE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-334817FB3F5056ACA0FCDDE9C15CC90E8E1D27AFDC042560D010AEAC23522A05",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A732DB62C8337390E00BFB2E2F5A6A870DA6D7E9B35AD7CD96C3C41DBB3D1DA2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D00527F779198852C3BA0A93C68157CC325867B55A133533CF9C3A91A69FC1BB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D0D101FE2A97105D72013ED099B02F3C28C72B6F8371C4768805537AC5F40938",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C16093FFD145F98186A28EEF6F5CBBE8915DDBA807BA197CD8F3DA40F2954F45",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DB0CD9F0F25456B3791269F9D03792494C9644E7060A1E72CFA33EB6D8798402",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0DFBFB3E90003CBB857E1883AD90B7D2D6D351CDA955AECC40CD7B37C8689844",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E5BDCC30142E5499769B9727A2B0EA51D96DB61794F141B0D75F55200F39676A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1B32D7B2A35683D741BEBA7FEFC543F36ECEF8D3159AA912BE9C5532B2F1DC6C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8D9D88D00FACD130C3D51A4C22F54F862E0764D3E577DF85B0D10D4D91FA75AB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F5D505C5392D680926360110E47BB1759843DD0F4DB953C3A6F2E2F86B0ED345",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-80C11DD8F5AEBABAA40E63F44DB27B4A60752915F071C5F1F85CD01535A6863F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9E96DA7B61BE88BD24914D140066AFC0DD79B55506A0E60A72F53191719A4014",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-045743F8B375650930CE3A50DD59D16AAFCE549E1E9C0FC8449A6F70C5E69EE3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-22B57071119F7291BC45F8B6E58CAE63B9AD991B0457136166CBC656A1F3ED28",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3ED87A63167926B1AD760EEFD8B5F0F80EC92D1B8863633437D0E2B564F3306E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C1A99B56E860774F14022CFFE8F3B8278BFFC3DDFCC6C837003B1EC3A05B7E8B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4C76A7A2B88C34D9ECD7F58BDEE2D3BD3F3E312A83E30E82F85660D242EA1BF5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7A34BC2F9C817465C0B1DB0DDDAFB2E4F06673F0418A86915F0381F67181ACA5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A70A4977717E523EC36360E5242746FB759BDB8399C85A2153ED8BB5FD55773F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A40B4EA15824D0E73766E355097A886FBF38C5D1969762031372B076B3049005",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-07F544B5B72DCCA84BACA8E7F3AB99C4696ECB2ABE12227F446E42EA073F7240",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7B0016B11A4298AA868ADFC0FF588701DC1781249FB84B882606FCBB5B424C88",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8B54EA35CB3CD32A624CADE4CF5E6125250EA20C8D08D05A762908DBFAF40938",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FA429DD2BF710E5F4CCEA7319830D74469C28F0F5D114CFBB98394F33BC050B3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-186E9CAE4A9EEA6EE6DA74EAC7B45E2540ED8BE7885C73925D9AE6639DE61A44",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3D321A5898C867FC42982CDE07BD4E3F3AC2A741E3B634DF0B2A5AF928E49934",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1DB818571545AE7653F35DDB983F931FD59A356D67DF3EDC684571AF2D3B5D40",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-024F28759DF3B9FED35373AE818E11C7D5D2C8C51642AD6863052A5EFDC34888",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CD6AC86BB69BB238E2B88FC471DA3DF9A3FC2160260D28AF49FC1AE8DC7D5460",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4E7293FE0DFF1EC7F637E5766B66A0C5935D05415B0AFF1308EABFEE972DAE25",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BBEE7C7581AB84A8F0907693F42138B453B971A3CAD08F609D8EF0BFE4BCE617",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BFFAD6D7A5AECB49DCCE23181CB6E03AFE86B3C4BA609812BFD97AEE9B0A7483",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-420C98B9E896762E707F2B9415FE879958DB14C4FD4A11F466D61250CD4356E7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6C08AD119FDC278FBFE0E57439AC3253229358DB9B49E99C2C28380E83487988",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C3A1C9E17A25D5A9C366B0B937C6E281A15E20F16749402F43084155E93CC64F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-66F5F0AA6747348ADF9ED775D09D22A9C33B25CB55ECA7B9E8E5AC75E84472B5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BF7A241A59352E8567FDCFF30025167CA51FA289D999AC50D7FCF61702A96330",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F03D52B712B112F75174E21F9F5F3527403E069005082A894D480B49FDAD3E95",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D5C9C148477D5670DF780AABC562E123680A94087308D2C17170DDFE48126F4D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E54DC146AAA5A2D93574F93EF0E262DFF948124D3FE5AA050CB0706FDF859F3D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5C16D6200A1B0D8434A10AB2AD0F00562B2F75B6912C659A2AE07A9E671F7181",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8741EF881DBE4478809DF5EE7DC1CE2AB14460DCA9CC3C18456D2E725571BBDD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-624AE5D3A25FEA233BC8FEF3F1926CD7D42992D06892CD81CDF9235C90BC5BF9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DC1DB7428D83DB6312F24517A427B63EAF6ADA2352786E0BB8FDF456E330282D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E39CD10110F92EDA6B5B70B1FC40D8E865D457A25D00DB4C6241273B4000E575",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A8DE80935A6D96292C20FF5C9AF43A419225238A530DAB47F459BE5D8F13D309",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-75642F40D8E5BB33CA2C38A2DA87C71648CF14E2F89BD03184E5192FC9748AC3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9DDC393ED0F6E9340E3AFDCDF1637851DD084A3C3736A93090854BB7CDF9F819",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FF20FACFE3CC281192B5FF1410EBD5B7F60A100B45AE4D564392D6B1A173E3CC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-608D28965091A7D1C3C7BC6F57DD483B811E08D06E059B5ECF4F00C0E4028F10",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E56AFF70BE500E9A0F38A4FFFB9812E886E2E483C3400FC245FD91C130B5E58C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-927EF1C867CE75475E1933061883F4A21986AF5D596C765A40972812C8D86AD2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9B9BA98524D81F28BD3B4953E3A64CE667B81ED1D06B1A36E21D1241F43ED73F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-574AFDDD94AE49136E47117110A5795AE765E11EEB5BD7938D611422F86E6088",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-00887554BD66FB3542719512713FA36497B43D2CC0A8BAFD93BDF8B10A15FEB0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EB2508C666A417559E69EFF06A1932609FDB7803603EC401E7CC24087EF827B6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7E5E850D475CD087E0234697EF4AB199D34F5430917EC14FFD7ECD59A82ED0ED",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E7E9E452DB116D88EACED7A5C6F490167057DFCAC4C05A45FF2702F72593EB11",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0EE3530C62EFD7AF58E29866C50B1B6EE34727CBFFDD98D8F4ADE792D93F6993",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1B5103A218C07DF354A53E2F52732F3A0BDB40CBC98B28BF4422DC243E948451",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-68DE7D3DDB0A16E7038FD35C57861327B0785DC439F4C739A9A5814A07014742",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5A6509B4733E13D55CCA2D7B0B5980EB4C3ECEACC0C371EE516DDA0756C9FC6F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-97DFB28731CD20E3312C9B2894BDFE0068E63ECF96FB2C88A258964666268925",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B90652230AB47D42ACADF2FF56FC5EF253E1F5959090B3F4CA83073BE37FC539",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ED8DE59949AFE216F6A99FD9D21E59D6C0130E7FFCDFFF1A3D0C6AFFD605C166",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-60FA706558A2040F74E0A03EAB646E1F746B561F9EFD11D5509807DAD62E28DD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BBD981C6CB778973BCB1EF55373EF7532D0398EF4BF202FCC00CA753EABD1B1C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6D80C75048E89F5398EB1372CE7D7F90FA90F21CF28BC05F1F7543D23B50D6CA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FDE5BF446B8012FF148BB429406E2B8872E9C14751D08547362DBB55F140AB76",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-92E56CD2A4F824426A8575BEE283823E2FEFD1371E6DC21CD4E01A196DFF587D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BE1E9B68C6B31D7E4CD9D124BEA5F9061D24BB823D7F3049D9A758EA7DEDE0C9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BF722EAF20CF5B5A7976BEB97EE1B3C7E4EE7430E361E9612B6065A04059941D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ACEA172AB68292E6A3AD70D947EFDCE7B796A504D752359217C98C0A742DAD32",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1C5E6347DA07F14F9CC6A9A7DC6DE8C638E2394CB5FBDC3503B0D5D26923ED66",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B9C2ACEA580EA2C22F4E5F5A7A071618E14C6F4148315D2C8AC1339FDA8F8C39",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-91EFE4656D6FE834E179B4C8BBF9E23DE897C2C06C892F7B4D54386C41418B0E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DC4F892CAE711B00F65BC9E99CAE5BE3AADECC1D80F28D3C6FB106A25B7467E3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8DEEA930037AD61D5D3E72DADE4877DDF193F817BD1BE4C03CF27D6509044296",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-376E57EC9078C8DBE3EB2ABBB56CB0112D840F05A8CF54B4EEC03D520679BDA0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E8EA0F3E97FD8C7D36F763A368D9EC861B4D2C1C83434E91025A6A3E31EA4481",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0AF66E8E5D5A5B3F9A63BB4E74EA2D8C1620481C766A13837B20132837E61658",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A6402728F22E14E5DD5A6CF3422949A20BEA51868F8B41003E1947C5BD8CBCE3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5B92393C10B3DE50F6196DED65EA05B3654F46E89815F50DBFD5115012C88562",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8628D36DCB2B4862BDD22C581F1965E391DCADE72B76C46DA6DBDC4466E53098",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9F3E102E0F9C2BAFF312C1308E43C21AFC1E0C421A628E5B4608DB4B8C545D0D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FDC898D513CD89732A0BC70133423A7F52485134A95253A61E4611FD5A0F4D8F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4869B10929D7CFE1D09D18ADE96AF1019CC745CDD7860A7A7EF634028700857A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8FFF7B0E6B0B3481C8D18122508048619A876B55233E5F342DAD12C4E7D63DDB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0200CC77397F34318527109ACC6A8DFC937E4B62F39E60B66E5F69760FF5B7AF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-489930FDA7E98DE6FC171A686317E3658F783AE0EF6571F7D6E36BFA28835CE4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E96AF9C5BFAD7B825897D1512E33348B88C1A5909D7772AA7035431B1D80399A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-990E20CB1EE9CEFE84A73723FDDF02BF285221FA46B1B84F9C3073F48E4B23AA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8EAFD4AAB8B30609174FA4C715307A634D0C5CCF47149A6F197305E7360BD545",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F0AE64FDC27C31D74D4F85B39C4B8360D4F5AD82CDFB0712304C461A0A934F4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E7E176AF4BAEC1C4FF2A75F32FF6C66E12A80FA8643D4D2A833B7A39C0E6884C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-93F185A23A761E819DE37FDB548674A638D6771CFB1A1C298A1F6938C2E26054",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-227E1194E47F7C3B267A998FF7C34792AA926E946B1C3FAEAF4B3B587E8ECED1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-650E05430A9A66C882B952EA52491B9D14A8BDDD85DADE3BD92D87F470F7CB41",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F29187D25E21E5FFF51A4B6C21CA388376276057926EB90F4DA5CD3F2616A8F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-71A45941B94AA522F8D4C747AF9A11557605B6FE33045C4FD05D71D1848A7A44",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ECEE21EBF415D01E5EC73525261F1A237956EBADFB4336796D67DF154C4BE33C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2B6DA2900D7E902396680B910611C87F8C2F41D008CBC0DABF03231742163059",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CFBFD786ADD97115705016F0FD65B100A44222154040BB492C14F8587A6E7730",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7028E42F585DB5E5E26B12B42C4A5E2FDDADFD79B826245049E52C31EB4DDD75",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E4E4BEF409F47942E7381D3F04CB14342EBAEAB2139F7CB5945855005318E42F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8CA1A1D650C6409496B7AA775D5A3B764A41B7AA0849047891A13CF4D98DFCDB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7127BC1C17D5D0721C7481EF543309143EE65116D9A1103CE53A111332852F7B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D15795371E564050639FEA8436CCEE33CA1299ADEC8F441F451FFDCC29992E46",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DD0388C667DB832765A1DE8CBD1A2D4E889E4BD799BE9F6451B6AE7FE6A341C6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7E7A4383AC4C535BB39AF930934EC457041E7AD3CC9C05E60E125A30F18466F1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F7EAB49011AA99720DEB9653E708F9513FFB92C01CC0FD89B0E6BC1923D7531D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1B404BC93DAD1A0B03CAA5B2A8765972076CEC953D34FC40843DAC4ABAF9BCC4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-88FABEA9C749850817C7F0D90D83B4F96911960C1E64FC501C49741B3D5DB4FA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7D320D6E5AA9B997C7C548480E847C700D64E2E0CB06FEBB8CED536B3DCAE867",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-55EEBF8017B9D5C2EE6665A1710210CC430BD025F6BF7A4793EBE4A6EA06AE79",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B6085C8951C5137E0C004BEEDB4009A9FC88F91043AABCC82997E0F416751CB4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D5C2C026DC433BFB29DBA2F9033112421967779D91BF29D80821FE640004B0D6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-015A7BC1CB171791C27FB77F69BE6E28607B728C0BC2F9C45625AE38A80DDDFA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1BB8918D19DDE028E96FFB6E0F9EE89FC6198DE05ADCA8691BE6C87DB186024D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5A88CA50E57C6CA12FF101D9EC495BDB97105CC8EF71042CD9CBB993288EBA5B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B41059B38CECD0CBB7C81696F1CA58E0B3026D68CACAC647A46748B5F0072181",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EE07DB48BCDBECC9C03FE96313A6420DDC413F71611DD18F756835D3D720F36D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2FBD2848A3FB8C0F3F4CBE22D94E936233C8A0FCB12568A551FAD304CEA031A3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9C3B7B9F965B7E97F849AC2A7F5D0ADD40B7DA8B70926810F44FE76649AFA796",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8502674C7BEB69CAEEAA4CFB6CB21AC26A56CE7EE8E86CF326D11CC87B988B67",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2CE7335E17650BC851EA443E84AC717520C348A034FB2298E4B3D5C6CF915984",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A15DB90D13AE0814F9129C1F223BC69B6144698EF4613E18016D71A9E78787E7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5596EEB5CCF3B71F6CF2C4250FBBDF07DEDCD070841963B4AA80ECEEE60E29B4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-62988190E97EBD5BD210C4362F4840CD4ED34B9FEE342426DD63052F37D5712F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C03521A7B85D82DA01DF8270E96B3FA93DEE600A74EBA2B091C2E3AD38E3051A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-54745AC0B25021A0BC8B413869798ACD215289F8CBE29F3CBAAF9265D4C2E628",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-48B1B96A11EA5D1C857B29CEF4A6935D33B3FD2C6DFF393136F77AAC1C334A39",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C505BE113FCCDCDE2D7A35E2D7FF34DBA52C670105F465089BF649E93B38DBB5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-41A16829D4D33E63734DAC6957E408F7F495D36EDAEA0889978EBA0B3E88AEB3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6741E5F884492B2D63E14F53560904F7CA698191F70BA379192255737B5BCE37",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F3CD571228E01FC41724319C03E1946D2F609B0ED089442F917B17ABA0AD926",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-04EF001116B0A8C04A3AEFEE150B92BB3330772148C986E1CC55A179001BB277",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A24B12112923FCC8A01619F06DEE1321BFBEC31F74BA8195143AA61CE5CCC65A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A914E9BF47927AF7C726991D2194FCF71F1965D034D94E5A1E07B2AE0D5E9460",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8FCBD19D7926EDB93071E7DA70C5AD1936EBFBFE46AD91967DD90E8D0C0D3116",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D21CACD5D9B112F06A0198D5FDC4B881FB5D30AC305966D194F09B4FFBCA55BB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C1998955E0A92ED8CC3668483FB5A4B3AB6D30CF900242E5030EA09068E2252F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F60D5B05E2BF07A288FFDD3C6951F9AC5629C26904945565DE2B72A48CECB064",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5156818CE842688BC349E2BFD80138C58AA80A38A3FEABAA31F1AB1D88BB8E0B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DB529BC28C5EBE619B7CBA27EE9C7A90D4CEE73452BFA3318118AB11419E302F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3875A4489D036870F76049640DB71F57BEBF05C7DBA40382A0323E4FAE950B08",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7B4332BED635AEC791A1D582237B921678B406AEAD8E6D2B5BBB1DEB7C8D6795",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-96421D9DF96C4F9046CB7BA549CACDB814AFCF7FD43EF80B4B5A51A4B618D378",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EE151D177EF0FEC37928FEC28B62DA19BAE9064E0A248B59BBEC584FFF0E0F93",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-51B96642E00EC0E09C298058456A8B1307863BC5542EC40FDBD74056EA993F4D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8BE41865A407C16F830D70F2715E27D0C676B0F0B8DD4CEC06417315776A8D29",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E64685634A827D95C694716C3F9DA8476D4399B063FCE19A400EA732772EE77A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D6FCAE46FB8D44621078EF8A96E28A23FD710645E7BEA2D504EF51C40E4E0587",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-15A1FB8C421F9F15F562AA6CB4F59C7DA965500541F1AA8D53E9A8376C46DB41",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-530063060C3D235D22DECB7B57B05683C0BB23F14ADA7CEF618A3A35AB5E3A59",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2BCF621585DE5D55722ACC28A68C499D92625C40BCB66AB2129DC051C81BD7A4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F5A26CDC87F9D2C57C02541D8D1E20C9C9B31EDD5BE6131FD43B6FF763559742",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9521CE64D91CD5F844003F7F1D8DDC70EBD90A6CC84C4374C6A5B95289654F27",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D254A5379427C067AAA83E33186888ECFCCC625C9C766DCCFB2AE1FAD37FEDF4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7356C129088F65D1D84AF1A437DDB4A11E6DC4031C53EAC19D388F1C85F86CA2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F37B6DB0FB110DAD53834AAD106E25D9D8AC0EC62B0A499AC8827E17B9839D4B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-582ED5C194A58EB1EF601B0FB1A0293FE22956F29B20508BF29BBBAF2DF111C7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-497DC0D97CEBCF51185D85B36FD472F416EB6B35B7B493B905654B88F2F96BC7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4FF40A0D25AA75757CAD2188283377A0218497A975B76D5DF4688FE27CACD206",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-448FE3D1F2AD2ACDE5A42510988972A7DC1F4FF76A6FE5BAFFAA092405F41D1B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-26B1D47A705C472951F7D2AD949E52E0ECB7A64B0C3F5C696BEB151282C8DB52",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C6879783502E46E3032918E197C6A5400DBD005DFF611032D867213B1A72DD86",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-081A58191F770B3AF57196CE7D5378A755A140383F706FDA03DEFA646A263771",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B50698F2F6F843CA047A205F5C759CE67968640627D48CDB13F3281ADC4E5CC7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BF5606A2397F4F95FB7E252EA1F16C5F25636217B9304B5BD6AFF01C65A85816",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-239521F4A09A202191DB0058C927881D9A0305B9A2BD0E8FE52516E0C27AE7B1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C70AC19419C123AD48DD545A7E2E8A4A8085A39AB14CFD8999A8C65BE948BD57",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BE81C41E8B0D2168E11D8883A2357613F942E2A78370C634A76210D538FBE989",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-58A3D1600C9E96BC57ABFF16A2617E58C9A4169D381DA737A9E1D3E5CD9A6741",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AD72FA71526DB6AD4429106D8FE5E466DADFF9D7AEBA4E25034804AE771D7282",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8B2FCB8E04777CFC40BDAE4CFEA3836800DD735BE46B31233822125735269759",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7D2516BB930B3F5A5D1212A4750A1A7C84469FD4EE37C3EA0ED63DAA008708F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2657E0ED4AB30C2A9E0D674909F1C10388EF72380ACAEE8118DDE283F3F3D620",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-440F3C6E24D0988D320D8BCC9DF96DFD5559A3439A5F35645DC0441BC8EA95CB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ECC533766049D33B09C069884963BF4C96CCED00449BC67D00241CB2323E83F8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0DFC1D83DCB3A846C76ECFABB255E0337AC782F1790997239F7028BF54098965",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0F2D2EBD9FC5F7558C4CCE701F101B7DCE3396F1B6F5BFFBCD2AAEF5CF993C7E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-568626064BC45AD2DA461B612E0E8B0846D6361C604B0F1D5333E4BDA90E8FFB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9E9E219D2CD0A2C7D336F6EBFFC3C31D7F8469FAF748D9337B5DC954C67F27DC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3F7D06B171E59061C3465F5330ECBB6E2B6B324A4226F93E699B7D353EBC07C4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5073C8951A3082E7162D1C489FC2229737BA118638C8D4803F17102C7D110B76",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EB9F2A7FAB8B966DB6CEE2DA49A14C710101AE61D28A217945359FA13268DC76",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7F5F0F86F91890E313C09E38272F7E255D77B839D6F79F537657B1937F5B2555",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5A93D0ACF14957B30DAD68318CC2A6B32C9EF528A9C8B8F248CA801A8F71AEA8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-187E72BDD6289E195476386E9FCB9B06EAC7B129CE2CDC957B732A973666B2AF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F064235A9CBE9EA30351A3E3ED8FBB169A351777FF4CD85AC4AA046C48EB46B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4988CB6973C5D4809F7C9B754B4711705AD861CAA2FD301091262BDCDE6705B3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-776738F317865C8E29D8FE2295CD7BEC423F3FC90F4AB231F70D42792068573C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D02283AF60B740D63254671A59A057A0D9D7ACE251BB6003E6501E6D04E51964",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D80FB382FEE2E38AC4CE0D0C6D7820D8275C12387DE668064910C8007C519281",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4A2E20703E3E88E92FF1AD14ABD155352708D665C48CBF80FFD63CE15D421CC3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ED9E27A169B4F995509664CEF98F17D8568049083172EE850255C200693F8941",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A24E447E6C8B6789911A32FD97693F2D479684045C37E35B988AA57162FDDAE9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-354CE65A7690F259A6F7D283C1A9D8F8EA932F1B72EBC930BD05A2722628180E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-06FB94637E1159735D0E3DB40204215237181F69D50E382F3AFF042CE23D93E1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FA02730067A3A0A20EA8C3F888A11DB81BE7C5A5C42589A96ED3D6063079E514",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6B0DF69FB2AE84A1B414C71A839B3FF1BB0CC18896FF751BE9FD01CBEA1D3314",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BAA1BBB2020123672F8F739E121C24D0344378CE9E776D267512B67BFB81FB5B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-92D0CAEC7DA37AF156600973145309D3FB3AD9DD603CFF8CCB8C146671305032",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C4A1B9A3D1EC0E0FCE0E5344930C8C14202F8CD32D9DE4882FE5F81F01F1A4EB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8836F2898450A983F9F7342C4ED544631BFC577BA75AD264E1522562702A5F9E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-19595AF43F5578A9B0FD8CAF3978B3D970E5E8A3B56C1EA391DBBE6CE4663B7E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-66F55D61E5120DB3DA4635BB1AE00BE2DDE7739BA57E348B467EF32D70D6C7AB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FB199CA10830BCD67E4D41063DF5C377D1C0C2837FF8444309CC692520F4052C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A89B66F328082F7A8C9FBB84107D2A14349E24A2BED50D43A4AB8F26A175992C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-56073311CE12B82BB1CC81A2F39A3D8BD2ECCA9CBF1283D62CBA6B14E85584C6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4CA9858A73AB1A28B9DD7FB688864294750BF9533B850DF9786E964BF3C91DE8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D325E3E7F30443A013EA1B7B288D04ED671D3AF9E2BB61B072774521B8C91421",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B669BE7E068CA1521270674A8446AD23296DFB05F36C6DCCAA47E26CFE4EF049",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0A679BE99EDBB16AD1AD229536ECA701DCAB60B6431A94536006BFA3AF95A93A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3E7CF110237660586B464B338CEDD9F5F52CFC711CDE8499F53072B7DA80C780",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8D325867C51919B5BD4CE8812172EE6EA2F946F4009A97327AE140D3EBA95DD4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A05BB232C997B712E7D462686D53A08AC94A2B2543ACC7D29A4966ACE9748BB6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-47BAEDEA7178599C92EB72D3B8A6DB51FBAACB4BF718746ED4D3EF78D493CEE7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1A77F82D8B171E9BE8DA40ECCE59210C179A604578B0D85E4BC8B13C141E40A8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-87F45FCCB54D2D3A0420DC3F64C1151730C738AAF0F911316120DF60551B040E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A2588CAC00D7497AA7BEDCFB6D7EFDF816443BA7EE577D3DDDD33EA9E248B1C6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-47F8B5302E75FD9648583B1EF81C92E0CE2A796528788798F2778FAEC8FEBE66",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5007AC3429C04E227BCC59F9DC160986681D0FEE8FA62258196D27020154A871",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ED8F452D90E97E79077D3266F0203ABB5AD973E0A574B7C2A50A6CD301228FA5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-55F6CAF23D2EE72DC100EC6548E8703F2C3A71BF7563BF518E4D50461965C637",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7D1B107A59B521A031DED3AB2164D5D6ED1ABE3B23BD970D7ACD8CF57D8033C4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-71C23A5B14E024D44340BAF925D5289C0311A424CBE6332114413072C9C80DCF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7348DBE8B8E4717DFDD2B0516A2E05C0E29FCDA5551C42DB7E2818E7C4E6EA8D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4DC292C433149BB8AF9E05BCB4F6C89AE303CCDF442F46122F542D3ECBA09ABA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C616069542D201CC3C324C29ABD016EB98AB8EB4FD1E84235B361CDFDB3D01D3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-34C2064D846D9ACF9E6676A5A2AACA6A4A050DD96E212DE228693CD54D6A3AA5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-590E2351D4640C4A6344688861735C3E75634069D9D78ADF534FC47D9BC6ECAF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7B24FB4F80726281B054F18C925DE060E30ED47F45045D1907996C81858EE4C3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-87644ED68023431B12CC4D9D15499884960C940CFD89E229D8320A0379D4F2DD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F2F9C3D190D77557908EEB1612A006509757350AE9FC060C3641C7B777F7100C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7A3614131E9D7604F01C2C41CD164E736F121E3ABC2D01E32C3691A48A2F891F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9FB3FAD8EDB02888EFCC4A3844AE8AF010DB82ADF753725DCD05A6ACAF3BE06A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C5B4F7DC924E472C48EFACDBCC606F9D65A6A5B5C35F29E2C9A4A01D085D87D4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3C37A0B30CFAE1EF1D0A305FC11096DDF6E8C27B3A46B73B0F119E754CEF2168",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2EA5514A0309F98EA486473B18789E2EC6473E5A11918F806576D7F1DFCE6190",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-95A479B571C1D06C4B1492DCD2D1DE3BCFE384FB5E5CD325FCDF35BC26AE8C06",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-485FD3D98580FAA6D03AD03354053F1AD1320800475AB453DCD8A094A0C5F9A2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CCD70CB3703F3B30026B04CF4715F6299F03D9E0CF1D0D93F7FE5DAA1755BB12",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E28ECC52EF6C564B4D629BE04A95395AA6692EC0BACBF3477FD9E19C91B658CA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1D921AEE8B23CEBC51993965641C9165A6FAD7201F0487C325C05C4AE7183D50",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B8B3112BE93925735BFE4197D08EBE207C25A8AEB8A097504634CFBB431E0A09",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-42EF94648B7829F91F7731F3A9061FA5678175356E4E3F6EE65769EFB8DEC790",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C9737164367520E1ABDF814C1ADFE926A512A06F07448D54710FEDEE19836FDD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-56EBD6F7C10D481A1F968578ED0C42E8825807F594ABFD1FCCC7737C45EB517B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6AFB9232B124550AA958C213C63D4C6B9606757D9940087F811CD54748D60897",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FA5EB85370A769C0847DA1628D2CEB5DF5A9CB4DDB1BB51A4ECD501E122F166E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1C11F0C011F8C226B29C2F1653C87D9EECB73F811B271AE024841F87768B8B79",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1614606F036F1E3C46E200B4F23E84CD71033A4233F8AADF3E0455BFC2D2C409",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B9430DC6FC40D90F6A14F1AE8BBD71AD860E54B4F6E8E6CFF84AC1BA0978B110",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-762F166B4E550019583A2DCD9A65AE91B49BA397AB14590DBFC7CD2026F5F93A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2F83F5D74D1DB3422E1463145D3123F2D4F0A499333367099095D08AB8D72A51",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B36F4FFC9BD31E89BD8054B03B8B2D7C9EE790CAB94272ED392E6D6CE1B65D2D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-338BBA8103CFC21074A7E19ED98CDF6EBDD94EE45D2D27B587316AFE684061B9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F42C5C150FBD0A347EE8ED9F719BF326565C4566C95B0486E36E1AE138542BDD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AA75A630DC78FC28DB9863ADB306AAC4B3C0CFFB9F5FA0F7CCB95D884CB5DFD1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-43B7F2F9338515B0EBDC12987E89793980DAD251B833B5F947CD0163C27965CF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A72D0738E330D944894E21D30CE971EAC01D166FA68CF9C6C8FD3F8FFF297D77",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E17F2F3D9ADA27EA54497E7A7D56A9DDF78E14F963106F43890A194521835D4E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ACC610FA4BCC6FB92624F046CF5533CD4416773E8C63EA520B22B3D00CA3B922",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3EB1A8100D2B9FAC20AB37BE8E582C14856EA2B9242F3C85160CB6FDF2396227",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8E29ED29DBE5FC9D335CC60967B81E3E89B6A8D1650E4EAF4519E64F3AF34884",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ED481D1BF1072CA8D5FE5D12EF4733F107DB1A534E6B11BA0AC8FD85D1A7DC28",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E6D588EDD24A7A388F35517C9E99C71A6EE095F9C77D7AF6F285B238A8A5494F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3672E2CAF66E3B44D5E1A0E01F073437317093C9AE7BCC9826FAD012DD82EFAC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EED265E0C296EE8B140D8237B7367B354DBBD36C1E02A62B2709A51EC3DE2E68",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-69CEF2FBDBCDDACA6D718F6DF351C94D394604E3FAC4AF555207490B8C60F265",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-90CB36A8D00A186BF42AC44749F08E10F97766C72AC7D6445BB00CF950DCCCFF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-086E6161BAEAC6CF425D1964B8E255CCAA058275F29AD47E5DBE2827E8FC55F0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FB85A8FE2420F302CAFCD9D8AFBC93F5455A7E88176B39711D324C51DA44F073",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5F0F2F906F87D420B95EAF26CDE5048EAC415B9422B580CAA1CB4DCCD37C6719",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8D73642EE32C4608ABF5FA3263051F64EF0D50871006E6B47DD952A9774344B2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3B2AADBF4F4650F137D6B1FB5175DAC151B8F33C4EE78541AC08454FCDA9949D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-55809767D34E4D49702B65F47F083880711F94DBCDFA0E8F067DAC2B2756D19D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D4089B116CDD6E7EA364426DC4CE9B983A5BB0A35FF4F1173BC897C869101B78",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D069DC83E82736D0494FC67C3252676A89D66200AB34E9AD59AA46CF6CAB3FCC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-989163E25946D8FF1893F643598DBF20F9E96E6861B41D20C8B03921E9A69814",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E8AA63E66834B195EBC11410F2B38926F9893510862B039242DF67AF2A55DC3F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-89DC5692E4C417D8661270CFD14730AA75FC10F76E7D0F9485637573AD33FF19",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EA61630F79CA65BFC93B0AEE968F96697324C4C2B04CB72D7ACD9638D6E5D3F0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B4CDF649789AA9FE8D208FD7ACE68674D3E002623201FD4C27E6EA0CB0624D3F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ADB2A3125D2AAB86C4E84C00A59935EC69F4F78169E4E0B7A803D9DC8AE56FC6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C4CF6814174715032586D98BB8BE91D3C36BF7574DE032C51D844ADAF546E75A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F53D26A6A7ABDA05936E0A1C960D244D0B71A8F8063E9AB90ED38FD26B950FB7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6E2861756A84D4C46E981D51968A7C1DE368A130327ED3A4B18EF03EFAE7F681",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F75127BC799EEC44240D16BC8EE33709FD15EA352021E933AD05E1E5374B70C4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F7023D2238A1BBF9141044A57F9BCE5BDEF1F9771C491DBDA52171F56079B4E2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1B60EEDCC2DD0F6FD13C4E313F5AD43C608038A39A07466A7D85FB0B5F8999C0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-50852D1E7FA3C3283786B46CDAD8A68D1DEE8A9DB0334E741337751274B6A9FF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BDA6A7B8E3513129E3614020901523DDFF3776BE822082AEA6EEAD5FBC28AB1A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8F8090AC7E21213777B31455C578397415FD07558D2F76AC0B45A5C0EF86DCA8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-943CB33C024CDF0B606CA6734399F5FAB95C8EE81721FD59B38824E09CA83A8F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-883B39050B4E2C1695156C17C0A3946BE52297C45D4A11FB7A34E63EFF9704B9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-75A62E11AB95B797BD94D3B9CFF94D6A35DA4B9C1C3C975172296629B55AE6D2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EDFDEE17DFAC033CB82C4F93BD4018BDCD7445BCC383C56087BF73750B4537B6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-536FDA9AA8014020F26DF6A6198DA77396085D7CB9733D9FEFF092C566933C6B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-07A4A0226BBFFB9F1126F085DB1E2A9E232ECF0693AF8AB8085AB6EDF3A7960D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-45C08B0A13AF453E84DEDCCF55CA1B360F1503EE80B8990E9A77FDCE586003E3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-28A0EF57387AFFFD16AE80D4AABF4A10C81C5CC548E98A9172C16DAD49779F21",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B867E969186CE9EAC632386F72D8BD5E3A8CC09325A3D499FAF03D379D0D94CB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EF30D39401A440047DB7AC7A4734243C1469EB068D08F436912730C4200C1008",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FC5FA9C52DED2F20D4358638B21631A5BD101DDF0FE2A2EF217D2193717DF11B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EA0B2CB5FAA8E007CA0E009AFAB4650F123D0343E350DF3CA5BE5556A87AD994",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D2B4A4856FC3CFED12BD1D00D785D0F02323C49DBA78DC8E0D8F372184F3EEDC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-67C6585E8E28D490761E91CB0F1A93D0F38D4CAC53A181594516A068FD3F13DD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2F2E715707675BE1AD656496EFCEED70E33C31F16622650497A14586073B9FB5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E40B90A9CEC73AD1DB41AFD2BDAF58AA1275CAACBB7A030F1027437562857930",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AEAA3A9E28DB211478526C094F4A9875F294DC25C2447A549961F331B8B338FB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-294122A8C7CD90327A05C5ADAD9F46BC0A047115CB1D45E6962C8BD0057DE8D8",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-177EE4CFC52B6A8A868379A4136176821640B2552A4CFFC571A2D64D152D531A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3B728C73C3ED6EDB60110E520361EFB877DD9B2CAB39AB04A09540B3848D44ED",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-53452A9612149D1C777073173C305C9D012C7DF99ADEB5026F16AC62246A01E5",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D40440F5F83E9DD5BFC6362F9B9C2591B34DB369E653EBC1A1011E9C46377840",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7A19B52E8F896DB3BED127884BD6019DD768CE9CCC37946BA4A0EC82B7734049",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6D2AF7C4258E2F6D70E9FA3F94EAC7F5872476E60F744127DC501735C58C13C2",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A6E91CA5DFAA3DD7B9138D42A10F0E0AB0A48CA0A696C00AC88E09236B8EAE95",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F6001A48857D236BA810FA40E43707182FAFEAF37F47274F8B520A6366563355",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-11D6A411064563DF8F0A7442E05B403ECFC66046D63BDB62CD0E96EC8FC78ABF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C290A19C4F712C674A2201FAE22F3F9CF1A408C34E189BFEFA981DFBB1A6EEA1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8084067460BA04A9E871039362A3B716AF609F882E7818D5FDF419F0BF61EA86",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C451FF33AB4F5E5EC1D2F77CAE7C9256FBEADD774147C5EAE474EF3533A2AD10",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F7ABD87F01A0481B6B267B19ED4F29B2707137D7065C9830EF7E6F4DB5E7EEC0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-DDEF3E07CEF5AF259BD89C9CB12F972F26D91944EB56CE5EE054F8EA9DE7EB36",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D2396164A1321E0431FE75CD9905510E1F78553ABAB2B5F6B29DA003BB5A4DD6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-182196DB5B9FE902D7D444C8FFF468088433B8D98984377C7949C15B2E6B35C6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1A301C8AA46CD2D0409892D4054AAE94DE4E18A94F15CA40CDFD3C939DBE4E3B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0EF1541EDE4AF33A5EBBDC2B35E341637ED9048F766EE85663C0D078E614E0FC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9D67864A512030B8460F7EDE611C545802A3B5815F4D45F10D3A9FDA03591B75",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-82A9D6E42799F2AC494583D5CE834F497D720B3B04E2549CE3A44FC70C057394",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1307A39F273B5DD83CD21B8688B9BA4A37D1E1D0D03994CD83342137D3DC40E9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-37ED6C4EA8447BD84469A5BA731FCE918BFC31EC55E4565BDE8B09D1542C2637",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3CB3EC4B4E7EFFAC24832EE6748792402042B40D6123ED022C09C55BF466618A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E2B54635DF0AE7BA6886CF29768983A2BF485DE39BF7257D4617C147CEFAEDA0",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D610E929A8F9900C3936465F797F7B4B81C63D684D717FB4D9FDEFA89F22606E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6F474A84D2083AB3326A17850CE3C92D8438A9435E9B4D99BFDAE9F8183B7822",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3C9083C2FA080EA73D1F0B029ED9BEF77FF369E87B14193F6F02D8550D3770B3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-10BACAFB6087707DCF116653B779A85964F0EF64039450685BF200CC75609FEB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-91D7DD8A08096C4A0D4A2B84853AB485C0F6E9D1A3E98308D83C781CAFAF986E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C6E932756A9242C20A3191625E752B03AF0915B2DC02F3C1DFDB6E9E88F89399",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CFC998E6FE3BE97B8C60427DB3377402E5F4273805F0051A48157102BCD0A788",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-EE024733BD5CA794EF646C4ABD7773305C77965354A1AFDC581641C4B2A62A3D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1D058FE897EC4DB19839E9D68CD2D42D103F04FF1A9BE2EA7B9DD541F0D4043A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A24E8A6162010E6FF910FC242E0AAA830D5EB7147132516D84C0800198186E5F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-ED3BE6B78EC135DA8F7B5A6B2592E6C7C45DBF05B23321AF58D0A624981F3B84",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9DE25164F12562E9269D68F895FDE04680BD8A79C2A390B77415507253E27009",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9B38ADC535FFBDF8D5C68531ABB54AC47F8A9AB983724A27DB2E87747F4C23CE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B2BFB5FEA9C18BDC2317584FB860B78E441F7A607888EA0611698CF45438F2B9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-80367DA36AD9057068B1562917DFE44AD9FDD12D922EFC9F58A9300DCE5C35FA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-67161070C5AAE69DD61DC446F107ACFBD2326EBD3F177372A4CFBCBEFC311E7A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9A329D4BBF8BD8BBB4D07B7C4BBDBB7599B73F4F38137E214AB97497AA48CAC9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4378B3C9B8ADA77A594D2A8AE7B2F029E5854C0BF04C539695BD60814DAF0CFE",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6544972404C4E189FD39FADF61B3ECE6AC9C6394B2A684210461E4F129775028",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F011B9BA906EE89C0C98A65F5E9E7287A6097E2359A507FA208021F2AA19BFBC",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-16DFB9F566AA8602DC89FBCB5A9A8C3C91FD48C86949A4DBE3C97A588FCAA87A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-828B324434CCF72B137E333C0EB0EF8EC4EA59D9316B18FD3743CDFC2382A10D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-333CEA4CD500B1CFAD69901B0B8E3F9EE1E5EDD99DBBAFF5A0A263F37C4BCF8B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-F7F191B9C899EBA45AA3C608EB111F951DD5385B2BB90C0E3BF21D2E9867591B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-3B94DA3FC60227629519DC9F9469D067518147CDE63929CA402BF08F5F0DAD02",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9F41FECE815EF6553C44228A3392A6A0EC2D299B36CD793F932727EAEB96C7FF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SP

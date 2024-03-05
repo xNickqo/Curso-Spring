@@ -1,0 +1,6 @@
+connected:Falsethis.wasAlive:False
+2024-01-09 22:16:47,668 [19] DEBUG GameManagerClient [(null)] - OnKeepAliveTimeEventTriggered. connected:Falsethis.wasAlive:False
+2024-01-09 22:16:47,668 [80] DEBUG GameManagerClient [(null)] - OnKeepAliveTimeEventTriggered. connected:Falsethis.wasAlive:False
+2024-01-09 22:16:47,668 [79] DEBUG GameManagerClient [(null)] - OnKeepAliveTimeEventTriggered. connected:Falsethis.wasAlive:False
+2024-01-09 22:16:47,668 [80] DEBUG GameManagerClient [(null)] - OnKeepAliveTimeEventTriggered. connected:Falsethis.wasAlive:False
+2024-01-09 22:16:47,668 [79] DEBUG GameManagerCl

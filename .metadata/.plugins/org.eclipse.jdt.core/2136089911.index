@@ -1,0 +1,3168 @@
+ 2.86849 4.93392 2.9043 4.8916C2.9401 4.84603 2.97754 4.81185 3.0166 4.78906C3.05566 4.76628 3.10612 4.75326 3.16797 4.75C3.22005 4.75 3.27051 4.76302 3.31934 4.78906C3.36816 4.8151 3.4056 4.85091 3.43164 4.89648L4.08105 5.95605C4.11035 6.00488 4.14941 6.04232 4.19824 6.06836C4.24707 6.0944 4.30241 6.10905 4.36426 6.1123C4.47493 6.1123 4.5612 6.07161 4.62305 5.99023C4.6849 5.90885 4.71745 5.81608 4.7207 5.71191C4.7207 5.66634 4.71582 5.62565 4.70605 5.58984C4.69629 5.55404 4.68164 5.51497 4.66211 5.47266C4.52865 5.1862 4.4196 4.90462 4.33496 4.62793C4.25033 4.35124 4.20801 4.05013 4.20801 3.72461C4.20801 3.31445 4.27637 2.95475 4.41309 2.64551C4.5498 2.33626 4.74023 2.07096 4.98438 1.84961C5.22852 1.62826 5.51335 1.44922 5.83887 1.3125C6.16439 1.17578 6.5127 1.07324 6.88379 1.00488C6.89681 1.00163 6.91471 1 6.9375 1C7.01237 1 7.0791 1.02441 7.1377 1.07324C7.21256 1.13835 7.25 1.2181 7.25 1.3125C7.25 1.80078 7.33301 2.26628 7.49902 2.70898C7.66504 3.15169 7.89453 3.56673 8.1875 3.9541C8.36654 4.18848 8.5472 4.42448 8.72949 4.66211C8.91178 4.89974 9.07943 5.14714 9.23242 5.4043C9.38542 5.66146 9.50911 5.92839 9.60352 6.20508C9.69792 6.48177 9.74675 6.778 9.75 7.09375C9.75 7.44206 9.70768 7.7806 9.62305 8.10938C9.53841 8.43815 9.41471 8.7474 9.25195 9.03711C9.08919 9.32682 8.89714 9.5905 8.67578 9.82812C8.45443 10.0658 8.20378 10.2725 7.92383 10.4482C7.64388 10.624 7.34277 10.7591 7.02051 10.8535C6.69824 10.9479 6.35807 10.9967 6 11C5.64193 11 5.30176 10.9528 4.97949 10.8584C4.65723 10.764 4.35775 10.6289 4.08105 10.4531C3.80436 10.2773 3.55208 10.0706 3.32422 9.83301C3.09635 9.59538 2.9043 9.33008 2.74805 9.03711C2.5918 8.74414 2.46973 8.4349 2.38184 8.10938C2.29395 7.78385 2.25 7.44531 2.25 7.09375Z"
+                            fill="#D63600"
+                            style="fill:#D63600;fill:color(display-p3 0.8400 0.2100 0.0000);fill-opacity:1;"
+                        />
+                    </svg>
+                </span>
+                <span class="insightsText" title="${t=>t.productInsights}">${t=>t.productInsights}</span>
+            </div>`)}
+    </template>
+`});class rO extends uy{constructor(){super(...arguments),this.onKeyPressHandler=t=>{switch(t.key){case"Space":case"Enter":t.preventDefault(),this.onSelectedHandler()}},this.onSelectedHandler=()=>{document.activeElement!==this&&this.focus(),this.$emit("selected")}}connectedCallback(){super.connectedCallback()}disconnectedCallback(){super.disconnectedCallback()}onClickHandler(){this.onSelectedHandler()}}Ay([wo],rO.prototype,"mainTitle",void 0),Ay([wo({attribute:"sub-title"})],rO.prototype,"subTitle",void 0),Ay([wo],rO.prototype,"otherItemsTitle",void 0),Ay([wo],rO.prototype,"orderSummary",void 0),Ay([wo],rO.prototype,"hasMultiple",void 0),Ay([wo],rO.prototype,"isV2",void 0),Ay([wo],rO.prototype,"progressPercentage",void 0),Ay([wo],rO.prototype,"heading",void 0),Ay([wo],rO.prototype,"trackerKey",void 0),Ay([wo],rO.prototype,"imageSrcs",void 0),Ay([fo],rO.prototype,"childElements",void 0);function aO(t){try{return JSON.parse(t.imageSrcs)}catch(t){return[]}}const sO=rO.compose({baseName:"package-tracker-card-new",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+    ${av("flex")} :host {
+        position: relative;
+        box-sizing: border-box;
+        border: none;
+        border-radius: 10px;
+        font-family: ${ha};
+        font-size: ${fa};
+        line-height: ${ma};
+        color: ${Kl};
+        width: 100%;
+    }
+
+    .control {
+        position: relative;
+        font-family: ${ha};
+        box-sizing: border-box;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+        border-radius: 10px;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        padding: 16px 0px;
+        width: 100%;
+        cursor: pointer;
+        justify-content: center;
+        background: var(--fill-color);
+        margin-bottom: 12px!important;
+    }
+    .control-v2 {
+        position: relative;
+        font-family: ${ha};
+        box-sizing: border-box;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        padding: 12px 0px;
+        width: 336px;
+        cursor: pointer;
+        justify-content: center;
+        background: var(--fill-color);
+        margin-bottom: 12px!important;
+        margin-top: 12px!important;
+    }
+    .order-summary {
+        font-weight: 600;
+    }
+    .productList {
+        margin-top: 8px;
+        display: flex;
+        flex-direction: row;
+        column-gap: 8px;
+    }
+    .product {
+        background-color: #FFFFFF;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        border-radius: 8px;
+        font-weight: 400;
+        font-size: 20px;
+        text-align: center;
+        color: #000000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        place-self: center;
+        width: 66px;
+        height: 66px;
+    }
+    .content-info {
+        max-width: 200px;
+    }
+    .other-products {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+    .product-v2 {
+        background-color: #FFFFFF;
+        background-position: center;
+        background-size: cover;
+        border-radius: 8px;
+        font-weight: 400;
+        font-size: 20px;
+        text-align: center;
+        color: #000000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        place-self: center;
+        width: 40px;
+        height: 40px;
+    }
+    hr {
+        margin-top: 20px;
+        border: 2px solid #000000;
+        opacity: 0.04;
+        border-bottom: unset;
+    }
+    .card-content {
+        width: calc(100% - 24px);
+        margin: auto;
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 10px;
+        height: auto;
+    }
+    .card-content-v2 {
+        width: 250px;
+        margin: auto;
+        margin-left: 40px;
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 10px;
+        height: auto;
+    }
+    .card-header {
+        display: grid;
+        grid-template-columns: 16px auto;
+        grid-column-gap: 3px;
+        justify-content: flex-start;
+        align-content: center;
+        align-content: flex-start;
+        align-items: center;
+    }
+    .heading {
+        margin-left: 3px;
+    }
+    .card-header-v2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .card-header-top {
+        display: flex;
+        flex-direction: row;
+        gap: 8px;
+    }
+    .card-header-bottom {
+        margin-top: 8px;
+        margin-left: 28px;
+        width: 276px;
+    }
+    .header-wrapper {
+        width: calc(100% - 24px);
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .others-wrapper {
+        width: calc(100% - 24px);
+        margin: auto;
+    }
+    .txtMainTitle {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        font-weight: 600;
+    }
+
+    .txtDescription {
+        font-size: 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        color: rgba(0, 0, 0, 0.55);
+    }
+    ::slotted([slot="main-image"]) {
+        border-radius: 4px;
+        filter: drop-shadow(0px 1.6px 3.6px rgba(0, 0, 0, 0.13)) drop-shadow(0px 0px 2.9px rgba(0, 0, 0, 0.11));
+        width: 80px;
+        height: 80px;
+        overflow: hidden;
+    }
+    ::slotted([slot="main-image-v2"]) {
+        border-radius: 8px;
+        width: 40px;
+        height: 40px;
+        background: rgba(0, 0, 0, 0.04);
+        background-blend-mode: multiply, normal;
+        overflow: hidden;
+    }
+    ::slotted([slot="icon"]) {
+        width: 20px;
+        max-width: 20px!important;
+        height: 20px;
+        overflow: hidden;
+    }
+    ::slotted([slot="drop-image"]) {
+        width: 83px;
+        height: 64px;
+        overflow: hidden;
+    }
+    ::slotted([slot="more-actions"]) {
+        background-color: transparent;
+        height: 12px;
+        width: 12px;
+    }
+    .title {
+        overflow: hidden;
+        display: -webkit-box!important;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        margin: 0 8px;
+        grid-column: 1/2;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: center;
+        word-break: break-all;
+        overflow-wrap: break-all;
+        color: #FFFFFF !important;
+    }
+
+    .sub-title {
+        font-size: ${ba};
+        line-height: ${Ta};
+        color: ${ql};
+        text-align: start;
+        margin-inline-start: 0px;
+        margin-top: 0px;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        max-width:75px;
+    }
+    @media (prefers-color-scheme: dark) {
+        span {
+            color: var(--neutral-foreground-rest)!important;
+        }
+        hr {
+            opacity: 0.08;
+        }
+        .control-v2 {
+            background-color: #424242;
+        }
+    }
+`,template:(t,e)=>ev`
+    <template>
+    <a
+        class=${t=>t.isV2?"control-v2":"control"}
+        part="control"
+        tabindex="0">
+        ${tb((t=>t.heading),ev`
+                <div class="header-wrapper">
+                <div class=${t=>t.isV2?"card-header-v2":"card-header"}>
+                ${tb((t=>t.isV2),ev`
+                    <div class="card-header-top">
+                        <slot name="icon"></slot>
+                        <span>${t=>t.heading}</span>
+                        ${tb((t=>t.orderSummary),ev`<span class="order-summary"> · ${t=>t.orderSummary}</span>`)}
+                    </div>
+                    <div class="card-header-bottom">
+                        <slot name="progress-bar">
+                        <${t.tagFor(Qb)} class="progress-bar" part="progress-bar" min="0" max="100" value="${t=>t.progressPercentage}" aria-hidden="true">
+                        </${t.tagFor(Qb)}>
+                        </slot>
+                    </div>
+                `)}
+                ${tb((t=>!t.isV2),ev`
+                    <slot name="icon"></slot>
+                    <span class="heading">${t=>t.heading}</span>
+                `)}
+                </div>
+                <slot name="more-actions" slot="more-actions"></slot>
+            </div>`)}
+        <div class=${t=>t.isV2?"card-content-v2":"card-content"}>
+            <slot name=${t=>t.isV2?"main-image-v2":"main-image"}></slot>
+            <div class="content-info">
+            ${tb((t=>!t.isV2),ev`
+                <span class="txtMainTitle">${t=>t.mainTitle}</span>
+                <slot name="progress-bar">
+                    <${t.tagFor(Qb)} class="progress-bar" part="progress-bar" min="0" max="100" value="${t=>t.progressPercentage}" aria-hidden="true">
+                    </${t.tagFor(Qb)}>
+                </slot>
+            `)}
+            ${tb((t=>t.hasMultiple&&t.isV2),ev`
+                <div class="other-products">
+                    ${gA((t=>aO(t)),ev`
+                    ${tb(((t,e)=>e.length<5||e.index<3),ev`
+                        <div
+                            class="product-v2"
+                            style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03)), url('${t=>t.productImageUrl}');"
+                            aria-label="${t=>t.productName}"
+                        >
+                        </div>
+                    `)}
+                    `,{positioning:!0})}
+                    ${tb((t=>{var e;return(null===(e=aO(t))||void 0===e?void 0:e.length)>4}),ev`
+                        <div
+                            class="product-v2"
+                            style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03));"
+                            aria-label="+${t=>{var e;return(null===(e=aO(t))||void 0===e?void 0:e.length)-3}}"
+                        >
+                            +${t=>{var e;return(null===(e=aO(t))||void 0===e?void 0:e.length)-3}}
+                        </div>
+                    `)}
+                </div>
+            `)}
+            ${tb((t=>!t.hasMultiple||!t.isV2),ev`
+                <span class="txtDescription">${t=>t.subTitle}</span>
+            `)}
+            </div>
+        </div>
+        ${tb((t=>t.otherItemsTitle),ev`
+                <div>
+                    <hr></hr>
+                    <div class="others-wrapper">
+                        <span>${t=>t.otherItemsTitle}</span>
+                        <div class="productList">
+                            ${gA((t=>aO(t)),ev`
+                            ${tb(((t,e)=>e.length<5||e.index<3),ev`
+                                <div
+                                    class="product"
+                                    style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03)), url('${t=>t.productImageUrl}');"
+                                    aria-label="${t=>t.productName}"
+                                >
+                                </div>
+                            `)}
+                            `,{positioning:!0})}
+                            ${tb((t=>{var e;return(null===(e=aO(t))||void 0===e?void 0:e.length)>4}),ev`
+                                <div
+                                    class="product"
+                                    style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03));"
+                                    aria-label="+${t=>{var e;return(null===(e=aO(t))||void 0===e?void 0:e.length)-3}}"
+                                >
+                                    +${t=>{var e;return(null===(e=aO(t))||void 0===e?void 0:e.length)-3}}
+                                </div>
+                            `)}
+                        </div>
+                    </div>
+                </div>
+        `)}
+    </a>
+    </template>
+`});class lO extends uy{constructor(){super(...arguments),this.onKeyPressHandler=t=>{switch(t.key){case"Space":case"Enter":t.preventDefault(),this.onSelectedHandler()}},this.onSelectedHandler=()=>{document.activeElement!==this&&this.focus(),this.$emit("selected")}}connectedCallback(){super.connectedCallback()}disconnectedCallback(){super.disconnectedCallback()}onClickHandler(){this.onSelectedHandler()}}Ay([wo],lO.prototype,"supportPageUrl",void 0),Ay([fo],lO.prototype,"childElements",void 0);const cO=lO.compose({baseName:"price-match-card",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+    ${av("flex")} :host {
+        position: relative;
+        box-sizing: border-box;
+        border: none;
+        border-radius: 10px;
+        font-family: ${ha};
+        font-size: ${fa};
+        line-height: ${ma};
+        color: ${Kl};
+        width: 100%;
+    }
+    .control {
+        position: relative;
+        font-family: ${ha};
+        box-sizing: border-box;
+        border-radius: 10px;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        padding: 12px 16px;
+        max-height: 120px;
+        width: 100%;
+        cursor: pointer;
+        justify-content: space-between;
+        background: var(--fill-color);
+        margin-top: 6px!important;
+        margin-bottom: 6px!important;
+    }
+    .productDetailsWrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 50px;
+    }
+    .priceMatchTexts {
+        width: 230px;
+        height: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .priceMatch {
+        height: 40px;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .priceMatchTitle {
+        color: #1A1A1A;
+        height: 32px;
+    }
+    ::slotted([slot="claimText"]) {
+        display: inline-block;
+        font-size: 12px;
+        color: #424242;
+        font-weight: 400;
+        line-height: 16px;
+        height: 16px;
+    }
+    .buttonWrapper {
+        padding-top: 12px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .control {
+            background-color: #424242;
+        }
+        .priceMatchTitle {
+            color: #FFFFFF;
+        }
+    }
+`,template:(t,e)=>ev`
+    <template>
+        <div class="control wrapper" part="control" tabindex="0">
+            <div class="productDetailsWrapper">
+                <div class="priceMatchTexts">
+                    <div class="priceMatch">
+                        <slot name="priceMatchTitle"></slot>
+                    </div>
+                    <slot name="claimText"></slot>
+                </div>
+                <slot name="image"></slot>
+            </div>
+            ${tb((t=>t.supportPageUrl),ev`
+                <div class="buttonWrapper">
+                    <slot name="button"></slot>
+                </div>
+            `)}
+        </div>
+    </template>
+`});class dO extends tS{constructor(){super(...arguments),this.isRevampExpActive=!1,this.isVideoCard=!1,this.hasAnnotation=!1,this.inCollections=!1,this.isCjk=!1}}Ay([wo],dO.prototype,"priceCurrency",void 0),Ay([wo],dO.prototype,"price",void 0),Ay([wo],dO.prototype,"priceHundredthText",void 0),Ay([wo],dO.prototype,"savings",void 0),Ay([wo],dO.prototype,"lowest",void 0),Ay([wo],dO.prototype,"retailer",void 0),Ay([wo],dO.prototype,"description",void 0),Ay([wo],dO.prototype,"isPWILOExpActive",void 0),Ay([wo],dO.prototype,"isAd",void 0),Ay([wo],dO.prototype,"isAffiliate",void 0),Ay([wo],dO.prototype,"ariaSetSize",void 0),Ay([wo],dO.prototype,"ariaPosInSet",void 0),Ay([wo],dO.prototype,"isPCBOffer",void 0),Ay([wo],dO.prototype,"strikethroughprice",void 0),Ay([wo],dO.prototype,"originalPrice",void 0),Ay([wo],dO.prototype,"ariaLabel",void 0),Ay([wo],dO.prototype,"isInCjkFlyout",void 0),Ay([wo],dO.prototype,"isFirst",void 0),Ay([wo],dO.prototype,"isNotification",void 0),Ay([wo({mode:"boolean"})],dO.prototype,"isNoAlign",void 0),Ay([wo({mode:"boolean"})],dO.prototype,"isRevampExpActive",void 0),Ay([fo],dO.prototype,"isVideoCard",void 0),Ay([fo],dO.prototype,"hasAnnotation",void 0),Ay([fo],dO.prototype,"inCollections",void 0),Ay([fo],dO.prototype,"isCjk",void 0);const uO=Ey`
+    ${av("grid")} :host {
+        --content-max-lines: 2;
+        --text-price-color: #1a1a1a;
+        --ad-slug-color: #d1d1d1;
+        --ad-slug-text-color: #000000bd;
+        outline: none;
+        font-family: ${ha};
+        font-size: ${ya};
+        font-weight: 600;
+        line-height: ${va};
+        min-width: calc(${Yv} * 1px);
+        border-radius: calc(${ca} * 1px);
+        box-sizing: border-box;
+        color: ${Kl};
+        fill: currentcolor;
+        cursor: pointer;
+        height: auto;
+        position: relative;
+    }
+    :host {
+        display: block;
+        box-sizing: border-box;
+    }
+    :host(:hover) {
+        background: linear-gradient(
+            265.08deg,
+            rgba(36, 255, 0, 0.06) -6.71%,
+            rgba(0, 210, 255, 0.06) 38.87%,
+            rgba(255, 188, 125, 0.06) 93.88%
+        );
+    }
+    .control: ${Wv} {
+        box-shadow: 0 0 0 calc(${ua} * 1px) ${mc};
+    }
+    .productCardWrapper {
+        display: flex;
+        flex-direction: row;
+        column-gap: 12px;
+        padding: 12px;
+        height: auto;
+        width: 100%;
+        align-items: center;
+        box-sizing: border-box;
+        text-decoration: none;
+        background: transparent;
+        outline: none;
+        border: none;
+        color: inherit;
+        fill: inherit;
+        border-radius: 0px;
+        border-top: var(--product-wrapper-border, 1px solid rgb(236, 236, 236));
+        position: relative;
+    }
+    .productCardWrapper.notification {
+        margin-left: 16px;
+        margin-right: 16px;
+        width: unset;
+        padding-left: unset;
+        padding-right: unset;
+        column-gap: 6px;
+    }
+    .productCardWrapper.noAlign {
+        align-items: unset;
+    }
+    .productCardWrapperCjk {
+        display: flex;
+        flex-direction: row;
+        column-gap: 12px;
+        margin: 12px 12px 12px 0px;
+        margin-left: 16px;
+        margin-bottom: 12px !important;
+        height: auto;
+        width: auto;
+        align-items: center;
+        box-sizing: border-box;
+        text-decoration: none;
+        background: transparent;
+        outline: none;
+        border: none;
+        color: inherit;
+        fill: inherit;
+        border-radius: 0px;
+        position: relative;
+    }
+    .isFirst {
+        border-top: none !important;
+    }
+    .divPriceInfo {
+        display: flex;
+        flex-direction: column;
+        margin-left: auto;
+        width: max-content;
+    }
+    .divLowestPrice {
+        width: auto;
+        height: 16px;
+        background-color: #eff9f4;
+        border-radius: 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: max-content;
+    }
+    .divLowestPriceNoBackGround {
+        background-color: transparent;
+    }
+    .divPrice {
+        text-align: right;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-left: auto;
+    }
+    .txtPrice {
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 22px;
+        color: var(--text-price-color);
+    }
+    .txtPriceStrikeThrough {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 16px;
+        color: #707070;
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+        text-decoration: line-through;
+    }
+    .txtPriceDecorative {
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 14px;
+        color: var(--text-price-color);
+        margin-bottom: 2px;
+        margin-left: 1px;
+    }
+    .txtPriceDecorativeCjk {
+        font-family: "Roboto", "Segoe UI", Helvetica, Verdana, sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 14px;
+        color: var(--text-price-color);
+        margin-left: 1px;
+    }
+    .txtPriceSmall {
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 22px;
+        color: var(--text-price-color);
+    }
+    .txtPriceDecorativeSmall {
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 14px;
+        color: var(--text-price-color);
+        margin-bottom: 2px;
+        margin-left: 1px;
+    }
+    .txtPriceDecorativeSmallCjk {
+        font-family: "Roboto", "Segoe UI", Helvetica, Verdana, sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 14px;
+        color: var(--text-price-color);
+        margin-left: 1px;
+    }
+    .txtDescription {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .txtDescriptionBold {
+        font-weight: 600;
+        -webkit-line-clamp: 1;
+    }
+    #couponText {
+        color: var(--text-neutral-foreground-hint);
+    }
+    .currency {
+        display: flex;
+    }
+    #cents {
+        margin-top: 2px;
+        margin-left: 1px;
+        font-weight: 600;
+        font-size: 10px;
+    }
+    #dollarSign {
+        margin-top: 2px;
+        margin-right: 1px;
+        font-weight: 600;
+        font-size: 10px;
+    }
+    .txtDescriptionFirst {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    #couponDiscount {
+        display: flex;
+    }
+    #couponIcon {
+        margin-right: 5px;
+    }
+    .txtCollSavings {
+        display: flex;
+    }
+    .txtSavings {
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 16px;
+        text-align: right;
+        color: var(--text-green-savings-color);
+    }
+    .txtSavingsCJK {
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 16px;
+        text-align: right;
+        margin-top: 4px;
+        color: #de3700;
+    }
+    .txtLowestPrice {
+        font-size: 9px;
+        line-height: 8px;
+        letter-spacing: 0.02em;
+        color: var(--text-green-savings-color);
+        text-align: center;
+        font-weight: 600;
+        margin: 0px 5px;
+    }
+    .txtRetailer {
+        font-size: 12px;
+        line-height: 16px;
+        text-align: left;
+        vertical-align: middle;
+        font-weight: 400;
+        max-width: 120px;
+        color: var(--text-price-color);
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .txtRetailerV2 {
+        color: var(--light-foreground-foreground-1, #242424);
+        color: var(--light-foreground-foreground-1, color(display-p3 0.1412 0.1412 0.1412));
+        leading-trim: both;
+        text-edge: cap;
+        font-family: Segoe UI;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 22px; /* 137.5% */
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .txtRetailer.notification {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .divTextContent {
+        display: flex;
+        flex-direction: column;
+        row-gap: 4px;
+        min-width: 0;
+    }
+    .divTextContentPWILO {
+        row-gap: 0px;
+    }
+    .divTextContentSmallWidth {
+        max-width: 80px;
+    }
+    .divNoTextGap {
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+        min-width: 0;
+    }
+    ::slotted([slot="adslug"]) {
+        border: 1px solid var(--ad-slug-color);
+        color: var(--ad-slug-text-color);
+        border-radius: 4px;
+        padding: 0px 4px 1px 4px;
+        height: 16px;
+        font-weight: 400;
+        font-size: 11px;
+        text-align: center;
+        vertical-align: middle;
+    }
+    ::slotted([slot="previous-price"]) {
+        text-align: end;
+    }
+    ::slotted([slot="delete"]) {
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        z-index: 10;
+    }
+    ::slotted([slot="image"]) {
+        max-width: 66px;
+        max-height: 66px;
+    }
+    ::slotted([slot="tracked-previous-price"]) {
+        text-decoration: line-through;
+        color: var(--text-neutral-foreground-hint) !important;
+        font-weight: 400;
+    }
+    ::slotted([slot="trackingBell"]) {
+        position: absolute;
+        top: 42px;
+        right: 43px;
+    }
+    ::slotted([slot="options"]) {
+        position: absolute;
+        top: 41.5px;
+        right: 18px;
+        z-index: 1;
+    }
+    @media (prefers-color-scheme: dark) {
+        ${av("grid")} :host {
+            --text-price-color: #f7f7f7;
+            --ad-slug-text-color: #ffffffd6;
+        }
+        .txtRetailer {
+            color: var(--text-retailer-color, #ffffff);
+        }
+        .txtRetailerV2 {
+            color: var(--text-retailer-color, #ffffff);
+        }
+        .txtPrice,
+        .txtPriceDecorative,
+        .txtPriceSmall,
+        .txtPriceDecorativeSmall {
+            color: var(--text-price-color, #ffffff);
+        }
+        .productCardWrapper {
+            border-top: var(--product-wrapper-border, 1px solid rgb(236, 236, 236, 0.08));
+        }
+        .divLowestPrice {
+            background: rgba(49, 191, 82, 0.1);
+        }
+        ::slotted([slot="tracked-previous-price"]) {
+            color: var(--text-neutral-foreground-hint, #ffffff) !important;
+        }
+    }
+`.withBehaviors(ov(Ey`
+        :host {
+            forced-color-adjust: auto;
+        }
+
+        :host .control:hover,
+        :host .control:${Wv} {
+            forced-color-adjust: none;
+            box-shadow: inset 0 0 0 calc((${da} * 1px)) ${KT.ButtonText};
+        }
+
+        :host([href]),
+        :host([href]) .control {
+            color: ${KT.LinkText};
+            border-color: ${KT.LinkText};
+        }
+
+        :host([href]) .control:hover,
+        :host([href]) .control:${Wv} {
+            forced-color-adjust: none;
+            box-shadow: inset 0 0 0 calc((${da} * 1px)) ${KT.LinkText};
+        }
+        ::slotted([slot="image"]),
+        ::slotted([slot="start"]),
+        ::slotted([slot="end"]) {
+            color: ${KT.ButtonText};
+            fill: currentcolor;
+        }
+
+        ::slotted([slot="affiliateslug"]) {
+            forced-color-adjust: auto;
+        }
+        ::slotted([slot="affiliateslug"]) .svg .path {
+            fill: ${KT.LinkText};
+        }
+
+        .divLowestPrice {
+            z-index: 1;
+            outline: solid 1px;
+        }
+    `)),hO=dO.compose({baseName:"product-card",shadowOptions:{delegatesFocus:!0},styles:uO,template:(t,e)=>ev`
+    <template>
+        <a
+        class="${t=>t.isCjk?"productCardWrapperCjk":"productCardWrapper"} control ${t=>t.isFirst?"isFirst":""} ${t=>t.isNotification?"notification":""} ${t=>t.isNoAlign?"noAlign":""}"
+        part="control"
+        ${Iv("control")}
+        download="${t=>t.download}"
+        href="#"
+        hreflang="${t=>t.hreflang}"
+        ping="${t=>t.ping}"
+        title="${t=>t.title}"
+        referrerpolicy="${t=>t.referrerpolicy}"
+        rel="${t=>t.rel}"
+        target="${t=>t.target}"
+        role="listitem"
+        type="${t=>t.type}"
+        aria-atomic="${t=>t.ariaAtomic}"
+        aria-busy="${t=>t.ariaBusy}"
+        aria-controls="${t=>t.ariaControls}"
+        aria-current="${t=>t.ariaCurrent}"
+        aria-describedBy="${t=>t.ariaDescribedby}"
+        aria-details="${t=>t.ariaDetails}"
+        aria-disabled="${t=>t.ariaDisabled}"
+        aria-errormessage="${t=>t.ariaErrormessage}"
+        aria-expanded="${t=>t.ariaExpanded}"
+        aria-flowto="${t=>t.ariaFlowto}"
+        aria-haspopup="${t=>t.ariaHaspopup}"
+        aria-hidden="${t=>t.ariaHidden}"
+        aria-invalid="${t=>t.ariaInvalid}"
+        aria-keyshortcuts="${t=>t.ariaKeyshortcuts}"
+        aria-label="${t=>t.ariaLabel}"
+        aria-labelledby="${t=>t.ariaLabelledby}"
+        aria-live="${t=>t.ariaLive}"
+        aria-owns="${t=>t.ariaOwns}"
+        aria-relevant="${t=>t.ariaRelevant}"
+        aria-setsize="${t=>t.ariaSetSize}"
+        aria-posinset="${t=>t.ariaPosInSet}"
+        aria-roledescription="${t=>t.ariaRoledescription}">
+            ${tb((t=>t.hasAnnotation),ev`
+                <style>
+                .productCardWrapper {
+                    height: 100px!important;
+                }
+                </style>
+            `)}
+            ${tb((t=>t.isRevampExpActive),ev`
+                <style>
+                .productCardWrapper {
+                    padding: 16px !important;
+                }
+                @media (prefers-color-scheme: dark) {
+                    .productCardWrapper {
+                        background: #292929;
+                    }
+                }
+                </style>
+            `)}
+            ${tb((t=>t.inCollections),ev`
+				<style>
+                .productCardWrapper {
+                    border-top: 0!important;
+                }
+				::slotted([slot="image"]) {
+					max-width: 76px!important;
+					max-height: 76px!important;
+				}
+
+                @media (prefers-color-scheme: dark) {
+                    .productCardWrapper {
+                        border-top: none!important;
+                    }
+                }
+				</style>
+            `)}
+            <slot name="delete"></slot>
+            <slot name="image"></slot>
+            <div class="${t=>t.isPWILOExpActive?"divTextContent divTextContentPWILO":t.inCollections?"divNoTextGap":"divTextContent"}" part="divTextContent ${t=>t.isPWILOExpActive?"divTextContentPwilo":""}">
+                ${tb((t=>t.description),ev`<span class="txtDescription ${t=>t.isPWILOExpActive?"txtDescriptionBold":""}" title="${t=>t.description}" style="${t=>t.isVideoCard?"-webkit-line-clamp: 3;":""}">${t=>t.description}</span>`)}
+                ${tb((t=>t.inCollections),ev`
+                    <span class="divPrice" part="divPrice" style="margin-left: 0px;">
+                        <div class="${t=>t.isCjk?"txtPriceDecorativeSmallCjk":"txtPriceDecorativeSmall"}}">
+                            ${t=>t.priceCurrency}
+                        </div>
+                        <div class="txtPriceSmall">
+                            ${t=>t.price}
+                        </div>
+                        ${tb((t=>t.priceHundredthText),ev`
+                            <div class="${t=>t.isCjk?"txtPriceDecorativeSmallCjk":"txtPriceDecorativeSmall"}">
+                                ${t=>(t.isCjk?".":"")+t.priceHundredthText}
+                            </div>
+                        `)}
+                        <slot name="tracked-previous-price"></slot>
+                    <slot name="previous-price"></slot>
+                    </span>
+                `)}
+                ${tb((t=>t.inCollections),ev`<slot name="end">`)}
+                ${tb((t=>t.isPWILOExpActive&&t.savings),ev`<div id="couponDiscount">
+                    <span id="couponIcon">
+                        <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M8.97607 1.35238C8.42353 0.845867 7.57008 0.86441 7.04006 1.39444L0.424195 8.01051C-0.122524 8.55725 -0.122517 9.44367 0.424211 9.9904L1.35036 10.9165C1.6975 11.2637 2.19693 11.1801 2.49108 10.984C2.66528 10.8679 2.87418 10.8002 3.1001 10.8002C3.70761 10.8002 4.2001 11.2927 4.2001 11.9002C4.2001 12.1262 4.13242 12.3351 4.01631 12.5093C3.82025 12.8034 3.73665 13.3028 4.0838 13.65L4.98826 14.5544C5.54674 15.1129 6.45638 15.0991 6.99769 14.524L13.5968 7.51243C14.1317 6.94415 14.0986 6.04827 13.5234 5.52093L12.637 4.70837C12.418 4.50765 12.1409 4.46974 11.9104 4.51087C11.6834 4.55138 11.4682 4.67151 11.3128 4.84169C11.1111 5.06269 10.822 5.20044 10.5001 5.20044C9.89258 5.20044 9.4001 4.70795 9.4001 4.10044C9.4001 3.81258 9.51015 3.55132 9.69119 3.355C9.84743 3.18557 9.94851 2.96074 9.96917 2.7311C9.99015 2.49787 9.92826 2.22527 9.70942 2.02465L8.97607 1.35238Z" fill="#18AB6E"/>
+                        </svg>
+                    </span>
+                    <span id ="couponText" class="txtDescription">Save ${t=>t.savings}% with coupon</span>
+                    </div>
+                    `)}
+                <msft-attribution class="divAttribution" part="divAttribution" isAffiliate=${t=>t.isAffiliate}>
+                    ${tb((t=>!t.isPWILOExpActive),ev`<slot name="icon"></slot>`)}
+                    <span class="txtRetailer${t=>t.isNotification?" notification":t.isRevampExpActive?"V2":""}" part="txtRetailer" style="${t=>t.isCjk?"line-height: 20px":""}" title="${t=>t.retailer}">${t=>t.retailer}</span>
+                    ${tb((t=>t.isAd),ev`<slot name="adslug"></slot>`)}
+                    ${tb((t=>t.isAffiliate),ev`<slot name="affiliateslug"></slot>`)}
+                </msft-attribution>
+                ${tb((t=>!t.inCollections),ev`<slot name="end">`)}
+            </div>
+            <div class="divPriceInfo" part="divPriceInfo" style="${t=>t.isCjk?"align-items:end":""}">
+                ${tb((t=>t.lowest),ev`
+                        <div class="divLowestPrice" part="divLowestPrice" style="${t=>t.isCjk?(t.isInCjkFlyout?"":"width:fit-content;")+" background-color:#DE3700; margin-bottom: 3px":""}">
+                            <span class="txtLowestPrice" part="txtLowestPrice" style="${t=>t.isCjk?"color:#FFFFFF":""}">${t=>t.lowest}</span>
+                        </div>
+                        `)}
+                ${tb((t=>t.isRevampExpActive),ev`
+                <style>
+                .divLowestPrice {
+                    background-color: rgba(220, 250, 237, 1) !important;
+                }
+                .txtLowestPrice {
+                    color: rgba(15, 117, 75, 1) !important;
+                }
+                </style>`)}
+                ${tb((t=>t.strikethroughprice),ev`<span class="txtPriceStrikeThrough" part="divPrice">
+                        <span>${t=>t.priceCurrency}</span>
+                        <span>${t=>t.originalPrice}</span>
+                        </span>`)}
+                ${tb((t=>!t.isPWILOExpActive&&!t.inCollections&&t.price&&t.priceCurrency),ev`
+                        <span class="divPrice" part="divPrice">
+                            <span part="priceCurrencySign" class="${t=>t.isCjk?"txtPriceDecorativeCjk":"txtPriceDecorative"}">${t=>t.priceCurrency}</span>
+                            <span part= "priceValue" class="txtPrice">${t=>t.price}</span>
+                            ${tb((t=>t.priceHundredthText),ev`<span part="priceFraction" class="${t=>t.isCjk?"txtPriceDecorativeCjk":"txtPriceDecorative"}">${t=>(t.isCjk?".":"")+t.priceHundredthText}</span>`)}
+                        </span>`)}
+                ${tb((t=>!t.isCjk&&!t.inCollections&&!t.isPWILOExpActive&&t.savings),ev`
+                    <span class="txtSavings" part="txtSavings">
+                        ${t=>t.savings}</span>`)}
+                ${tb((t=>t.isCjk&&!t.inCollections&&!t.isPWILOExpActive&&!t.isPCBOffer&&t.savings),ev`
+                    <span class="txtSavingsCJK">
+                        ${t=>t.savings}</span>`)}
+                <slot name="previous-price"></slot>
+            </div>
+        </a>
+        ${tb((t=>t.inCollections),ev`<slot name="options"></slot>`)}
+        ${tb((t=>t.inCollections),ev`<slot name="trackingBell"></slot>`)}
+    </template>
+`});class pO extends uy{constructor(){super(...arguments),this.shoppingEntities=[],this.displayedShoppingEntities=[],this.showMoreButtonVisible=!1,this.showMoreClicked=!1,this.isPolePosition=!1,this.includeSeparator=!1,this.includeAdSlug=!1,this.useMasonryGrid=!1,this.useClickableTitles=!1,this.useShowMoreClickout=!1,this.useTwoClickShowMoreClickout=!1,this.cardsVisuallyReady=0,this.showMoreCount=6,this.componentVisibleAndNeedsToHydrate=(t,e)=>{if(!t||t.length<1)return;t.find((t=>t.isIntersecting))&&this.dataFetchOnVisibleCallback&&(this.intersectionObserver&&this.intersectionObserver.disconnect(),this.dataFetchOnVisibleCallback().then(this.hydrateComponent))},this.hydrateComponent=t=>{var e;t&&t.clickoutUrl&&t.titleText&&(null===(e=t.shoppingEntities)||void 0===e?void 0:e.length)>0?(this.titleText=t.titleText,this.clickoutUrl=t.clickoutUrl,this.shoppingEntities=t.shoppingEntities):this.displayedShoppingEntities=[],this.includeAdSlug&&this.sendAdVisibilityFeedback&&this.sendAdVisibilityFeedback(this.transformEntitiesToImpressionTokens(this.displayedShoppingEntities))}}connectedCallback(){super.connectedCallback(),this.dataFetchOnVisibleCallback&&(this.intersectionObserver=new IntersectionObserver(this.componentVisibleAndNeedsToHydrate,{rootMargin:"400px"}),this.intersectionObserver.observe(this))}disconnectedCallback(){super.disconnectedCallback(),this.intersectionObserver&&this.intersectionObserver.disconnect()}transformEntitiesToImpressionTokens(t){return t.map((t=>t.impressionToken))}shoppingEntitiesChanged(t,e){if((null==e?void 0:e.length)>0){const t=Math.min(this.productsToShow,e.length);this.displayedShoppingEntities=e.slice(0,t),this.displayedShoppingEntities.length<e.length&&!this.showMoreButtonVisible?this.showMoreButtonVisible=!0:this.useMasonryGrid&&this.masonryProductsRef&&(this.masonryProductsRef.style.marginBottom="unset")}else this.productsToShow>0&&(this.displayedShoppingEntities=new Array(this.productsToShow))}productsToShowChanged(t,e){(!this.displayedShoppingEntities||0===this.displayedShoppingEntities.length)&&e>0&&(this.displayedShoppingEntities=new Array(this.productsToShow))}handleCardClick(t,e,i){return this.handleClickPingUrl&&i&&this.handleClickPingUrl(i),e.preventDefault(),e.stopPropagation(),this.navigateToDestination(t),!1}handleAdSlugClick(t){return t.preventDefault(),t.stopPropagation(),this.navigateToAdSlugDestination("https://choice.microsoft.com"),!1}handleTitleClick(t){if(this.useClickableTitles)return t.preventDefault(),t.stopPropagation(),this.navigateToTitleDestination(this.clickoutUrl),!1}handleShowMoreClick(){var t,e;if(this.useShowMoreClickout||this.useTwoClickShowMoreClickout&&this.showMoreClicked)this.navigateToTitleDestination(this.clickoutUrl);else if((null===(t=this.shoppingEntities)||void 0===t?void 0:t.length)>0&&(null===(e=this.displayedShoppingEntities)||void 0===e?void 0:e.length)>0&&this.displayedShoppingEntities.length<this.shoppingEntities.length){const t=Math.min(this.displayedShoppingEntities.length+this.showMoreCount,this.shoppingEntities.length);t===this.shoppingEntities.length&&(this.showMoreButtonVisible=!1);const e=this.shoppingEntities.slice(this.displayedShoppingEntities.length,t),i=this.displayedShoppingEntities.length;this.displayedShoppingEntities.push(...e),this.useMasonryGrid&&this.masonryProductsRef&&this.displayedShoppingEntities.length===this.shoppingEntities.length&&(this.masonryProductsRef.style.marginBottom="unset"),this.showMoreClicked=!0,this.logShowMoreButtonClicked(),requestAnimationFrame(this.focusFeedItem.bind(this,i)),this.includeAdSlug&&this.sendAdVisibilityFeedback&&this.sendAdVisibilityFeedback(this.transformEntitiesToImpressionTokens(e))}}feedItemsLeftChanged(t,e){e.length>0&&e.forEach((t=>{t.addEventListener("keydown",(e=>this.checkTabPress(e,t.getAttribute("taborder"))))}))}feedItemsRightChanged(t,e){e.length>0&&e.forEach((t=>{t.addEventListener("keydown",(e=>this.checkTabPress(e,t.getAttribute("taborder"))))}))}checkTabPress(t,e){var i,n;if("Tab"===t.key)if(this.bottomMist&&this.bottomMist.remove(),t.shiftKey){if(t.shiftKey){const i=Number(e)-1;if(i>=0){t.preventDefault();const e=null===(n=this.shadowRoot)||void 0===n?void 0:n.querySelector(`[taborder='${i}']`);null==e||e.focus()}}}else{const n=Number(e)+1;if(n<this.shoppingEntities.length){t.preventDefault();const e=n<this.displayedShoppingEntities.length?null===(i=this.shadowRoot)||void 0===i?void 0:i.querySelector(`[taborder='${n}']`):this.showMoreButton;null==e||e.focus()}}}focusFeedItem(t){var e;this.useMasonryGrid&&this.feedItemsLeft?null===(e=this.feedItemsLeft[t/2])||void 0===e||e.focus({preventScroll:!0}):this.feedItems&&t<this.feedItems.length&&this.feedItems[t].focus()}get placeholdersVisible(){var t;return this.productsToShow>0&&(null===(t=this.displayedShoppingEntities)||void 0===t?void 0:t.length)>0&&void 0===this.displayedShoppingEntities[0]}markCardVisuallyReady(){this.cardsVisuallyReady++}getShowMoreButtonText(){return this.useShowMoreClickout||this.useTwoClickShowMoreClickout&&this.showMoreClicked?this.seeAllButtonText:this.showMoreButtonText}}Ay([fo],pO.prototype,"shoppingEntities",void 0),Ay([fo],pO.prototype,"displayedShoppingEntities",void 0),Ay([fo],pO.prototype,"showMoreButtonVisible",void 0),Ay([fo],pO.prototype,"navigateToTitleDestination",void 0),Ay([fo],pO.prototype,"navigateToDestination",void 0),Ay([fo],pO.prototype,"navigateToAdSlugDestination",void 0),Ay([fo],pO.prototype,"handleClickPingUrl",void 0),Ay([fo],pO.prototype,"logShowMoreButtonClicked",void 0),Ay([fo],pO.prototype,"sendAdVisibilityFeedback",void 0),Ay([fo],pO.prototype,"dataFetchOnVisibleCallback",void 0),Ay([fo],pO.prototype,"feedItems",void 0),Ay([fo],pO.prototype,"feedItemsLeft",void 0),Ay([fo],pO.prototype,"feedItemsRight",void 0),Ay([fo],pO.prototype,"productsToShow",void 0),Ay([fo],pO.prototype,"showMoreClicked",void 0),Ay([wo],pO.prototype,"titleText",void 0),Ay([wo],pO.prototype,"clickoutUrl",void 0),Ay([wo],pO.prototype,"showMoreButtonText",void 0),Ay([wo],pO.prototype,"seeAllButtonText",void 0),Ay([wo],pO.prototype,"adSlugText",void 0),Ay([wo],pO.prototype,"productCardAdSlugText",void 0),Ay([wo],pO.prototype,"adSlugPolicyText",void 0),Ay([wo({attribute:"is-pole-position",mode:"boolean"})],pO.prototype,"isPolePosition",void 0),Ay([wo({attribute:"include-separator",mode:"boolean"})],pO.prototype,"includeSeparator",void 0),Ay([wo({attribute:"include-ad-slug",mode:"boolean"})],pO.prototype,"includeAdSlug",void 0),Ay([wo({attribute:"use-masonry-grid",mode:"boolean"})],pO.prototype,"useMasonryGrid",void 0),Ay([wo({attribute:"use-clickable-titles",mode:"boolean"})],pO.prototype,"useClickableTitles",void 0),Ay([wo({attribute:"use-show-more-clickout",mode:"boolean"})],pO.prototype,"useShowMoreClickout",void 0),Ay([wo({attribute:"use-two-click-show-more-clickout",mode:"boolean"})],pO.prototype,"useTwoClickShowMoreClickout",void 0),Ay([mo],pO.prototype,"placeholdersVisible",null);const gO=Ey`
+:host {
+    font-family: ${ha};
+}
+
+.section-separator {
+    width: 100vw;
+    border: 1px solid #000000;
+    opacity: 0.04;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-bottom: unset;
+    left: 0px;
+    right: 0px;
+}
+
+@media (prefers-color-scheme: dark) {
+    .section-separator {
+        opacity: 0.08;
+    }
+}
+
+.anchor-wrapper {
+    text-decoration: none;
+    color: ${Kl};
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.anchor-wrapper:active {
+    color: ${Kl};
+}
+
+.product-card {
+    width: var(--card-width);
+    box-shadow: none;
+    border-radius: 8px;
+    background-color: ${vl};
+    display: block;
+}
+
+.product-card:hover {
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+}
+
+.product-feed-container {
+    --product-feed-padding: 20px;
+    --products-gap: 12px;
+    --feed-width: calc(100vw - var(--scrollbar-width));
+    --feed-without-spacing: calc(calc(var(--feed-width) - var(--products-gap)) - calc(var(--product-feed-padding)) * 2);
+    --card-width: calc(var(--feed-without-spacing) / 2);
+    padding: var(--product-feed-padding) var(--product-feed-padding) 0px;
+    background: var(--product-feed-background, unset);
+}
+
+.product-feed-heading {
+    height: 24px;
+    margin-bottom: 12px;
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+}
+
+.product-feed-heading h2 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline;
+}
+
+.product-feed-heading svg path {
+    fill: ${Kl};
+}
+
+.product-feed-heading-title-wrapper {
+    text-decoration: none;
+    color: ${Kl};
+    cursor: pointer;
+}
+
+.product-feed-heading-title-wrapper:hover, .product-feed-heading-title-wrapper:active, .product-feed-heading-title-wrapper:focus {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.ad-slug-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ad-slug {
+    display: flex;
+    align-items: center;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    margin-top: 4px;
+}
+
+.ad-slug-text {
+    font-size: 12px;
+    padding-left: 4px;
+    padding-right: 4px;
+    white-space: nowrap;
+    color: var(--text-normal);
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: var(--products-gap);
+    width: var(--feed-width);
+}
+
+.products-masonry-container .products {
+    margin-bottom: calc(var(--card-width) / -2);
+}
+
+.products-masonry-column-left, .products-masonry-column-right {
+    width: var(--card-width);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.products-masonry-column-left .product-card, .products-masonry-column-left .product-card.placeholder, .products-masonry-column-right .product-card, .products-masonry-column-right .product-card.placeholder {
+    width: 100%;
+    height: calc(var(--card-width) * 1.5);
+}
+
+.products-masonry-column-left .product-image-container, .products-masonry-column-right .product-image-container {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.products-masonry-column-right a:first-child .product-card, .products-masonry-column-right .product-card.placeholder:first-child {
+    height: calc(var(--card-width) * 1);
+}
+
+.products-masonry-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    height: auto;
+}
+
+:host([is-pole-position=true]) .products:last-child {
+    margin-bottom: 12px;
+}
+
+.products:last-child {
+    padding-bottom: 24px;
+}
+
+.product-card.placeholder {
+    height: calc(var(--card-width) + 70px); // 70px is approximately height of product-info
+    border-radius: 8px;
+    background-color: ${vl};
+}
+
+.card-inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border-radius: 8px;
+    overflow: auto;
+    position: relative;
+}
+
+.product-image-container {
+    background: rgb(255, 255, 255);
+}
+
+.product-info {
+    padding: 8px 12px;
+}
+
+.bottom-mist {
+    height: 48px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.4) 29.69%, rgba(255, 255, 255, 1) 100%);
+    z-index: 100;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    pointer-events: none;
+}
+
+.title {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    overflow: hidden;
+    height: 16px;
+    font-size: ${ya};
+    line-height: ${va};
+    word-break: break-all;
+}
+
+.seller-and-slug {
+    padding-top: 2px;
+    display: flex;
+    gap: 4px;
+    white-space: normal;
+    overflow: hidden;
+    height: 16px;
+}
+
+.seller {
+    word-break: break-all;
+    color: ${ql};
+    font-size: ${ya};
+    line-height: ${va};
+}
+
+.price {
+    display: flex;
+    gap: 6px;
+    align-items: flex-end;
+}
+
+.current-price {
+    font-weight: 600;
+    display: flex;
+    align-items: flex-start;
+}
+
+.current-price.sale {
+    color: #DE3700;
+}
+
+.current-price-hundredth {
+    padding-top: 1px;
+    padding-left: 1px;
+    font-size: ${ba};
+    line-height: ${Ta};
+}
+
+@media
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi){
+    .current-price-hundredth {
+        padding-top: 2px;
+    }
+}
+
+.previous-price {
+    padding-bottom: 2px;
+    text-decoration-line: line-through;
+    font-size: ${ba};
+    line-height: ${Ta};
+}
+
+.show-more-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+.no-margin {
+    margin-bottom: 12px!important;
+}
+
+.show-more-button {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.show-more-button.placeholder {
+    background: ${vl};
+    height: 32px;
+    padding: 2px 0;
+    border-radius: 8px;
+}
+
+.show-more-button-inner {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.show-more-button-inner path {
+    fill: ${Kl};
+}
+
+.decoration {
+    padding: 2px 5px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    color: #FFF;
+}
+
+.decoration-text {
+    font-size: ${ya};
+    line-height: ${va};
+}
+
+.decoration svg {
+    display: inline-block;
+    padding-top: 1px;
+    height: 12px;
+    width: 12px;
+    fill: #FFFFFF;
+}
+
+.show-more-button:hover {
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.12);
+}
+
+
+@media (prefers-color-scheme: dark) {
+    .current-price.sale {
+        color: #FA9370;
+    }
+
+    .product-feed-container {
+        background: var(--product-feed-background-dark, unset);
+    }
+}
+
+@media (-ms-high-contrast: active) {
+    .product-card {
+        border: 1px solid linkText;
+        color: linkText;
+    }
+
+    .product-card:hover {
+        outline: 1px solid highlight;
+    }
+
+    .decoration {
+        background: #000;
+    }
+
+    .seller, .current-price.sale, .previous-price, .decoration-text {
+        color: linkText;
+    }
+
+    .ad-slug {
+        border: 1px solid linkText;
+    }
+
+    .ad-slug-text {
+        color: linkText;
+    }
+
+    .decoration svg {
+        fill: linkText;
+    }
+
+    .show-more-button-inner path {
+        fill: buttonText;
+    }
+
+    .bottom-mist {
+        display: none;
+    }
+
+    .product-feed-heading svg path {
+        fill: linkText;
+    }
+
+    .product-feed-heading-title-wrapper {
+        color: linkText;
+        text-decoration: underline;
+    }
+}
+`;function fO(t,e){var i=Object.keys(t);if(Object.getOwnPropertySymbols){var n=Object.getOwnPropertySymbols(t);e&&(n=n.filter((function(e){return Object.getOwnPropertyDescriptor(t,e).enumerable}))),i.push.apply(i,n)}return i}function mO(t){for(var e=1;e<arguments.length;e++){var n=null!=arguments[e]?arguments[e]:{};e%2?fO(Object(n),!0).forEach((function(e){i(t,e,n[e])})):Object.getOwnPropertyDescriptors?Object.defineProperties(t,Object.getOwnPropertyDescriptors(n)):fO(Object(n)).forEach((function(e){Object.defineProperty(t,e,Object.getOwnPropertyDescriptor(n,e))}))}return t}class CO{static async fetchFrom1S(t,e,i){try{const e=await fetch(t),i=await e.json(),n=JSON.parse(i[0].data);return n.metadata=mO(mO({},n.metadata),i[0]?.metadata),n}catch(n){const o=this.createErrorMessage("Fetch from 1S failed",t,void 0,n);return void(i&&i.LogErrorEvent(p.EdgeFlyoutStatus,o,new u(e),de.EdgeImpressionId))}}static createErrorMessage(t,e,i,n){const o={message:n?`${t} | ${n}`:t};return e&&(o.url=e),void 0!==i&&i.length>0&&(o.emptyKeys=i),JSON.stringify(o)}}const yO=ev`
+<svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M5.99984 4.94948L1.60844 0.558118C1.36437 0.314042 0.968636 0.314042 0.724561 0.558118C0.480485 0.802193 0.480485 1.19793 0.724561 1.442L0.724561 1.442L5.55791 6.27531C5.802 6.5194 6.19768 6.5194 6.44176 6.27531L11.2751 1.442C11.5192 1.19793 11.5192 0.802192 11.2751 0.558116C11.031 0.314043 10.6353 0.314043 10.3913 0.558116L5.99984 4.94948Z" fill="#202124" stroke="#202124" stroke-width="0.25"/>
+</svg>
+`,vO=ev`
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M8.08674 2.19636L2.19583 8.08727C1.94493 8.33818 1.94493 8.75273 2.19583 9.01455L6.99583 13.8145C7.24674 14.0655 7.66129 14.0655 7.92311 13.8145L13.814 7.92364C13.934 7.79273 13.9995 7.62909 13.9995 7.45455V2.65455C13.9995 2.29455 13.7049 2 13.3449 2H8.54493C8.37038 2 8.20674 2.06545 8.08674 2.19636ZM12.2431 5.32727C12.1777 5.46909 12.0904 5.6 11.9813 5.70909C11.8722 5.81818 11.7522 5.90545 11.5995 5.96C11.4467 6.01455 11.3049 6.05818 11.1413 6.05818C10.9777 6.05818 10.814 6.02545 10.6722 5.96C10.5304 5.90545 10.3995 5.81818 10.2904 5.70909C10.1813 5.6 10.094 5.46909 10.0395 5.32727C9.97402 5.18545 9.94129 5.03273 9.94129 4.85818C9.94129 4.68364 9.97402 4.53091 10.0395 4.38909C10.094 4.25818 10.1813 4.12727 10.2904 4.02909C10.3995 3.92 10.5304 3.83273 10.6722 3.76727C10.814 3.70182 10.9667 3.66909 11.1413 3.66909C11.3158 3.66909 11.4686 3.70182 11.6104 3.76727C11.7522 3.83273 11.8831 3.92 11.9813 4.02909C12.0904 4.13818 12.1777 4.25818 12.2431 4.4C12.3086 4.54182 12.3413 4.69455 12.3413 4.86909C12.3413 5.04364 12.2977 5.18545 12.2431 5.32727Z"></path>
+</svg>
+`,SO=ev`
+<svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden=true>
+    <path d="M0.646447 0.646447C0.451184 0.841709 0.451184 1.15829 0.646447 1.35355L3.79289 4.5L0.646447 7.64645C0.451185 7.84171 0.451185 8.15829 0.646447 8.35355C0.841709 8.54882 1.15829 8.54882 1.35355 8.35355L4.85355 4.85355C5.04882 4.65829 5.04882 4.34171 4.85355 4.14645L1.35355 0.646447C1.15829 0.451184 0.841709 0.451184 0.646447 0.646447Z" fill="#212121"/>
+</svg>
+`,bO=ev`
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M2.49999 1C1.67157 1 0.999995 1.67157 0.999995 2.5V9.5C0.999995 10.3284 1.67157 11 2.49999 11H9.49996C10.3284 11 10.9999 10.3284 10.9999 9.5V7.26923C10.9999 6.99309 11.2238 6.76923 11.4999 6.76923C11.7761 6.76923 11.9999 6.99309 11.9999 7.26923V9.5C11.9999 10.8807 10.8807 12 9.49996 12H2.49999C1.11928 12 0 10.8807 0 9.5V2.5C0 1.11929 1.11928 0 2.49999 0H4.73075C5.00689 0 5.23074 0.223858 5.23074 0.5C5.23074 0.776142 5.00689 1 4.73075 1H2.49999ZM6.76926 0.5C6.76926 0.223858 6.99311 0 7.26925 0H11.5C11.7761 0 12 0.223858 12 0.5V4.73077C12 5.00691 11.7761 5.23077 11.5 5.23077C11.2239 5.23077 11 5.00691 11 4.73077V1.70711L7.6228 5.08433C7.42754 5.27959 7.11096 5.27959 6.9157 5.08433C6.72044 4.88906 6.72044 4.57248 6.9157 4.37722L10.2929 1H7.26925C6.99311 1 6.76926 0.776142 6.76926 0.5Z" fill="#202124" stroke="#202124" stroke-width="0.25"/>
+</svg>
+`,TO=ev`
+<div class="decoration">
+    ${vO}
+    <div class="decoration-text">
+        ${t=>t.dealPercentageLocalized}
+    </div>
+</div>
+`,AO=ev`
+<div class="seller-and-slug">
+    <div class="seller">${t=>t.seller}</div>
+    ${tb(((t,e)=>t.adType&&!e.parent.includeAdSlug),ev`
+<div class="ad-slug">
+    <span class="ad-slug-text" @click=${(t,e)=>e.parent.handleAdSlugClick(e.event)}>${(t,e)=>e.parent.productCardAdSlugText}</span>
+</div>
+`)}
+</div>
+`,OO=ev`
+<a
+    taborder="${t=>t.tabOrder}"
+    class="anchor-wrapper"
+    target="_blank"
+    @click=${(t,e)=>e.parent.handleCardClick(t.destination,e.event,t.clickPingUrl)}
+    href="${t=>t.destination}"
+    aria-label="${t=>t.altText}">
+    <fluent-card class="product-card" aria-hidden="true">
+        ${tb((t=>"SimilarOffers"===t.adType),ev`<div class="ad-slug-wrapper">
+            <img aria-label="Ad" class="ad-slug" slot="adslug" src="https://www.bing.com/api/shopping/v1/ux/images/priceComparison/adSlug.png"/>
+        </div>`)}
+        <div class="card-inner">
+            ${tb((t=>t.dealPercentage),TO)}
+            <div class="product-image-container">
+                <msft-shopping-image
+                    :onImageLoad="${(t,e)=>e.parent.markCardVisuallyReady.bind(e.parent)}"
+                    src="${t=>{var e;return null===(e=t.imageInfo)||void 0===e?void 0:e.sourceImageUrl}}${(t,e)=>e.parent.useMasonryGrid?"":"&w=304&h=304"}"
+                    alt="${t=>t.title}"
+                    aria-label="${t=>t.title}"
+                    />
+            </div>
+            <div class="product-info">
+                ${tb((t=>t.priceInfo),ev`
+                    <div class="price">
+                        <div class="current-price${t=>t.priceInfo.originalPrice?" sale":""}">
+                            <div class="current-price-currency">
+                                ${t=>t.priceInfo.priceCurrencySymbol}
+                            </div>
+                            <div class="current-price-int">
+                                ${t=>t.priceInfo.priceIntText}
+                            </div>
+                            <div class="current-price-hundredth">
+                                ${t=>t.priceInfo.priceHundredthText}
+                            </div>
+                        </div>
+                        ${tb((t=>t.priceInfo.originalPrice),ev`
+                            <div class="previous-price">
+                                ${t=>t.priceInfo.originalPrice}
+                            </div>
+                        `)}
+                    </div>
+                `)}
+                <div class="title">${t=>t.title}</div>
+                ${AO}
+            </div>
+        </div>
+    </fluent-card>
+</a>
+`,xO=ev`
+<fluent-card class="product-card placeholder">
+    <div class="card-inner">
+    </div>
+</fluent-card>
+`,EO=ev`
+${tb((t=>t),OO)}
+${tb((t=>!t),xO)}
+`,PO=ev`
+    <div class="ad-slug">
+        <span class="ad-slug-text">${t=>t.adSlugText}</span>
+    </div>
+`,IO=ev`
+    <div class="ad-slug-container">
+        <a href="https://choice.microsoft.com" class="anchor-wrapper" target="_blank" aria-label="${t=>t.adSlugPolicyText}">
+            ${PO}
+        </a>
+    </div>
+`,DO=ev`
+<div class="products" ${RA({property:"feedItems",filter:Bv("a.anchor-wrapper")})}>
+    ${gA((t=>t.displayedShoppingEntities),EO)}
+</div>
+`,_O=ev`
+<span class="bottom-mist" ${Iv("bottomMist")}/>
+`,kO=ev`
+<div class="products-masonry-column-left" ${RA({property:"feedItemsLeft",filter:Bv("a.anchor-wrapper")})}>
+${gA((t=>t.displayedShoppingEntities),ev`${tb(((t,e)=>e.isEven),EO)}`,{positioning:!0})}
+</div>
+`,wO=ev`
+<div class="products-masonry-column-right" ${RA({property:"feedItemsRight",filter:Bv("a.anchor-wrapper")})}>
+${gA((t=>t.displayedShoppingEntities),ev`${tb(((t,e)=>e.isOdd),EO)}`,{positioning:!0})}
+</div>
+`,NO=ev`
+<div class="products-masonry-container">
+    ${ev`
+<div class="products" ${Iv("masonryProductsRef")}>
+    ${kO}
+    ${wO}
+</div>
+`}
+    ${tb((t=>t.showMoreButtonVisible),_O)}
+</div>
+`,MO=ev`
+<a
+    class="product-feed-heading-title-wrapper"
+    @click="${(t,e)=>t.handleTitleClick(e.event)}"
+    href="${t=>t.clickoutUrl}"
+    aria-label="${t=>`${t.getShowMoreButtonText()} ${t.titleText}`}">
+    <h2 aria-hidden=true>${tb((t=>t.titleText),ev`${t=>t.titleText}`)}</h2>
+    ${tb((t=>t.useClickableTitles&&!t.placeholdersVisible),SO)}
+</a>
+`,RO=ev`
+    <h2>${tb((t=>t.titleText),ev`${t=>t.titleText}`)}</h2>
+`,LO=ev`
+<div class="product-feed-heading">
+    ${tb((t=>t.useClickableTitles),MO)}
+    ${tb((t=>!t.useClickableTitles),RO)}
+    ${tb((t=>t.includeAdSlug),IO)}
+</div>
+`,BO=pO.compose({baseName:"product-feed",shadowOptions:{delegatesFocus:!0},styles:gO,template:(t,e)=>ev`
+    <template>
+    ${tb((t=>{var e;return(null===(e=t.displayedShoppingEntities)||void 0===e?void 0:e.length)>0}),ev`
+        <div class="product-feed-container">
+            <slot name="product-feed-heading">
+            ${LO}
+            </slot>
+            ${tb((t=>!t.useMasonryGrid),DO)}
+            ${tb((t=>t.useMasonryGrid),NO)}
+            ${tb((t=>t.showMoreButtonVisible),ev`
+                <div class="show-more-container ${t=>t.isPolePosition?"no-margin":""}">
+                    <fluent-button aria-label="${t=>`${t.getShowMoreButtonText()} ${t.titleText}`}" class="show-more-button" @click="${t=>t.handleShowMoreClick()}" ${Iv("showMoreButton")}>
+                        <div class="show-more-button-inner">
+                            <div>
+                                ${t=>t.getShowMoreButtonText()}
+                            </div>
+                            <div class="show-more-button-arrow">
+                                ${tb((t=>t.useShowMoreClickout||t.useTwoClickShowMoreClickout&&t.showMoreClicked),bO)}
+                                ${tb((t=>!(t.useShowMoreClickout||t.useTwoClickShowMoreClickout&&t.showMoreClicked)),yO)}
+                            </div>
+                        </div>
+                    </fluent-button>
+                </div>
+            `)}
+            ${tb((t=>!t.showMoreButtonVisible&&t.placeholdersVisible),ev`
+                <div class="show-more-container ${t=>t.isPolePosition?"no-margin":""}">
+                    <div class="show-more-button placeholder">
+                    </div>
+                </div>
+            `)}
+        </div>
+        ${tb((t=>t.includeSeparator),ev`
+            <hr class="section-separator" aria-hidden="true">
+        `)}
+    `)}
+    </template>
+`}),FO=Object.freeze({Wishlist:"Wishlist"});class UO extends uy{}Ay([fo],UO.prototype,"icon",void 0),Ay([fo],UO.prototype,"text",void 0),Ay([fo],UO.prototype,"linkHref",void 0),Ay([fo],UO.prototype,"linkAria",void 0),Ay([fo],UO.prototype,"linkText",void 0),Ay([fo],UO.prototype,"linkClickCallback",void 0);const HO=Ey`
+:host {
+    font-family: ${ha};
+}
+
+.setting-wrapper {
+    display: flex;
+    flex-direction: row;
+    padding: 12px 16px;
+    gap: 12px;
+    border-radius: 8px;
+    background-color: ${vl};
+    align-items: center;
+}
+
+.card-icon {
+    background: #E0EDFF;
+    height: 30px;
+    width: 30px;
+    min-width: 30px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-icon path {
+    fill: #2169EB;
+}
+
+.card-text-and-link {
+    flex-grow: 1;
+    width: 0px;
+}
+
+.card-text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.card-link {
+    text-decoration: none;
+    font-size: ${ya};
+    line-height: ${va};
+    color: ${il};
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+}
+
+@media (-ms-high-contrast: active) {
+}
+`,GO=ev`
+<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+    <path d="M15.5008 6.99918C16.8263 6.99918 17.9108 8.03071 17.9955 9.3348L18.0008 9.49918V10.256C17.6937 10.0024 17.3586 9.7815 17.0008 9.59864V9.49918C17.0008 8.71948 16.4059 8.07873 15.6453 8.00604L15.5008 7.99918H9.50113C8.72144 7.99918 8.08068 8.59407 8.008 9.35472L8.00113 9.49918V15.4989C8.00113 16.2785 8.59602 16.9193 9.35667 16.992L9.50113 16.9989H9.60078C9.78365 17.3566 10.0045 17.6917 10.2581 17.9989H9.50113C8.17565 17.9989 7.09109 16.9673 7.00645 15.6632L7.00113 15.4989V9.49918C7.00113 8.17369 8.03267 7.08914 9.33676 7.0045L9.50113 6.99918H15.5008ZM12.663 3.69422L12.7107 3.85162L13.286 5.99905H12.25L11.7448 4.11044C11.543 3.35731 10.8025 2.89236 10.0489 3.01902L9.90763 3.04978L4.11239 4.60261C3.35926 4.80441 2.89431 5.54487 3.02098 6.29841L3.05173 6.43973L4.60456 12.235C4.77949 12.8878 5.35918 13.3241 6.00129 13.3462L6.00141 14.3468C4.97445 14.3259 4.03721 13.6687 3.69081 12.6643L3.63864 12.4938L2.08581 6.69855C1.74275 5.41823 2.45843 4.10365 3.69617 3.68436L3.85357 3.63668L9.64881 2.08385C10.8758 1.75509 12.1342 2.39867 12.606 3.54226L12.663 3.69422ZM19.0012 14.4991C19.0012 16.9844 16.9865 18.9991 14.5012 18.9991C12.0159 18.9991 10.0012 16.9844 10.0012 14.4991C10.0012 12.0139 12.0159 9.99915 14.5012 9.99915C16.9865 9.99915 19.0012 12.0139 19.0012 14.4991ZM15.0012 12.4991C15.0012 12.223 14.7774 11.9991 14.5012 11.9991C14.2251 11.9991 14.0012 12.223 14.0012 12.4991V13.9991H12.5012C12.2251 13.9991 12.0012 14.223 12.0012 14.4991C12.0012 14.7753 12.2251 14.9991 12.5012 14.9991H14.0012V16.4991C14.0012 16.7753 14.2251 16.9991 14.5012 16.9991C14.7774 16.9991 15.0012 16.7753 15.0012 16.4991V14.9991H16.5012C16.7774 14.9991 17.0012 14.7753 17.0012 14.4991C17.0012 14.223 16.7774 13.9991 16.5012 13.9991H15.0012V12.4991Z" />
+</svg>
+`,VO={[FO.Wishlist]:GO},jO=UO.compose({baseName:"setting-module",shadowOptions:{delegatesFocus:!1},styles:HO,template:(t,e)=>ev`
+    <template>
+    ${tb((t=>t.text&&t.icon&&t.linkText&&t.linkHref&&t.linkAria),ev`
+        <div class="setting-wrapper">
+            <div class="card-icon">${t=>VO[t.icon]}</div>
+            <div class="card-text-and-link">
+                <div class="card-text">${t=>t.text}</div>
+                <div class="card-link-wrapper">
+                    <a
+                        class="card-link"
+                        target="_blank"
+                        href="${t=>t.linkHref}"
+                        aria-label="${t=>t.linkAria}"
+                        @click=${(t,e)=>t.linkClickCallback(e.event,t.linkHref)}>
+                        ${t=>t.linkText}
+                    </a>
+                </div>
+            </div>
+            <slot name="control"></slot>
+        </div>
+    `)}
+    </template>
+`});class $O extends uy{connectedCallback(){super.connectedCallback()}}Ay([wo],$O.prototype,"name",void 0),Ay([wo],$O.prototype,"subTitle",void 0),Ay([wo],$O.prototype,"iconSrc",void 0),Ay([wo],$O.prototype,"imageSrcs",void 0),Ay([wo],$O.prototype,"isClickable",void 0),Ay([wo({attribute:"label"})],$O.prototype,"label",void 0),Ay([wo({attribute:"more-items-label"})],$O.prototype,"moreItemsLabel",void 0),Ay([fo],$O.prototype,"childElements",void 0);function WO(t){try{return JSON.parse(t.imageSrcs)}catch(t){return[]}}const zO=(t,e)=>ev`
+    ${t=>n(t.iconSrc)?"":ev`<img class="icon" src="${t.iconSrc}" aria-hidden="true"></img>`}
+    <div class="details">
+        <h3 class="text">${t=>t.title}</h3>
+        <p class="text">${t=>t.subTitle}</p>
+        <slot name="description" class="text"></slot>
+        <div class="productList ${t=>"true"===t.isClickable?"clickable":"unclickable"}" part="productList">
+            ${gA((t=>WO(t)),ev`
+                ${tb(((t,e)=>e.length<5||e.index<3),ev`
+                    <div
+                        class="product"
+                        style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03)), url('${t=>t.ImageUrl}');"
+                        aria-label="${t=>{var e;return null!==(e=t.Title)&&void 0!==e?e:""}}"
+                    >
+                    </div>
+                `)}
+            `,{positioning:!0})}
+            ${tb((t=>{var e;return(null===(e=WO(t))||void 0===e?void 0:e.length)>4}),ev`
+                <div
+                    class="product"
+                    style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03));"
+                    aria-label="+${t=>{var e;return(null===(e=WO(t))||void 0===e?void 0:e.length)-3}} ${t=>{var e;return null!==(e=t.moreItemsLabel)&&void 0!==e?e:""}}"
+                >
+                    +${t=>{var e;return(null===(e=WO(t))||void 0===e?void 0:e.length)-3}}
+                </div>
+            `)}
+        </div>
+    </div>
+    <slot name="options"></slot>
+`,KO=$O.compose({baseName:"shopping-cart",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+    .control {
+        background: var(--fill-color);
+        border-radius: 8px;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: row;
+        column-gap: 12px;
+        text-align: left;
+        font-family: 'Segoe UI','Roboto', Helvetica, Verdana, sans-serif;
+        border: none;
+        width: -webkit-fill-available;
+    }
+    .control:focus {
+        outline: 2px solid #898989;
+    }
+    .icon {
+        height: 20px;
+    }
+    .details {
+        display: flex;
+        flex-direction: column;
+        row-gap: 2px;
+    }
+    .text {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 20px;
+        margin: 0px;
+    }
+    .clickable {
+        column-gap: 10px;
+    }
+    .unclickable {
+        column-gap: 16px;
+    }
+    .productList {
+        margin-top: 12px;
+        display: flex;
+        flex-direction: row;
+    }
+    .clickable > .product {
+        height: 60px;
+        width: 60px;
+    }
+    ::slotted([slot="options"]) {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    .unclickable > .product {
+        height: 48px;
+        width: 48px;
+    }
+    .product {
+        background-color: #FFFFFF;
+        background-position: center;
+        background-size: cover;
+        border-radius: 8px;
+        font-weight: 400;
+        font-size: 20px;
+        text-align: center;
+        color: #000000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        place-self: center;
+    }
+    @media (prefers-color-scheme: dark) {
+        button.control {
+            background-color: #414141;
+        }
+        .text {
+            color: #FFFFFF;
+        }
+    };`,template:(t,e)=>ev`
+    <template>
+    ${t=>{var e,i,n,o;return"true"===t.isClickable?ev`
+    <button
+        class="control"
+        part="control"
+        style="cursor: pointer; padding: 12px;"
+        aria-label="${null!==(e=t.subTitle)&&void 0!==e?e:""} ${null!==(i=t.label)&&void 0!==i?i:""}"
+    >
+        ${zO}
+    </button>`:ev`
+    <div
+        class="control"
+        part="control"
+        style="cursor: default;"
+        aria-label="${null!==(n=t.subTitle)&&void 0!==n?n:""} ${null!==(o=t.label)&&void 0!==o?o:""}"
+    >
+        ${zO}
+    </div>`}}
+    </template>
+`});var YO;!function(t){t.grid="grid",t.carousel="carousel"}(YO||(YO={}));class qO extends uS{constructor(){super(...arguments),this.noHoverGradient=!1}handleImageContentChange(){this.control.classList.toggle("has-image",this.image.assignedNodes().length>0)}}Ay([wo],qO.prototype,"layout",void 0),Ay([wo({attribute:"no-hover-gradient",mode:"boolean"})],qO.prototype,"noHoverGradient",void 0);const XO=qO.compose({baseName:"shopping-cashback-card",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+        ${av("block")} :host {
+            outline: none;
+            font-family: ${ha};
+            font-size: ${ba};
+            font-weight: 400;
+            line-height: ${Ta};
+            min-width: calc(${Yv} * 1px);
+            border-radius: calc((${ca} * 1px) * 2);
+            box-sizing: border-box;
+            color: ${Kl};
+            cursor: pointer;
+            background: ${Qs};
+        }
+
+        .control {
+            display: grid;
+            grid-template-rows: 42px minmax(16px, 1fr);
+            grid-gap: 6px;
+            justify-content: center;
+            align-items: center;
+            box-sizing: border-box;
+            border: calc(${da} * 1px) solid ${rc};
+            border-radius: inherit;
+            padding: 8px 23px 24px;
+            width: 100%;
+            outline: none;
+            text-decoration: none;
+            color: inherit;
+            cursor: inherit;
+            font-family: inherit;
+            overflow: hidden;
+        }
+
+        .control:${Wv} {
+            box-shadow: 0 0 0 calc(${ua} * 1px) ${mc};
+        }
+
+        .control:active {
+            background-color: ${bl};
+        }
+
+        .control:hover {
+            background: linear-gradient(265.08deg, rgba(36, 255, 0, 0.06) -6.71%, rgba(0, 210, 255, 0.06) 38.87%, rgba(255, 188, 125, 0.06) 93.88%);
+        }
+
+        :host([no-hover-gradient]) .control {
+            background: transparent;
+        }
+
+        .control:not(.has-image) {
+            display: flex;
+            min-height: 97px;
+            padding: 18px 23px;
+
+        }
+
+        :host([layout="carousel"]) .control {
+            grid-template-rows: 56px 50px;
+            padding: 0 12px 12px;
+        }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            max-height: 50px;
+        }
+
+        .action-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 12px;
+            width: 102px;
+            height: 26px;
+            overflow: hidden;
+            background: var(--accent-fill-muted-rest);
+            border: 1px solid transparent;
+            border-radius: calc(${la} * 1px);
+            color: ${ul};
+        }
+
+        .action-message {
+            font-weight: 600;
+        }
+
+        ::slotted(*) {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 16px;
+            text-align: center;
+        }
+
+        ::slotted([slot="image"]) {
+            align-self: center;
+            justify-self: center;
+            max-width: 100%;
+            max-height: 100%;
+        }
+    `.withBehaviors(ov(Ey`
+            :host {
+                forced-color-adjust: auto;
+            }
+
+            :host .control:hover,
+            :host .control:${Wv} {
+                forced-color-adjust: none;
+                box-shadow: inset 0 0 0 calc((${da} * 1px)) ${KT.ButtonText};
+            }
+
+            :host([href]),
+            :host([href]) .control {
+                color: ${KT.LinkText};
+                border-color: ${KT.LinkText};
+            }
+
+            :host([href]) .control:hover,
+            :host([href]) .control:${Wv} {
+                forced-color-adjust: none;
+                box-shadow: inset 0 0 0 calc((${da} * 1px)) ${KT.LinkText};
+            }
+
+            ::slotted([slot="image"]),
+            ::slotted([slot="start"]),
+            ::slotted([slot="end"]) {
+                color: ${KT.ButtonText};
+                fill: currentcolor;
+            }
+        `)),template:(t,e)=>ev`
+    <a
+        class="control"
+        part="control"
+        ${Iv("control")}
+        download="${t=>t.download}"
+        href="${t=>t.href}"
+        hreflang="${t=>t.hreflang}"
+        ping="${t=>t.ping}"
+        referrerpolicy="${t=>t.referrerpolicy}"
+        rel="${t=>t.rel}"
+        target="${t=>t.target}"
+        type="${t=>t.type}"
+        aria-atomic="${t=>t.ariaAtomic}"
+        aria-busy="${t=>t.ariaBusy}"
+        aria-controls="${t=>t.ariaControls}"
+        aria-current="${t=>t.ariaCurrent}"
+        aria-describedBy="${t=>t.ariaDescribedby}"
+        aria-details="${t=>t.ariaDetails}"
+        aria-disabled="${t=>t.ariaDisabled}"
+        aria-errormessage="${t=>t.ariaErrormessage}"
+        aria-expanded="${t=>t.ariaExpanded}"
+        aria-flowto="${t=>t.ariaFlowto}"
+        aria-haspopup="${t=>t.ariaHaspopup}"
+        aria-hidden="${t=>t.ariaHidden}"
+        aria-invalid="${t=>t.ariaInvalid}"
+        aria-keyshortcuts="${t=>t.ariaKeyshortcuts}"
+        aria-label="${t=>t.ariaLabel}"
+        aria-labelledby="${t=>t.ariaLabelledby}"
+        aria-live="${t=>t.ariaLive}"
+        aria-owns="${t=>t.ariaOwns}"
+        aria-relevant="${t=>t.ariaRelevant}"
+        aria-roledescription="${t=>t.ariaRoledescription}"
+    >
+        <slot
+            name="image"
+            ${Iv("image")}
+            @slotchange="${t=>t.handleImageContentChange()}"
+        ></slot>
+        <div class="content" part="content">
+            <slot> </slot>
+        </div>
+    </a>
+`});var JO="object"==typeof global&&global&&global.Object===Object&&global,ZO="object"==typeof self&&self&&self.Object===Object&&self,QO=(JO||ZO||Function("return this")()).Symbol;var tx=function(t,e){for(var i=-1,n=null==t?0:t.length,o=Array(n);++i<n;)o[i]=e(t[i],i,t);return o},ex=Array.isArray,ix=Object.prototype,nx=ix.hasOwnProperty,ox=ix.toString,rx=QO?QO.toStringTag:void 0;var ax=function(t){var e=nx.call(t,rx),i=t[rx];try{t[rx]=void 0;var n=!0}catch(t){}var o=ox.call(t);return n&&(e?t[rx]=i:delete t[rx]),o},sx=Object.prototype.toString;var lx=function(t){return sx.call(t)},cx=QO?QO.toStringTag:void 0;var dx=function(t){return null==t?void 0===t?"[object Undefined]":"[object Null]":cx&&cx in Object(t)?ax(t):lx(t)};var ux=function(t){return null!=t&&"object"==typeof t};var hx=function(t){return"symbol"==typeof t||ux(t)&&"[object Symbol]"==dx(t)},px=QO?QO.prototype:void 0,gx=px?px.toString:void 0;var fx=function t(e){if("string"==typeof e)return e;if(ex(e))return tx(e,t)+"";if(hx(e))return gx?gx.call(e):"";var i=e+"";return"0"==i&&1/e==-Infinity?"-0":i};var mx=function(t){return null==t?"":fx(t)},Cx=0;var yx=function(t){var e=++Cx;return mx(t)+e};class vx extends uy{constructor(){super(...arguments),this.subTitleId=yx("subTitleId"),this.descriptionId=yx("descriptionId"),this.cashbackNonstackableMessageId=yx("cashbackMessageId"),this.successRateId=yx("successRateId"),this.isSelected=!1,this.isHover=!1,this.controlClass="control",this.startContentClass="start-content",this.retailerSuccessrateContentClass="retailer-successrate-content",this.descriptionClass="description",this.titleClass="title",this.successrateClass="",this.handleSelected=t=>{this.isSelected&&this.controlCopy.addEventListener("transitionend",this.handleTransitionEnd)},this.handleTransitionEnd=t=>{this.isSelected=!1,this.controlCopy.removeEventListener("transitionend",this.handleTransitionEnd)},this.onKeyPressHandler=t=>{switch(t.key){case" ":case"Enter":t.preventDefault(),this.onSelectedHandler()}},this.onSelectedHandler=()=>{document.activeElement!==this&&this.focus(),this.isSelected=!0,this.$emit("selected")}}connectedCallback(){super.connectedCallback(),this.addEventListener("selected",this.handleSelected)}disconnectedCallback(){super.disconnectedCallback(),this.removeEventListener("selected",this.handleSelected)}onClickHandler(){this.onSelectedHandler()}onHoverHandler(){this.isHover=!0}onHoverEndHandler(){this.isHover=!1}onBlurHandler(){this.isSelected=!1,this.isHover=!1,this.controlCopy.removeEventListener("transitionend",this.handleTransitionEnd)}}Ay([wo],vx.prototype,"name",void 0),Ay([wo({attribute:"sub-title"})],vx.prototype,"subTitle",void 0),Ay([wo],vx.prototype,"description",void 0),Ay([wo],vx.prototype,"lastSuccessfulCouponTime",void 0),Ay([wo({attribute:"indicator-message"})],vx.prototype,"indicatorMessage",void 0),Ay([wo({attribute:"selected-indicator-message"})],vx.prototype,"selectedIndicatorMessage",void 0),Ay([wo({attribute:"cashback-nonstackable-message"})],vx.prototype,"cashbackNonstackableMessage",void 0),Ay([wo],vx.prototype,"regularColors",void 0),Ay([wo],vx.prototype,"hasIcon",void 0),Ay([wo({attribute:"label"})],vx.prototype,"label",void 0),Ay([wo({attribute:"aria-setsize"})],vx.prototype,"ariaSetSize",void 0),Ay([wo({attribute:"aria-posinset"})],vx.prototype,"ariaPosInSet",void 0),Ay([wo({attribute:"success-rate"})],vx.prototype,"successRate",void 0),Ay([wo({attribute:"is-youtuber"})],vx.prototype,"isYoutuber",void 0),Ay([wo({attribute:"isInboxCoupon"})],vx.prototype,"isInboxCoupon",void 0),Ay([wo({attribute:"inboxCouponIconUrl"})],vx.prototype,"inboxCouponIconUrl",void 0),Ay([wo({attribute:"isTrendingCoupon"})],vx.prototype,"isTrendingCoupon",void 0),Ay([fo],vx.prototype,"isSelected",void 0),Ay([fo],vx.prototype,"isHover",void 0),Ay([wo],vx.prototype,"controlClass",void 0),Ay([wo],vx.prototype,"startContentClass",void 0),Ay([wo],vx.prototype,"retailerSuccessrateContentClass",void 0),Ay([wo],vx.prototype,"descriptionClass",void 0),Ay([wo],vx.prototype,"titleClass",void 0),Ay([wo],vx.prototype,"successrateClass",void 0),Ay([fo],vx.prototype,"childElements",void 0);const Sx=vx.compose({baseName:"shopping-coupon-new",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+    ${av("flex")} :host {
+        position: relative;
+        box-sizing: border-box;
+        border: none;
+        border-radius: 8px;
+        font-family: ${ha};
+        font-size: ${fa};
+        line-height: ${ma};
+        color: ${Kl};
+        outline: none;
+    }
+
+    .control {
+        position: relative;
+        font-family: ${ha};
+        background: var(--coupon-single-row-bg, #FFFFFF) !important;
+        border: 1px dashed #44D498 !important;
+        box-sizing: border-box;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        padding: 16px 12px;
+        width: 100%;
+        height: 72px;
+        cursor: pointer;
+        outline: none;
+        justify-content: center;
+    }
+
+
+    .controlSuccessHover {
+        background: linear-gradient(224.24deg,
+            var(--coupon-success-hover-bg-start, #FFF1F7) 0%,
+            var(--coupon-success-hover-bg-mid, #FFFEF0) 33.85%,
+            var(--coupon-success-hover-bg-end, #FFFFFF) 81.25%)!important;
+    }
+    .controlSuccess {
+        border: 1px dashed var(--coupon-success-bg, #F5D6D8);
+        background: linear-gradient(44.89deg,
+            var(--coupon-success-bg-start, #FFEEF5) 0%,
+            var(--coupon-success-bg-mid, #FFFBF0) 37.1%,
+            var(--coupon-success-bg-end, #FFFFFF) 89.03%);
+    }
+    .controlHover {
+        background: linear-gradient(44.89deg,
+            var(--coupon-control-hover-bg-start, #FFFFFF) 26.25%,
+            var(--coupon-control-hover-bg-end, #EDFBFF) 109.58%);
+    }
+    .control:${Wv} {
+        border-color: ${mc};
+        box-shadow: 0 0 0 calc(${ua} * 1px) ${mc};
+    }
+
+    .content {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+        height: auto;
+    }
+
+
+    .start-content {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        margin-bottom: 0px;
+        border-radius: 4px;
+        min-width: 120px;
+        height: 48px;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 0px;
+        background: #18AB6E;
+    }
+
+
+    .start-content.hover {
+        background: #159962;
+    }
+
+    .end-content {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .trendingcoupons-end-content-bottom {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between
+    }
+
+    .trendingcoupons-end-content-bottom {
+        height: 50px;
+    }
+
+    .title {
+        overflow: hidden;
+        display: -webkit-box!important;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        margin: 0 8px;
+        grid-column: 1/2;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: center;
+        word-break: break-all;
+        overflow-wrap: break-all;
+        color: #FFFFFF !important;
+    }
+    .titleHover {
+        color: var(--coupon-title-hover-color, #666666);
+    }
+    .titleSuccess {
+        color: var(--coupon-success-color, #DE3700);
+    }
+    .sub-title {
+        font-size: ${ba};
+        line-height: ${Ta};
+        color: ${ql};
+        text-align: start;
+        margin-inline-start: 0px;
+        margin-top: 0px;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        max-width:75px;
+        width: 0;
+        flex-grow: 1;
+    }
+    .description-lockicon-content {
+        display: flex;
+        max-width: 328px;
+    }
+
+    .retailer-successrate-content {
+        display:flex;
+        justify-content:space-between;
+        gap:10px;
+        margin-top: 3px;
+        align-items: center;
+        width: 100%;
+    }
+
+    .trendingCoupons-retailer-successrate-content {
+        width: 100px;
+    }
+
+    .trendingCoupons-retailer-successrate-content-notification {
+        height: 28px;
+        font-size: 12px;
+    }
+    .trendingCoupons-successrate-notification {
+        min-width: 65px;
+    }
+
+    .description {
+        font-size: ${ya};
+        font-weight: 400;
+        line-height: ${va};
+        color: ${Kl};
+        text-align: start;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        margin: 0 0px;
+    }
+    .success-rate {
+        font-size: ${ba};
+        line-height: ${Ta};
+        display: flex;
+        justify-content: center;
+        margin-inline-end: 6px;
+        width: auto;
+        background: black;
+        grid-column: 3/4;
+        height: 16px;
+        padding: 0 6px;
+        align-items: flex-end;
+        margin-top: 6px;
+        margin: 0px;
+        border-radius: 4px;
+    }
+
+    .txtSuccessRate {
+        font-family: ${ha};
+        color: #FFFFFF;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 16px;
+    }
+
+    .corner-icon {
+        display: flex;
+        justify-content: center;
+        margin-inline-end: 6px;
+        width: auto;
+        height: 13.5px;
+        margin: 0px;
+        padding: 0px;
+        padding-left: 8px;
+        padding-top: -4px;
+        padding-right: -4px;
+    }
+
+    .copiedIndicator {
+        opacity: 0;
+        position: absolute;
+        pointer-events: none;
+    }
+
+    .nonStackableMessage {
+        display: inline;
+        color: var(--coupon-non-stackable-msg-color, #666666);
+        font-weight: normal;
+    }
+    .cashback-nonstackable-message {
+        font-size: ${ya};
+        line-height: ${va};
+        color: ${ql};
+    }
+    .check-icon {
+        display: flex;
+        fill: #8BB73A;
+    }
+    .warning-icon {
+        height: 12px;
+    }
+    .warning-icon svg {
+        fill: #BE5A00;
+        transform: translate(-3px, 1px);
+    }
+    .selected-success {
+        color: var(--coupon-success-color, #DE3700);
+    }
+    .selected-success svg {
+        fill: var(--coupon-success-color, #DE3700);
+    }
+    .selected {
+        color: var(--coupon-selected-color, #207A90);
+    }
+    .selected svg {
+        fill: var(--coupon-selected-color, #207A90);
+    }
+
+    .inboxCouponContainer {
+        position: absolute;
+        top: -12px;
+        right: -12px;
+        border-radius: 50%;
+        width: 25px;
+        height: 25px;
+        background-color: var(--fill-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: var(--neutral-fill-active) 0px 3px 6px;
+        z-index: 1;
+    }
+    .inboxCouponIcon {
+        width: 65%;
+    }
+    .trendingCouponshidden {
+        display: none;
+    }
+    .trendingCoupons-start-content {
+        min-width: 95px!important;
+        max-width: 95px!important;
+    }
+    .trendingCoupons-start-content-notification {
+        min-width: 55px!important;
+        max-width: 55px!important;
+        height: 34px!important;
+    }
+    .trendingCoupons-control-notification {
+        height: 55px!important;
+        width: 100%;
+    }
+    .trendingCoupons-title-notification {
+        font-size: 12px!important;
+    }
+
+`.withBehaviors(ov(Ey`
+            .title-container {
+                background: ${KT.ButtonFace};
+                border-color: ${KT.ButtonText};
+            }
+            .control,
+            .controlSuccess,
+            .sub-title,
+            .description,
+            .controlSuccess:hover
+            .control:hover .title-container {
+                color: ${KT.ButtonText};
+                border-color: ${KT.ButtonText};
+            }
+            .title,
+            .selected-success,
+            .selected {
+                color: ${KT.Highlight};
+            }
+            .selected-success svg {
+                fill: ${KT.Highlight};
+            }
+            .selected svg {
+                fill: ${KT.Highlight};
+            }
+            .controlSuccess:hover,
+            .controlSuccess:${Wv},
+            .control:hover,
+            .control:${Wv} {
+                forced-color-adjust: none;
+                background: ${KT.ButtonFace}!important;
+                color: ${KT.ButtonText};
+                box-shadow: 0 0 0 calc((${ua} - ${da}) * 1px)
+                    ${KT.Highlight};
+            }
+            .success-rate {
+                background: ${KT.ButtonFace};
+            }
+
+            .cashback-nonstackable-message {
+                color: ${KT.HighlightText};
+            }
+
+            .warning-icon,
+            .copy-icon {
+                fill: ${KT.HighlightText};
+            }
+
+            .start-content{
+                background:${KT.ButtonFace} !important;
+            }
+
+            .titleHover{
+                color: ${KT.ButtonText} !important;
+            }
+            .selected-success {
+                color: ${KT.ButtonText} !important;
+            }
+            .selected-success svg {
+                fill: ${KT.ButtonText} !important;
+            }
+            .selected {
+                color: ${KT.ButtonText} !important;
+            }
+            .selected svg {
+                fill: ${KT.ButtonText} !important;
+            }
+            .title {
+                color: buttontext !important;
+            }
+        `),rv(Ey`
+                .warning-icon svg {
+                    fill: var(--coupon-success-color, #FFB833);
+                }
+                .selected-success {
+                    color: var(--coupon-success-color, #FFB833);
+                }
+                .selected-success svg {
+                    fill: var(--coupon-success-color, #FFB833);
+                }
+                .selected {
+                    color: var(--coupon-selected-color, #41CFF2);
+                }
+                .selected svg {
+                    fill: var(--coupon-selected-color, #41CFF2);
+                }
+                .control {
+                    background: linear-gradient(44.89deg,
+                        var(--coupon-control-bg-start, rgba(0, 198, 255, 0.08)) 0%,
+                        var(--coupon-control-bg-end, rgba(255, 255, 255, 0)) 82.76%);
+                    border: 1px dashed var(--coupon-control-border, rgba(201, 225, 231, 0.3));
+                }
+                .controlHover {
+                    background: linear-gradient(44.89deg,
+                        var(--coupon-control-bg-end, rgba(255, 255, 255, 0)) 26.25%,
+                        var(--coupon-control-bg-start, rgba(0, 198, 255, 0.08)) 109.58%) !important;
+                    color: red;
+                }
+                .controlSuccess {
+                    background: linear-gradient(44.89deg,
+                        var(--coupon-success-bg-start, rgba(255, 0, 107, 0.08)) 0%,
+                        var(--coupon-success-bg-mid, rgba(255, 184, 0, 0.08)) 38.24%,
+                        var(--coupon-success-bg-end, rgba(255, 255, 255, 0)) 86.18%);
+                    border: 1px dashed var(--coupon-success-border, rgba(245, 214, 216, 0.3));
+                }
+                .controlSuccessHover {
+                    background: linear-gradient(224.24deg,
+                        var(--coupon-success-hover-bg-start, rgba(255, 0, 107, 0.08)) 0%,
+                        var(--coupon-success-hover-bg-mid, rgba(255, 230, 0, 0.08)) 33.85%,
+                        var(--coupon-success-hover-bg-end, rgba(255, 255, 255, 0)) 81.25%) !important;
+                }
+                .nonStackableMessage {
+                    color: var(--coupon-non-stackable-msg-color, #FFFFFF);
+                }
+
+                .title {
+                    color: var(--coupon-selected-color, #41CFF2);
+                }
+                .titleHover {
+                    color: var(--coupon-title-hover-color, #C4C4C4);
+                }
+                .titleSuccess {
+                    color: var(--coupon-success-color, #FFB833);
+                }
+            `)),template:(t,e)=>ev`
+    <template ${RA({property:"childElements",filter:Bv()})}>
+        <button
+            id="couponButton"
+            class= "${t=>t.successRate&&!t.regularColors?t.isHover?t.controlClass+" controlSuccess controlSuccessHover":t.controlClass+" controlSuccess":t.isHover?t.controlClass+" control controlHover":t.controlClass+" control"}"
+            part="${t=>t.controlClass}"
+            aria-label="${t=>t.label}"
+            aria-describedby="${t=>t.name} ${t=>t.subTitleId} ${t=>t.descriptionId} ${t=>t.cashbackNonstackableMessageId} ${t=>t.successRateId}"
+            aria-setsize="${t=>t.ariaSetSize}"
+            aria-posinset="${t=>t.ariaPosInSet}"
+            @click="${t=>t.onClickHandler()}"
+            @keypress="${(t,e)=>t.onKeyPressHandler(e.event)}"
+            @blur="${t=>t.onBlurHandler()}"
+            @mouseover="${(t,e)=>t.onHoverHandler()}"
+            @mouseout="${t=>t.onHoverEndHandler()}"
+            @focus="${t=>t.onHoverHandler()}"
+            role="button"
+        >
+
+            <div class="content">
+                <div id="couponCodeDiv" class= "${t=>t.isHover?t.startContentClass+" start-content hover":t.startContentClass+" start-content"} ${t=>t.isSelected&&t.selectedIndicatorMessage?t.startContentClass+" start-content hover":""}" part="${t=>t.startContentClass} start-content">
+                    <span class="${t=>t.isHover?t.titleClass+" title titleHover":t.successRate&&!t.regularColors?t.titleClass+" title  titleSuccess":t.titleClass+" title"}" part=${t=>t.controlClass} ${Iv("controlCopy")}>
+                        ${t=>t.isSelected&&t.selectedIndicatorMessage?ev`<span class="${t.successRate&&!t.regularColors?"selected-success":"selected"}">${t.selectedIndicatorMessage} ${'<svg xmlns="http://www.w3.org/2000/svg" width="8" height="6" viewBox="0 0 8 6" fill="none">\n                         <path d="M7.85355 0.146447C8.04882 0.341709 8.04882 0.658291 7.85355 0.853553L3.35355 5.35355C3.15829 5.54882 2.84171 5.54882 2.64645 5.35355L0.646447 3.35355C0.451184 3.15829 0.451184 2.84171 0.646447 2.64645C0.841709 2.45118 1.15829 2.45118 1.35355 2.64645L3 4.29289L7.14645 0.146447C7.34171 -0.0488155 7.65829 -0.0488155 7.85355 0.146447Z"/>\n                         </svg>'}</span>`:t.isHover&&t.indicatorMessage?ev`${t.indicatorMessage} <slot name="copy-icon"></slot>`:t.name}
+                    </span>
+                </div>
+                <div class="end-content" part="end-content">
+                    <div class="description-lockicon-content">
+                        <span
+                            id="${t=>t.descriptionId}"
+                            class="description ${t=>t.descriptionClass}"
+                            part="description ${t=>t.descriptionClass}"
+                        >
+                            ${t=>t.cashbackNonstackableMessage&&(t.isSelected||t.isHover)?ev`
+                                    <div class="nonStackableMessage">
+                                        <span aria-hidden="true" class="warning-icon">
+                                            ${'<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">\n                                    <path d="M4.2829 2.9799C4.13361 1.93492 4.94447 1 6.00005 1C7.05564 1 7.86649 1.93492 7.71721 2.9799L7.14147 7.01005C7.06033 7.57808 6.57385 8 6.00005 8C5.42626 8 4.93978 7.57808 4.85863 7.01005L4.2829 2.9799ZM7 10C7 10.5523 6.55228 11 6 11C5.44772 11 5 10.5523 5 10C5 9.44771 5.44772 9 6 9C6.55228 9 7 9.44771 7 10Z"/>\n                                    </svg>'}
+                                        </span>
+                                    ${t.cashbackNonstackableMessage}
+                                    </div>`:t.description?ev`${t.description}`:""}
+                        </span>
+                        ${tb((t=>t.hasIcon),ev`
+                        <div class="corner-icon" part="corner-icon">
+                            <slot name="icon"></slot>
+                        </div>
+                        `)}
+                    </div>
+                    ${tb((t=>t.isTrendingCoupon),ev`<slot name="trendingcoupon-info"></slot>`)}
+                    <div class="${t=>t.isTrendingCoupon?"trendingcoupons-end-content-bottom":""} end-content-bottom">
+                    ${tb((t=>t.isTrendingCoupon),ev`<slot name="trendingcoupon-retailer"></slot>`)}
+                    <div class="${t=>t.retailerSuccessrateContentClass} retailer-successrate-content">
+                        <span id="${t=>t.subTitleId}" class="sub-title" part="sub-title">
+                            ${tb((t=>!(t.cashbackNonstackableMessage&&(t.isSelected||t.isHover))),ev`${t=>t.subTitle}`)}
+                        </span>
+                        <span>${tb((t=>t.successRate&&!t.hasIcon),ev`
+                                    <div class="${t=>t.successrateClass} success-rate" part="success-rate">
+                                        <span class="txtSuccessRate" part="txtSuccessRate" id="${t=>t.successRateId}">${t=>t.successRate}</span>
+                                </div>`)}
+                        </span>
+                        <span>${tb((t=>!(t.successRate&&!t.hasIcon)&&t.lastSuccessfulCouponTime),ev`
+                                    <div class="${t=>t.successrateClass} success-rate" part="success-rate">
+                                        <span class="txtSuccessRate" part="txtSuccessRate" id="${t=>t.successRateId}">${t=>t.lastSuccessfulCouponTime}</span>
+                                </div>`)}
+                        </span>
+                    </div>
+                </div>
+            </div>
+            ${tb((t=>t.isYoutuber),ev`<slot name="youtuber-info"></slot>`)}
+            <span aria-live="polite" aria-relevant="all" aria-atomic="true" class="copiedIndicator">
+                ${tb((t=>t.isSelected&&t.selectedIndicatorMessage),ev`${t=>t.selectedIndicatorMessage}`)},
+            </span>
+        </button>
+        ${tb((t=>t.isInboxCoupon),ev`<div class="inboxCouponContainer">
+                <img src="${t=>t.inboxCouponIconUrl}" class="inboxCouponIcon"/>
+            </div>`)}
+    </template>
+`});class bx extends tS{constructor(){super(...arguments),this.deselectable=!0,this.isSelected=!1,this.nameId=yx("nameId"),this.descriptionId=yx("descriptionId"),this.onSelectedHandler=()=>{document.activeElement!==this&&this.focus(),this.deselectable||this.isSelected||(this.isSelected=!0,this.$emit("selected-changed")),this.deselectable&&(this.isSelected=!this.isSelected,this.$emit("selected-changed"))}}handleImageContentChange(){this.control.classList.toggle("has-image",this.image.assignedNodes().length>0)}onClickHandler(){this.onSelectedHandler()}}Ay([wo],bx.prototype,"name",void 0),Ay([wo({attribute:"description"})],bx.prototype,"description",void 0),Ay([wo({attribute:"selected-aria-label"})],bx.prototype,"selectedAriaLabel",void 0),Ay([wo({attribute:"unselected-aria-label"})],bx.prototype,"unselectedAriaLabel",void 0),Ay([wo({mode:"boolean"})],bx.prototype,"deselectable",void 0),Ay([fo],bx.prototype,"isSelected",void 0);const Tx=Ey`
+    .indicator {
+        right: calc(${sa} * 2px);
+    }
+`,Ax=Ey`
+    .indicator {
+        left: calc(${sa} * 2px);
+    }
+`,Ox=bx.compose({baseName:"shopping-coupon-printable",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+    ${av("flex")} :host {
+        box-sizing: border-box;
+        border-radius: calc(${ca} * 1px);
+        font-family: ${ha};
+        font-size: ${ya};
+        line-height: ${va};
+        color: ${Kl};
+        outline: none;
+    }
+
+    :host(:active) {
+        background-color: ${bl};
+    }
+
+    .control {
+        position: relative;
+        color: ${Kl};
+        font-family: ${ha};
+        background: transparent;
+        box-sizing: border-box;
+        border: calc(${da} * 1px) solid ${rc};
+        border-radius: inherit;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: stretch;
+        padding: 0 0 8px;
+        width: 100%;
+        min-height: 68px;
+        cursor: pointer;
+        outline: none;
+        text-decoration: none;
+        overflow: hidden;
+    }
+
+    .control:${Wv} {
+        border-color: ${mc};
+        box-shadow: 0 0 0 calc((${ua} - ${da}) * 1px) ${mc};
+    }
+
+    .image-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 138px;
+        overflow: hidden;
+    }
+
+    .image-container svg {
+        fill: ${vl};
+    }
+
+    ::slotted([slot="image"]){
+        width: 100%;
+        object-fit:none;
+    }
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        padding: 0 12px;
+        overflow: hidden;
+    }
+
+    .name {
+        font-size: ${Oa};
+        line-height: ${xa};
+        margin-top: 8px;
+        font-weight: 600;
+        display: -webkit-box;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        text-align: start;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+    }
+    .name-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+
+    .description {
+        margin-top: 4px;
+        color: ${ql};
+        overflow: hidden;
+        overflow-wrap: break-word;
+        font-size: ${ya};
+        line-height: ${va};
+        text-align: start;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+    }
+
+    .indicator {
+        display: inline-flex;
+        position: absolute;
+        top: calc(${sa} *2px);
+        align-items: center;
+        justify-content: center;
+        font-size: ${ya};
+        line-height: ${Ia};
+        border-radius: 2px;
+        pointer-events: none;
+        border-radius: calc(${la} * 1px);
+        background-color: ${il};
+    }
+
+    .checkbox {
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        border: calc(${da} * 1px) solid ${hc};
+        border-radius: inherit;
+        background: ${Al};
+        outline: none;
+        cursor: pointer;
+        width: 26px;
+        height: 26px;
+    }
+
+    .indicator.selected .checkbox {
+        background: var(--checkbox-selected-background, linear-gradient(92.91deg, #15835B 31.47%, #3E8624 99.7%));
+        border: none;
+    }
+
+    .checkbox svg {
+        height: 14px;
+        width: 14px;
+        fill: ${Gl};
+        display: block;
+        pointer-events: none;
+    }
+
+    .indicator-message {
+        display: -webkit-box;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        text-align: start;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+    }
+
+    .indicator-message-selected, .selected-icon-container {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+`.withBehaviors(new ob(Tx,Ax),ov(Ey`
+            .control,
+            .name,
+            .description,
+            .control:hover {
+                color: ${KT.ButtonText};
+                border-color: ${KT.ButtonText}
+            }
+
+            .control:hover,
+            .control:${Wv} {
+                forced-color-adjust: none;
+                background: ${KT.ButtonFace};
+                color: ${KT.ButtonText};
+                border-color: ${KT.Highlight};
+                box-shadow: 0 0 0 2px ${KT.Field}, 0 0 0 4px ${KT.FieldText};
+            }
+
+            .indicator.selected .checkbox {
+                forced-color-adjust: none;
+                background: ${KT.Highlight};
+                border-color: ${KT.Highlight};
+                color: ${KT.HighlightText};
+            }
+
+            .checkbox svg {
+                fill: ${KT.HighlightText};
+            }
+        `)),template:(t,e)=>ev`
+    <button
+        class="control"
+        part="control"
+        ${Iv("control")}
+        aria-live="polite"
+        aria-label="${t=>t.isSelected?t.selectedAriaLabel:t.unselectedAriaLabel}"
+        aria-describedby="${t=>t.nameId} ${t=>t.descriptionId}"
+        @click="${t=>t.onClickHandler()}"
+    >
+        <div class="image-container" part="image-container">
+            <slot
+                name="image"
+                ${Iv("image")}
+                @slotchange="${t=>t.handleImageContentChange()}"
+            >
+                ${'<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">\n<path d="M42 12.5C42 8.91014 39.0898 6 35.5 6H12.5C8.91014 6 6 8.91014 6 12.5V21.5144C6.89262 20.7772 7.90354 20.178 9 19.7499V12.5C9 10.567 10.567 9 12.5 9H35.5C37.433 9 39 10.567 39 12.5V35.5C39 35.9176 38.9268 36.318 38.7928 36.6894L27.1484 25.2862L26.8916 25.0532C25.6182 23.9832 23.8928 23.7296 22.4052 24.2922C22.9232 25.144 23.3288 26.0718 23.6014 27.055C24.0996 26.9182 24.6546 27.043 25.0494 27.4296L36.661 38.8028C36.2978 38.9306 35.907 39 35.5 39H25.9496L26.9748 40.0252C27.5308 40.581 27.8606 41.2774 27.9642 42H35.5C39.0898 42 42 39.0898 42 35.5V12.5Z"/><path d="M35.0084 17.5042C35.0084 15.0166 32.9918 13 30.5042 13C28.0166 13 26 15.0166 26 17.5042C26 19.9918 28.0166 22.0084 30.5042 22.0084C32.9918 22.0084 35.0084 19.9918 35.0084 17.5042ZM29 17.5042C29 16.6735 29.6734 16 30.5042 16C31.335 16 32.0084 16.6735 32.0084 17.5042C32.0084 18.335 31.335 19.0085 30.5042 19.0085C29.6734 19.0085 29 18.335 29 17.5042Z"/><path d="M19.9 35.7788C21.2108 34.2152 22 32.1998 22 30C22 25.0294 17.9706 21 13 21C8.02944 21 4 25.0294 4 30C4 34.9706 8.02944 39 13 39C14.6849 39 16.2616 38.537 17.61 37.7312L23.4394 43.5606C24.0252 44.1464 24.9748 44.1464 25.5606 43.5606C26.1464 42.9748 26.1464 42.0252 25.5606 41.4394L19.9 35.7788ZM13 36C9.6863 36 7 33.3138 7 30C7 26.6862 9.6863 24 13 24C16.3137 24 19 26.6862 19 30C19 33.3138 16.3137 36 13 36Z"/></svg>'}
+            </slot>
+        </div>
+        <div class="content" part="content">
+            <span id="${t=>t.nameId}" class="name" part="name">${t=>t.name} </span>
+            <span id="${t=>t.descriptionId}" class="description" part="description"
+                >${t=>t.description}
+            </span>
+        </div>
+        <div
+            class="${t=>t.isSelected?"indicator selected":"indicator"}"
+            part="indicator"
+        >
+            <span class="checkbox">
+                ${tb((t=>t.isSelected),ev`<span aria-hidden="true">
+                        <svg
+                            viewBox="0 0 16 16"
+                            xmlns="http://www.w3.org/2000/svg"
+                            part="checkbox-svg"
+                        >
+                            <path
+                                d="M13.86 3.66a.5.5 0 01-.02.7l-7.93 7.48a.6.6 0 01-.84-.02L2.4 9.1a.5.5 0 01.72-.7l2.4 2.44 7.65-7.2a.5.5 0 01.7.02z"
+                            />
+                        </svg>
+                    </span>`)}
+            </span>
+        </div>
+    </button>
+`});class xx extends uy{connectedCallback(){const t=Object.create(null,{connectedCallback:{get:()=>super.connectedCallback}});return Oy(this,void 0,void 0,(function*(){t.connectedCallback.call(this),this.imageElement&&this.onImageLoad&&(this.imageElement.onload=this.onImageLoad.bind(this),this.imageElement.onerror=this.onImageLoad.bind(this))}))}}Ay([wo()],xx.prototype,"src",void 0),Ay([wo()],xx.prototype,"alt",void 0),Ay([fo],xx.prototype,"onImageLoad",void 0);const Ex=Ey`
+img {
+    display: block;
+    width: 100%;
+    height: fit-content;
+    object-fit: contain;
+}
+
+`,Px=xx.compose({baseName:"shopping-image",shadowOptions:{delegatesFocus:!0},styles:Ex,template:(t,e)=>ev`
+    <template>
+        <img
+            src="${t=>t.src}"
+            alt="${t=>t.alt}"
+            ${Iv("imageElement")} />
+    </template>
+`});class Ix extends uS{}Ay([wo({attribute:"destination"})],Ix.prototype,"destination",void 0),Ay([wo({attribute:"altText"})],Ix.prototype,"altText",void 0),Ay([wo({attribute:"dealPercentage"})],Ix.prototype,"dealPercentage",void 0),Ay([wo({attribute:"originalPrice"})],Ix.prototype,"originalPrice",void 0),Ay([wo({attribute:"currentPrice"})],Ix.prototype,"currentPrice",void 0),Ay([wo({attribute:"titleText"})],Ix.prototype,"titleText",void 0),Ay([wo({attribute:"alt-color"})],Ix.prototype,"useAltColors",void 0);const Dx=ev`
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#FFFFFF" d="M8.08674 2.19636L2.19583 8.08727C1.94493 8.33818 1.94493 8.75273 2.19583 9.01455L6.99583 13.8145C7.24674 14.0655 7.66129 14.0655 7.92311 13.8145L13.814 7.92364C13.934 7.79273 13.9995 7.62909 13.9995 7.45455V2.65455C13.9995 2.29455 13.7049 2 13.3449 2H8.54493C8.37038 2 8.20674 2.06545 8.08674 2.19636ZM12.2431 5.32727C12.1777 5.46909 12.0904 5.6 11.9813 5.70909C11.8722 5.81818 11.7522 5.90545 11.5995 5.96C11.4467 6.01455 11.3049 6.05818 11.1413 6.05818C10.9777 6.05818 10.814 6.02545 10.6722 5.96C10.5304 5.90545 10.3995 5.81818 10.2904 5.70909C10.1813 5.6 10.094 5.46909 10.0395 5.32727C9.97402 5.18545 9.94129 5.03273 9.94129 4.85818C9.94129 4.68364 9.97402 4.53091 10.0395 4.38909C10.094 4.25818 10.1813 4.12727 10.2904 4.02909C10.3995 3.92 10.5304 3.83273 10.6722 3.76727C10.814 3.70182 10.9667 3.66909 11.1413 3.66909C11.3158 3.66909 11.4686 3.70182 11.6104 3.76727C11.7522 3.83273 11.8831 3.92 11.9813 4.02909C12.0904 4.13818 12.1777 4.25818 12.2431 4.4C12.3086 4.54182 12.3413 4.69455 12.3413 4.86909C12.3413 5.04364 12.2977 5.18545 12.2431 5.32727Z"></path>
+</svg>
+`,_x=Ix.compose({baseName:"shopping-recommendation",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+    ${av("flex")} :host {
+        border: calc(${da} * 1px) solid transparent;
+        border-radius: calc(${ca} * 1px);
+        box-sizing: border-box;
+        color: ${Kl};
+        cursor: pointer;
+        fill: currentcolor;
+        font-family: ${ha};
+        font-size: ${ya};
+        line-height: ${va};
+        outline: none;
+        position: relative;
+    }
+
+    .anchor-wrapper {
+        width: 100%;
+        text-decoration: none;
+        color: ${Kl};
+        border-radius: 8px;
+        transition: box-shadow 500ms;
+    }
+
+    .anchor-wrapper:active {
+        color: ${Kl};
+    }
+
+    .anchor-wrapper:hover {
+        box-shadow: 0px 3px 6px rgb(0, 0, 0, 0.12);
+    }
+
+    .product-card {
+        position: relative;
+        content-visibility: visible;
+        border-radius: 8px;
+        box-shadow: none;
+        width: 100%;
+    }
+
+    .product-info {
+        margin-top: 8px;
+        padding: 0px 12px 12px 12px;
+    }
+
+    .title {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        white-space: normal;
+        overflow: hidden;
+        height: 16px;
+        font-size: ${ya};
+        line-height: ${va};
+        word-break: break-all;
+    }
+
+    .price {
+        display: flex;
+        gap: 6px;
+        align-items: flex-end;
+    }
+
+    .current-price {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .current-price.sale {
+        color: #DE3700;
+    }
+
+    @media
+    (-webkit-min-device-pixel-ratio: 1.5),
+    (min-resolution: 144dpi) {
+        .current-price-hundredth {
+            padding-top: 2px;
+        }
+    }
+
+    .previous-price {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px
+        color: var(--text-neutral-foreground-hint);
+        text-decoration-line: line-through;
+        display: flex;
+        align-self: center;
+    }
+
+    .decoration {
+        padding: 2px 5px;
+        position: absolute;
+        top: 6px;
+        left: 6px;
+        background: rgba(0, 0, 0, 0.7);
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #FFF;
+        z-index: 10;
+    }
+
+    .decoration-text {
+        font-size: ${ya};
+        line-height: ${va};
+    }
+
+    .decoration svg {
+        display: inline-block;
+        padding-top: 1px;
+        height: 12px;
+        width: 12px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .current-price.sale {
+            color: #FA9370;
+        }
+    }
+
+    @media (-ms-high-contrast: active) {
+        .product-card {
+            border: 1px solid linkText;
+            color: linkText;
+        }
+
+        .product-card:hover {
+            outline: 1px solid highlight;
+        }
+
+        .decoration {
+            background: #000;
+        }
+
+        .seller, .current-price.sale, .previous-price {
+            color: linkText;
+        }
+    }
+`.withBehaviors(ov(Ey`
+       :host,
+       .previous-price,
+       .product-title {
+            forced-color-adjust: auto;
+            color: ${KT.LinkText};
+        }
+
+        :host .control:hover,
+        :host([href]) .control:hover,
+        :host([href]) .control:${Wv} {
+            forced-color-adjust: none;
+            box-shadow: inset 0 0 0 calc((${ua} * 1px)) ${KT.LinkText};
+        }
+
+        .image svg {
+            fill: ${KT.ButtonText};
+        }
+    `)),template:(t,e)=>ev`
+    <a
+        class="anchor-wrapper"
+        target="_blank"
+        href="${t=>t.destination}"
+        aria-label="${t=>t.altText}">
+        <fluent-card class="product-card" aria-hidden="true">
+            <div class="card-inner">
+                ${tb((t=>t.dealPercentage),ev`
+                    <div class="decoration">
+                        ${Dx}
+                        <div class="decoration-text">
+                            ${t=>t.dealPercentage}
+                        </div>
+                    </div>`)}
+                <slot name="image"></slot>
+                <div class="product-info">
+                    <div class="price">
+                        <div class="current-price${t=>t.originalPrice?" sale":""}">
+                            ${t=>t.currentPrice}
+                        </div>
+                        ${tb((t=>t.originalPrice),ev`
+                            <div class="previous-price">
+                                ${t=>t.originalPrice}
+                            </div>
+                        `)}
+                    </div>
+                    <div class="title">${t=>t.titleText}</div>
+                </div>
+            </div>
+        </fluent-card>
+    </a>
+`});class kx extends uy{constructor(){super(...arguments),this.hasShippingCost=!1,this.itemTitleId=yx("itemTitleId"),this.deliveryLabelId=yx("deliveryLabelId"),this.deliveryInfoId=yx("deliveryInfoId"),this.shipperLabelId=yx("shipperLabelId"),this.ratingLabelId=yx("ratingLabelId"),this.ratingId=yx("ratingId"),this.shipperLinkId=yx("shipperLinkId"),this.onKeyPressHandler=t=>{if(" "===t.key)t.preventDefault(),this.onClickHandler()},this.linkKeyPressHandler=t=>{if(" "===t.key)t.preventDefault(),this.linkClickHandler()}}onClickHandler(){this.$emit("add-to-cart")}linkClickHandler(){this.$emit("link-invoked")}}Ay([wo({attribute:"item-title"})],kx.prototype,"itemTitle",void 0),Ay([wo({attribute:"item-currency"})],kx.prototype,"itemCurrency",void 0),Ay([wo({attribute:"item-price"})],kx.prototype,"itemPrice",void 0),Ay([wo({attribute:"item-price-hundredths"})],kx.prototype,"itemPriceHundredths",void 0),Ay([wo({attribute:"delivery-label"})],kx.prototype,"deliveryLabel",void 0),Ay([wo({attribute:"delivery-info"})],kx.prototype,"deliveryInfo",void 0),Ay([wo({attribute:"shipper-label"})],kx.prototype,"shipperLabel",void 0),Ay([wo({attribute:"shipper-name"})],kx.prototype,"shipperName",void 0),Ay([wo({attribute:"rating-label"})],kx.prototype,"ratingLabel",void 0),Ay([wo({attribute:"rating"})],kx.prototype,"rating",void 0),Ay([wo({attribute:"shipper-url"})],kx.prototype,"shipperUrl",void 0),Ay([wo({attribute:"has-shipping-cost",mode:"boolean"})],kx.prototype,"hasShippingCost",void 0),Ay([wo({attribute:"action-button-text"})],kx.prototype,"actionButtonText",void 0),Ay([wo({attribute:"action-button-aria-label"})],kx.prototype,"actionButtonAriaLabel",void 0);const wx=Ey`
+    :host {
+        --content-max-lines: 2;
+        --shipping-cost-color: #C42B1C;
+        --shipping-cost-color-dark-mode: #f99a91;
+        outline: none;
+        font-family: ${ha};
+        font-size: ${ya};
+        font-weight: 500;
+        line-height: ${va};
+        min-width: calc(${Yv} * 1px);
+        border-radius: calc(${ca} * 1px);
+        box-sizing: border-box;
+        color: ${Kl};
+        fill: currentcolor;
+        min-height: 78px;
+        display: block;
+    }
+
+    .control {
+        display: grid;
+        grid-template-columns: 1fr 90px;
+        grid-column-gap: 8px;
+        box-sizing: border-box;
+        background: transparent;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 16px;
+        outline: none;
+        text-decoration: none;
+        border: calc(${da} * 1px) solid transparent;
+        color: inherit;
+        border-radius: inherit;
+        fill: inherit;
+        cursor: inherit;
+        font-family: inherit;
+        width: 100%;
+        height: 100%;
+        --elevation: 4;
+        min-height: 78px;
+        ${"box-shadow: 0 0 2px rgba(0, 0, 0, 0.14), 0 calc(var(--elevation) * 0.5px) calc((var(--elevation) * 1px)) rgba(0, 0, 0, 0.2);"};
+    }
+    .delivery-label.has-shipping-cost {
+        color: var(--shipping-cost-color);
+    }
+    .price-container {
+        grid-column: 2;
+        grid-row: 1;
+        display: flex;
+        flex-direction: column;
+        justify-self: end;
+        align-items: flex-end;
+        justify-content: center;
+        font-size: ${Oa};
+        text-overflow: ellipsis;
+        height: 100%;
+        overflow: hidden;
+        min-height: ${xa};
+        max-width: 90px;
+        min-height: 12px;
+    }
+    .action-button {
+        height: 24px;
+        margin: 0 1px;
+    }
+
+    .action-button::part(control) {
+        max-height: 24px;
+        padding: 0 8px;
+        font-size: 12px;
+    }
+
+    .action-button,
+    .action-button::part(control) {
+        color: #008076;
+        max-width: 90px;
+        background: padding-box linear-gradient(var(--fill-color), var(--fill-color)), border-box linear-gradient(88.14deg, #018DC8 0.49%, #01CC83 53.44%, #0CBFC9 104.22%);
+    }
+
+    .shipper-link::part(control) {
+        text-decoration: none;
+        border-bottom: none;
+        margin: calc(${da} * 1px);
+    }
+
+    .action-button::part(content) {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .shipper-link::part(control):focus {
+        border: calc(${da} * 1px) solid ${mc};
+        margin: 0;
+    }
+
+    .item-title {
+        margin-bottom: 5px;
+        font-weight: 600;
+    }
+
+    .delivery-label,
+    .shipper-label,
+    .rating-label {
+        color: ${ql};
+    }
+
+    .shipper-link {
+        font-weight: 400;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 15ch;
+        display: inline-block;
+    }
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between;
+        font-weight: 400;
+        text-align: left;
+    }
+
+    .item-price {
+        text-align: right;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 6px;
+    }
+
+    .txtPrice {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 26px;
+        color: var(--text-price-color);
+    }
+
+    .txtPriceDecorative {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 18px;
+        color: var(--text-price-color);
+        margin-bottom: 2px;
+        margin-left: 1px;
+    }
+
+    .item-description {
+        overflow: hidden;
+        height: 48px;
+    }
+
+    @media (max-width: 655px) {
+        :host {
+            max-width: 602px;
+        }
+    }
+    @media (prefers-color-scheme: dark) {
+        .action-button,
+        .action-button::part(control) {
+            color: #09E6C3;
+        }
+        .delivery-label.has-shipping-cost {
+            color: var(--shipping-cost-color-dark-mode);
+        }
+    }
+`,Nx=ev`
+    <fluent-button
+        appearance="neutral"
+        class="action-button"
+        title="${t=>t.actionButtonText}"
+        aria-label="${t=>t.actionButtonAriaLabel}"
+        aria-describedby="${t=>t.itemTitleId} ${t=>t.deliveryLabelId} ${t=>t.deliveryInfoId} ${t=>t.shipperLabelId} ${t=>t.shipperLinkId} ${t=>t.ratingLabelId} ${t=>t.ratingId}"
+        @click="${t=>t.onClickHandler()}"
+        @keyup="${(t,e)=>t.onKeyPressHandler(e.event)}"
+    >
+        ${t=>t.actionButtonText}
+    </fluent-button>
+`,Mx=kx.compose({baseName:"shopping-similar-seller",shadowOptions:{delegatesFocus:!0},styles:wx,template:(t,e)=>ev`
+    <div class="control" part="control">
+        <div class="price-container" part="price-container">
+            ${tb((t=>t.itemPrice&&t.itemCurrency),ev`
+                    <span class="item-price" part="item-price">
+                        <span class="txtPriceDecorative">${t=>t.itemCurrency}</span>
+                        <span class="txtPrice">${t=>t.itemPrice}</span>
+                        ${tb((t=>t.itemPriceHundredths),ev`<span class="txtPriceDecorative">${t=>t.itemPriceHundredths}</span>`)}
+                    </span>`)}
+            ${tb((t=>t.actionButtonText),ev`${Nx}`)}
+        </div>
+        <div class="content" part="content">
+            <div class="item-title" id="${t=>t.itemTitleId}">
+                ${t=>t.itemTitle}
+            </div>
+            <div class="item-description">
+                <div>
+                    <span
+                        id="${t=>t.deliveryLabelId}"
+                        class="delivery-label ${t=>t.hasShippingCost?"has-shipping-cost":""}"
+                        part="delivery-label"
+                        >${t=>t.deliveryLabel}</span
+                    >
+                    <span
+                        id="${t=>t.deliveryInfoId}"
+                        class="delivery-info"
+                        part="delivery-info"
+                        >${t=>t.deliveryInfo}</span
+                    >
+                </div>
+                ${tb((t=>t.shipperLabel),ev`<div>
+                        <span
+                            class="shipper-label"
+                            part="shipper-label"
+                            id="${t=>t.shipperLabelId}"
+                            >${t=>t.shipperLabel}</span
+                        >
+                        <fluent-anchor
+                            id="${t=>t.shipperLinkId}"
+                            appearance="hypertext"
+                            class="shipper-link"
+                            part="shipper-link"
+                            title="${t=>t.shipperName}"
+                            href="${t=>t.shipperUrl}"
+                            @click="${t=>t.linkClickHandler()}"
+                            @keyup="${(t,e)=>t.linkKeyPressHandler(e.event)}"
+                            >${t=>t.shipperName}</fluent-anchor
+                        >
+                    </div>`)}
+                ${tb((t=>t.rating),ev`
+                        <div>
+                            <span
+                                class="rating-label"
+                                part="rating-label"
+                                id="${t=>t.ratingLabelId}"
+                                >${t=>t.ratingLabel}</span
+                            >
+                            <span id="${t=>t.ratingId}" class="rating" part="rating"
+                                >${t=>t.rating}</span
+                            >
+                        </div>
+                    `)}
+            </div>
+        </div>
+    </div>
+`});class Rx extends tS{constructor(){super(...arguments),this.isVisible=!1,this.isFocused=!1,this.hasLink=!1,this.isCjk=!1,this.onKeyDownHandlerLink=t=>{var e;switch(t.key){case"Space":case"Enter":t.preventDefault(),this.linkHandler();break;case"Tab":case"Escape":t.preventDefault(),this.isVisible=!1;const i=null===(e=this.shadowRoot)||void 0===e?void 0:e.querySelector(".control");i&&i.focus()}}}onHoverHandler(){this.isVisible=!0,this.$emit("hover")}onHoverEndHandler(t){this.isVisible=null!=t&&t}onFocusHandler(){this.isFocused=!0,this.isVisible=!1}onBlurHandler(){var t;this.isFocused=!1;(null===(t=this.shadowRoot)||void 0===t?void 0:t.querySelector(".link"))||(this.isVisible=!1)}onKeypressHandler(t){var e;switch(t.key){case"Escape":this.isVisible&&(t.preventDefault(),this.isVisible=!1);break;case"Enter":if(this.isFocused){t.preventDefault(),this.isVisible=!0;const i=null===(e=this.shadowRoot)||void 0===e?void 0:e.querySelector(".link");i&&this.linkText&&i.focus()}}}onClickHandlerLink(){this.linkHandler()}onLearnMoreClickHandlerLink(){this.learnMoreLinkHandler()}onTermsAndConditionsClickHandlerLink(){this.termsAndConditionsLinkHandler()}generateTooltipOffsets(){var t;const e=null!==(t=this.caratSide)&&void 0!==t?t:so.Top;e!==so.Bottom&&e!==so.Top||!this.caratLeftOffset?e!==so.Left&&e!==so.Right||!this.caratTopOffset||this.style.setProperty("--carat-top-offset",this.caratTopOffset):this.style.setProperty("--carat-left-offset",this.caratLeftOffset)}connectedCallback(){super.connectedCallback(),(this.caratTopOffset||this.caratLeftOffset)&&this.generateTooltipOffsets(),this.width&&this.style.setProperty("--tooltip-width",this.width),this.addEventListener("keydown",(t=>{this.onKeypressHandler(t)}))}}Ay([wo],Rx.prototype,"header",void 0),Ay([wo],Rx.prototype,"content",void 0),Ay([wo],Rx.prototype,"contentLength",void 0),Ay([wo],Rx.prototype,"contentElement",void 0),Ay([wo],Rx.prototype,"linkText",void 0),Ay([wo],Rx.prototype,"linkHandler",void 0),Ay([wo],Rx.prototype,"learnMoreText",void 0),Ay([wo],Rx.prototype,"learnMoreLinkHandler",void 0),Ay([wo],Rx.prototype,"termsAndConditionsText",void 0),Ay([wo],Rx.prototype,"termsAndConditionsLinkHandler",void 0),Ay([wo],Rx.prototype,"termsAndConditionsTip",void 0),Ay([wo],Rx.prototype,"caratSide",void 0),Ay([wo],Rx.prototype,"width",void 0),Ay([wo],Rx.prototype,"fontSize",void 0),Ay([wo],Rx.prototype,"caratLeftOffset",void 0),Ay([wo],Rx.prototype,"caratTopOffset",void 0),Ay([fo],Rx.prototype,"isVisible",void 0),Ay([fo],Rx.prototype,"isFocused",void 0),Ay([fo],Rx.prototype,"hasLink",void 0),Ay([fo],Rx.prototype,"isCjk",void 0);const Lx=Rx.compose({baseName:"shopping-tooltip",shadowOptions:{delegatesFocus:!0},styles:(t,e)=>Ey`
+    .title {
+        font-family: 'Segoe UI','Roboto', Helvetica, Verdana, sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 20px;
+        margin: 0px;
+        margin-bottom: 10px;
+        color: var(--neutral-foreground-rest);
+    }
+    .content {
+        font-family: 'Segoe UI','Roboto', Helvetica, Verdana, sans-serif;
+        line-height: 16px;
+        margin: 0px;
+        font-weight: 400;
+        color: var(--neutral-foreground-rest);
+    }
+    .link {
+        font-family: 'Segoe UI','Roboto', Helvetica, Verdana, sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 16px;
+        color: rgba(0, 0, 0, 0.5);
+        text-decoration: none;
+    }
+    .tooltip {
+        position: absolute;
+        background: var(--tooltip-background-color, #FFFFFF);
+        text-align: left;
+        box-shadow: 0px 12.8px 28.8px rgba(0, 0, 0, 0.13), 0px 0px 9.2px rgba(0, 0, 0, 0.11);
+        border-radius: 4px;
+        padding: 12px;
+        padding-bottom: 10px;
+        z-index: 900;
+        cursor: default;
+        width: var(--tooltip-width);
+        box-sizing: border-box;
+    }
+    .tooltip-cjk {
+        background: var(--tooltip-background-color, #FFFFFF);
+        text-align: left;
+        box-shadow: 0px 12.8px 28.8px rgba(0, 0, 0, 0.13), 0px 0px 9.2px rgba(0, 0, 0, 0.11);
+        border-radius: 4px;
+        padding: 12px;
+        padding-bottom: 10px;
+        z-index: 900;
+        cursor: default;
+        width: var(--tooltip-width);
+        box-sizing: border-box;
+    }
+    .tooltip.top {
+        margin-top: 18px;
+        margin-left: calc(var(--carat-left-offset, calc(var(--tooltip-width) / 2)) * -1 - 4px);
+    }
+    .tooltip.bottom {
+        margin-bottom: 18px;
+        margin-left: calc(var(--carat-left-offset, calc(var(--tooltip-width) / 2)) * -1 - 4px);
+        bottom: 0px;
+        left: 0px;
+    }
+    .tooltip.right {
+       

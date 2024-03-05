@@ -1,0 +1,14 @@
+package es.conexionHibernate;
+
+import org.hibernate.cfg.Configuration;
+
+
+public class GuardarClientePrueba {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SessionFactory miFactory = (TransactionFactory) new Configuration().configure("hibernate.cfg.xml").addAnnotatedClass(clientes.class).buildSessionFactory();
+		Session miSession = miFactory.
+	}
+
+}

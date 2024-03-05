@@ -1,0 +1,20 @@
+{
+	"id":3,
+	"nombre":"Juan",
+	"apellido":"Diaz",
+	"activo":true,
+	"idiomas":["Español", "Ingles", "Frances"],
+	
+	"datos_registro":{
+		"domicilio": "Gran Via 125 3ºB",
+		"ciudad":"Madrid",
+		"codigo_postal": "28005",
+		"pais":"España",
+		"fecha_alta": "25/02/2021"
+	},
+	
+	
+	"edad":"37"
+	
+	
+}

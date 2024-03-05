@@ -1,0 +1,5 @@
+package pildoras.es.dao;
+
+public class ClienteDAOclase {
+
+}

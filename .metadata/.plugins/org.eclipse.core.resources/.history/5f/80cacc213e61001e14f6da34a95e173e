@@ -1,0 +1,12 @@
+{
+  "actionCardSeeDetails": "詳細を見る",
+  "actionsAndUpcomingTitle": "アクションと今後の予定",
+  "addAPassword": "パスワードを追加する",
+  "addMembership": "メンバーシップの追加",
+  "addPassword": "パスワードの追加",
+  "address": "住所",
+  "all": "すべて",
+  "autoSignInToggleDescription": "保存されている資格情報を使用して Web サイトに自動的にサインインします。機能がオフになっている場合、Web サイトにサインインする前に毎回確認を求められます。",
+  "autoSignInToggleTitle": "自動サインイン",
+  "autofillAuthToggleDescription": "これがオンの場合、オートフィルを使用するたびに、生体認証または PIN で本人確認を行う必要があります。",
+  "autofillAuthToggleTi

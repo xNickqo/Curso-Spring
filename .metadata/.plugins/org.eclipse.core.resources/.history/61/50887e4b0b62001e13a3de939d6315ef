@@ -1,0 +1,12 @@
+NotificationEtreeNonEnrolledTitleV2": "Nous allons grandir en vert",
+  "msWalletNotificationFixLeakage": "Afficher les détails",
+  "msWalletNotificationHotelReservationBody": "La date de votre réservation à l’hôtel $1 de $2 à $3 approche.",
+  "msWalletNotificationHotelReservationTitle": "Prochaines installations",
+  "msWalletNotificationHotelReservationViewDetails": "Afficher les détails",
+  "msWalletNotificationLeakageTitle": "Fuite de mot de passe",
+  "msWalletNotificationOrderStatusTitle": "Statut de commande mis à jour",
+  "msWalletNotificationPOMessage": "L’offre Microsoft Cashback de $1 que vous avez sélectionnée expire dans $2",
+  "msWalletNotificationPOTitle": "Offre expirant bientôt",
+  "msWalletNotificationPasswordCompromiseBody": "Des mots de passe à $1 sont apparus dans une fuite de données.",
+  "msWalletNotificationPasswordCompromiseBodySingular": "1 mot de passe est apparu dans une fuite de données.",
+  "msWalletNotificationPasswordCompromise

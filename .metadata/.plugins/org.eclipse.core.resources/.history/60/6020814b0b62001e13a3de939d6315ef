@@ -1,0 +1,16 @@
+{
+  "activateVirtualCardButtonText": "Activer la carte virtuelle",
+  "featurePromotionActionLinkText": "Essayer maintenant",
+  "learnMoreLinkTextShort": "En savoir plus",
+  "membershipsDescription": "Restez organisé et gardez le contrôle.",
+  "membershipsPromotionTitle": "Gérer vos appartenances dans Portefeuille",
+  "msWalletNotificationCardExpired": "Votre carte a expiré",
+  "msWalletNotificationCardExpiring": "Votre carte va bientôt expirer",
+  "msWalletNotificationCardTokenizationEligibleDescription": "Les cartes virtuelles sont des identifiants de paiement à usage unique qui sont générés aléatoirement à chaque fois que vous effectuez un achat en ligne. Vous êtes ainsi assuré que votre carte $1 est protégée.",
+  "msWalletNotificationCardTokenizationEligibleHeader": "Protégez les détails de votre carte",
+  "msWalletNotificationCardTokenizationEligibleIntroduction": "Configurez une carte virtuelle pour rendre les achats en ligne plus sûrs et plus pratiques.",
+  "msWalletNotificationCardTokenizationEligibleIntroductionForRewards": "Configurez une carte virtuelle pour effectuer vos achats en ligne de façon sécuritaire et gagner 20 points Microsoft Rewards.",
+  "msWalletNotificationCardTokenizationEligibleSetUpText": "Configurer pour $1",
+  "msWalletNotificationCardTokenizationEligibleTitle": "Protégez vos achats avec des cartes virtuelles",
+  "msWalletNotificationCryptowalletJoinButton": "Configuration",
+  "msWalletNotificationCryptowalletS

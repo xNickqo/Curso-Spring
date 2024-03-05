@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<table>
+	<tr>	
+		<th>Nombre</th>
+		<th>Apellido</th>
+		<th>Email</th>
+	</tr>
+	
+	<c:forEach var="clienteTemp" items="${clientes }">
+		<tr>
+			<td>${clienteTemp.nombre }</td>
+			<td>${clienteTemp.apellido }</td>
+			<td>${clienteTemp.email }</td>
+		</tr>
+	</c:forEach>
+</table>
+
+</body>
+</html>

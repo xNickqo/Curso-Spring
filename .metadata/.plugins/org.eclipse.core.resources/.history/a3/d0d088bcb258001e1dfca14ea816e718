@@ -1,0 +1,5 @@
+package es.pruebaAnnotations;
+
+public @interface Autowired {
+
+}

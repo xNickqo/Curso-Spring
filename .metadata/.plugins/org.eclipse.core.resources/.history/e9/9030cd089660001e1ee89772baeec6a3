@@ -1,0 +1,12 @@
+package es.conexionHibernate;
+
+import org.Hibernate.SessionFactory;
+
+public class GuardarClientePrueba {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		SessionFactory miFactory = new Configuration():
+	}
+
+}

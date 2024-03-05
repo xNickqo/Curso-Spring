@@ -1,0 +1,17 @@
+2024-01-09 22:42:57.024 [CORE] Valid settings file not found. Using default values.
+2024-01-09 22:42:57.025 [CORE] WinGet, version [1.6.3482], activity [{24F51DB0-F3F0-4836-A78C-6BAA9744BB35}]
+2024-01-09 22:42:57.025 [CORE] OS: Windows.Desktop v10.0.19045.3803
+2024-01-09 22:42:57.025 [CORE] Command line Args: "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe" -Embedding
+2024-01-09 22:42:57.025 [CORE] Package: Microsoft.DesktopAppInstaller v1.21.3482.0
+2024-01-09 22:42:57.025 [CORE] IsCOMCall:1; Caller: C:\Windows\explorer.exe
+2024-01-09 22:42:57.044 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2024-01-09 22:42:57.110 [REPO] Response status: 200
+2024-01-09 22:42:57.111 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2024-01-09 22:42:57.122 [REPO] Response status: 200
+2024-01-09 22:42:57.126 [REPO] Creating new SQLite Index with version [Latest] at ':memory:'
+2024-01-09 22:42:57.126 [SQL ] Opening SQLite connection #1: ':memory:' [6, 0]
+2024-01-09 22:42:57.163 [REPO] Reading MSI UpgradeCodes
+2024-01-09 22:42:57.249 [REPO] Reading MSI UpgradeCodes
+2024-01-09 22:42:57.294 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFD041D597D: (caller: 00007FFD041DBE09) Exception(1) tid(badc) 800700B7 No se puede crear un archivo que ya existe.
+
+2024-01-09 22:42:57.298 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007F

@@ -1,0 +1,5 @@
+package es.conexionHibernate;
+
+public class pedido {
+
+}

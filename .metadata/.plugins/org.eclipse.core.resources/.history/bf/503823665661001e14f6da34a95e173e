@@ -1,0 +1,9 @@
+external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFD041D597D: (caller: 00007FFD041DBE09) Exception(11) tid(badc) 800700B7 No se puede crear un archivo que ya existe.
+
+2024-01-09 22:42:57.388 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFD041D597D: (caller: 00007FFD041DBE09) Exception(12) tid(badc) 800700B7 No se puede crear un archivo que ya existe.
+
+2024-01-09 22:42:57.392 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFD041D597D: (caller: 00007FFD041DBE09) Exception(13) tid(badc) 800700B7 No se puede crear un archivo que ya existe.
+
+2024-01-09 22:42:57.397 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFD041D597D: (caller: 00007FFD041DBE09) Exception(14) tid(badc) 800700B7 No se puede crear un archivo que ya existe.
+
+2024-01-09 22:42:57.404 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPa

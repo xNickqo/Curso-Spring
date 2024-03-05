@@ -1,0 +1,7 @@
+package pildoras.es.dao;
+
+public interface ClienteDAO {
+	
+	public List<Cliente> getClientes();
+	
+}
